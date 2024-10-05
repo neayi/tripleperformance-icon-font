@@ -8,7 +8,7 @@ https://neayi.github.io/tripleperformance-icon-font/style.css
 To use, just add the following code to your page:
 
 ```
-<link rel="stylesheet" href="https://neayi.github.io/tripleperformance-icon-font/style.css"></head>
+<link rel="stylesheet" href="https://neayi.github.io/tripleperformance-icon-font/style.css" />
 ```
 
 https://neayi.github.io/tripleperformance-icon-font/demo.html
