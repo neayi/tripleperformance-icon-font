@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="9.000001"
+   height="5.031251"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3345">
+      <rect
+         width="109"
+         height="80"
+         x="222"
+         y="101"
+         id="rect2227" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2027">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Departements of France</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <style
+     type="text/css"
+     id="style6"><![CDATA[
+.land
+{
+	stroke:white;
+	stroke-width:0;
+}
+]]></style>
+  <g
+     id="complete_map"
+     transform="translate(-45.499999,-47.484374)">
+    <path
+       d="m 280.28125,129.0625 -2.53125,0.0312 -1.125,0.5 -0.46875,0.625 -1.03125,0.0625 -0.9375,1.0625 0.0312,0.59375 0.21875,0.6875 1.5625,0.4375 1.90625,0.96875 1.21875,0.0625 0.8125,-0.21875 0.84375,-0.59375 0.28125,0.25 1.8125,0.25 0.3125,-0.65625 v -0.65625 l -0.3125,-0.125 -1.25,0.0625 0.0937,0.3125 -0.21875,0.1875 h -0.40625 L 281.25,132.5 l 0.0625,-0.4375 H 281.25 l -0.15625,-1.75 z"
+       class="land departement75"
+       id="departement"
+       transform="translate(-228.6875,-81.578125)" />
+    <rect
+       x="0"
+       y="0"
+       width="100"
+       height="100"
+       style="fill:none"
+       id="rect9" />
+  </g>
+</svg>

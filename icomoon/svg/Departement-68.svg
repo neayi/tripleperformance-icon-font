@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="28.375002"
+   height="50.28125"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3345">
+      <rect
+         width="109"
+         height="80"
+         x="222"
+         y="101"
+         id="rect2227" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2027">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Departements of France</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <style
+     type="text/css"
+     id="style6"><![CDATA[
+.land
+{
+	stroke:white;
+	stroke-width:0;
+}
+]]></style>
+  <g
+     id="complete_map"
+     transform="translate(-35.812499,-24.859374)">
+    <path
+       d="m 465.59375,156.53125 -2.9375,0.15625 -1.84375,4.15625 -2.34375,4.6875 0.59375,2.9375 -1.9375,4.5 -3.34375,2.90625 -0.1875,7.625 -2.4375,2.09375 0.0937,0.0625 0.78125,1.5625 3.125,0.1875 3.53125,2.75 0.5625,1.34375 -0.1875,2.34375 -0.96875,1.78125 0.375,2.34375 2.75,-0.40625 0.59375,2.15625 0.96875,4.15625 2.3125,-0.375 -0.40625,2.125 1.375,1.1875 7.21875,-0.1875 3.71875,-2.9375 0.1875,-4.3125 1.96875,-2.53125 -2.5625,-2.9375 -1.34375,-3.125 1.5625,-2.125 V 183.75 l 0.96875,-2.34375 V 177.5 l 1.75,-2.53125 -1.9375,-2.71875 -0.1875,-5.625 -3,-1.3125 -1.71875,-4.96875 -3.84375,0.1875 -1.53125,-1.90625 z"
+       class="land departement68"
+       id="departement"
+       transform="translate(-415.34375,-131.67187)" />
+    <rect
+       x="0"
+       y="0"
+       width="100"
+       height="100"
+       style="fill:none"
+       id="rect9" />
+  </g>
+</svg>

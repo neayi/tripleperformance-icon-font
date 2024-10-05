@@ -1,0 +1,15 @@
+{
+    "name": "neayi/tripleperformance-iconfont",
+    "description": "An iconfont for using on the Triple Performance platform",
+    "type": "project",
+    "require": {
+        "meyfa/php-svg": "^0.16.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bertrand Gorge",
+            "email": "bertrand.gorge@neayi.com"
+        }
+    ]
+}

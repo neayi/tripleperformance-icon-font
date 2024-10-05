@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="66.03125"
+   height="66.46875"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3345">
+      <rect
+         width="109"
+         height="80"
+         x="222"
+         y="101"
+         id="rect2227" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata2027">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Departements of France</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <style
+     type="text/css"
+     id="style6"><![CDATA[
+.land
+{
+	stroke:white;
+	stroke-width:0;
+}
+]]></style>
+  <g
+     id="complete_map"
+     transform="translate(-16.984374,-16.765624)">
+    <path
+       d="m 397.90625,298.6875 -1.28125,1.5 -1.28125,3.8125 -2.5625,1.28125 -2.75,-2.5625 H 388.125 l -0.21875,2.78125 2.78125,2.34375 -4.25,5.5 -5.53125,1.28125 -4.25,1.5 2.75,2.75 0.65625,1.28125 -4.25,2.125 -0.4375,6.15625 -0.125,0.0625 1.1875,2.46875 3.40625,1.0625 2.34375,-0.84375 2.75,-1.90625 3.625,2.96875 h 2.96875 l 2.125,2.96875 -0.875,2.125 0.4375,3 -1.0625,2.96875 0.4375,1.0625 1.46875,-0.4375 3.40625,1.0625 4.46875,1.28125 1.90625,-1.28125 0.84375,-1.46875 h 0.65625 l 0.1875,15.90625 1.0625,1.0625 h 2.78125 l 2.53125,1.5 1.90625,1.5 1.9375,0.1875 1.25,1.0625 3.53125,0.40625 0.25,-0.59375 -1.5625,-0.78125 v -2.34375 h 4.875 l 1.5625,-1.5625 -0.96875,-1.75 2.53125,-1.96875 1.78125,0.78125 2.53125,-2.15625 4.46875,0.78125 1.5625,-1.75 3.71875,0.1875 v -4.28125 l -1.5625,-0.78125 -0.78125,-2.53125 L 434.84375,346 434.25,345.03125 l 0.78125,-4.09375 1.375,-1.1875 -1.125,-1.53125 -2.125,-1.28125 -1.28125,1.28125 0.4375,-1.71875 v -1.6875 l -1.71875,-1.71875 0.875,-4.03125 1.90625,-1.0625 -0.21875,-2.75 -4.03125,-4.03125 h -1.5 l -1.0625,1.46875 -2.53125,-3.375 -1.5,0.1875 -1.28125,2.78125 0.875,1.6875 -0.65625,0.65625 -1.6875,-1.28125 -4.90625,-1.0625 -2.3125,-4.25 v -1.71875 l -2.34375,-2.53125 -0.25,-1.09375 -7.8125,-9.53125 -0.875,-2.75 -1.6875,-1.5 z"
+       class="land departement38"
+       id="departement"
+       transform="translate(-358.26562,-281.92187)" />
+    <rect
+       x="0"
+       y="0"
+       width="100"
+       height="100"
+       style="fill:none"
+       id="rect9" />
+  </g>
+</svg>
