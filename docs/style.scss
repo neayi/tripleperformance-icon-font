@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lkmw5v');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lkmw5v#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lkmw5v') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lkmw5v') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lkmw5v##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?j092w1');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?j092w1#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?j092w1') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?j092w1') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?j092w1##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,1062 +27,74 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.tp-Departement-01 {
+.tp-Tomate {
   &:before {
-    content: $tp-Departement-01; 
+    content: $tp-Tomate; 
   }
 }
-.tp-Departement-02 {
+.tp-Tournesol {
   &:before {
-    content: $tp-Departement-02; 
+    content: $tp-Tournesol; 
   }
 }
-.tp-Departement-2A {
+.tp-Transformation-a-la-ferme-des-poulets-de-chair {
   &:before {
-    content: $tp-Departement-2A; 
+    content: $tp-Transformation-a-la-ferme-des-poulets-de-chair; 
   }
 }
-.tp-Departement-2B {
+.tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre {
   &:before {
-    content: $tp-Departement-2B; 
+    content: $tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre; 
   }
 }
-.tp-Departement-03 {
+.tp-Transformation-a-la-ferme-des-produits-laitiers {
   &:before {
-    content: $tp-Departement-03; 
+    content: $tp-Transformation-a-la-ferme-des-produits-laitiers; 
   }
 }
-.tp-Departement-04 {
+.tp-Transformation-a-la-ferme-en-elevage-ovin-viande {
   &:before {
-    content: $tp-Departement-04; 
+    content: $tp-Transformation-a-la-ferme-en-elevage-ovin-viande; 
   }
 }
-.tp-Departement-05 {
+.tp-Trefle {
   &:before {
-    content: $tp-Departement-05; 
+    content: $tp-Trefle; 
   }
 }
-.tp-Departement-06 {
+.tp-Type-Sol {
   &:before {
-    content: $tp-Departement-06; 
+    content: $tp-Type-Sol; 
   }
 }
-.tp-Departement-07 {
+.tp-UTH {
   &:before {
-    content: $tp-Departement-07; 
+    content: $tp-UTH; 
   }
 }
-.tp-Departement-08 {
+.tp-Virus {
   &:before {
-    content: $tp-Departement-08; 
+    content: $tp-Virus; 
   }
 }
-.tp-Departement-09 {
+.tp-Viticulture {
   &:before {
-    content: $tp-Departement-09; 
+    content: $tp-Viticulture; 
   }
 }
-.tp-Departement-10 {
+.tp-Vitiforesterie {
   &:before {
-    content: $tp-Departement-10; 
+    content: $tp-Vitiforesterie; 
   }
 }
-.tp-Departement-11 {
+.tp-Wallonie {
   &:before {
-    content: $tp-Departement-11; 
+    content: $tp-Wallonie; 
   }
 }
-.tp-Departement-12 {
+.tp-Zone-vulnerable {
   &:before {
-    content: $tp-Departement-12; 
-  }
-}
-.tp-Departement-13 {
-  &:before {
-    content: $tp-Departement-13; 
-  }
-}
-.tp-Departement-14 {
-  &:before {
-    content: $tp-Departement-14; 
-  }
-}
-.tp-Departement-15 {
-  &:before {
-    content: $tp-Departement-15; 
-  }
-}
-.tp-Departement-16 {
-  &:before {
-    content: $tp-Departement-16; 
-  }
-}
-.tp-Departement-17 {
-  &:before {
-    content: $tp-Departement-17; 
-  }
-}
-.tp-Departement-18 {
-  &:before {
-    content: $tp-Departement-18; 
-  }
-}
-.tp-Departement-19 {
-  &:before {
-    content: $tp-Departement-19; 
-  }
-}
-.tp-Departement-21 {
-  &:before {
-    content: $tp-Departement-21; 
-  }
-}
-.tp-Departement-22 {
-  &:before {
-    content: $tp-Departement-22; 
-  }
-}
-.tp-Departement-23 {
-  &:before {
-    content: $tp-Departement-23; 
-  }
-}
-.tp-Departement-24 {
-  &:before {
-    content: $tp-Departement-24; 
-  }
-}
-.tp-Departement-25 {
-  &:before {
-    content: $tp-Departement-25; 
-  }
-}
-.tp-Departement-26 {
-  &:before {
-    content: $tp-Departement-26; 
-  }
-}
-.tp-Departement-27 {
-  &:before {
-    content: $tp-Departement-27; 
-  }
-}
-.tp-Departement-28 {
-  &:before {
-    content: $tp-Departement-28; 
-  }
-}
-.tp-Departement-29 {
-  &:before {
-    content: $tp-Departement-29; 
-  }
-}
-.tp-Departement-30 {
-  &:before {
-    content: $tp-Departement-30; 
-  }
-}
-.tp-Departement-31 {
-  &:before {
-    content: $tp-Departement-31; 
-  }
-}
-.tp-Departement-32 {
-  &:before {
-    content: $tp-Departement-32; 
-  }
-}
-.tp-Departement-33 {
-  &:before {
-    content: $tp-Departement-33; 
-  }
-}
-.tp-Departement-34 {
-  &:before {
-    content: $tp-Departement-34; 
-  }
-}
-.tp-Departement-35 {
-  &:before {
-    content: $tp-Departement-35; 
-  }
-}
-.tp-Departement-36 {
-  &:before {
-    content: $tp-Departement-36; 
-  }
-}
-.tp-Departement-37 {
-  &:before {
-    content: $tp-Departement-37; 
-  }
-}
-.tp-Departement-38 {
-  &:before {
-    content: $tp-Departement-38; 
-  }
-}
-.tp-Departement-39 {
-  &:before {
-    content: $tp-Departement-39; 
-  }
-}
-.tp-Departement-40 {
-  &:before {
-    content: $tp-Departement-40; 
-  }
-}
-.tp-Departement-41 {
-  &:before {
-    content: $tp-Departement-41; 
-  }
-}
-.tp-Departement-42 {
-  &:before {
-    content: $tp-Departement-42; 
-  }
-}
-.tp-Departement-43 {
-  &:before {
-    content: $tp-Departement-43; 
-  }
-}
-.tp-Departement-44 {
-  &:before {
-    content: $tp-Departement-44; 
-  }
-}
-.tp-Departement-45 {
-  &:before {
-    content: $tp-Departement-45; 
-  }
-}
-.tp-Departement-46 {
-  &:before {
-    content: $tp-Departement-46; 
-  }
-}
-.tp-Departement-47 {
-  &:before {
-    content: $tp-Departement-47; 
-  }
-}
-.tp-Departement-48 {
-  &:before {
-    content: $tp-Departement-48; 
-  }
-}
-.tp-Departement-49 {
-  &:before {
-    content: $tp-Departement-49; 
-  }
-}
-.tp-Departement-50 {
-  &:before {
-    content: $tp-Departement-50; 
-  }
-}
-.tp-Departement-51 {
-  &:before {
-    content: $tp-Departement-51; 
-  }
-}
-.tp-Departement-52 {
-  &:before {
-    content: $tp-Departement-52; 
-  }
-}
-.tp-Departement-53 {
-  &:before {
-    content: $tp-Departement-53; 
-  }
-}
-.tp-Departement-54 {
-  &:before {
-    content: $tp-Departement-54; 
-  }
-}
-.tp-Departement-55 {
-  &:before {
-    content: $tp-Departement-55; 
-  }
-}
-.tp-Departement-56 {
-  &:before {
-    content: $tp-Departement-56; 
-  }
-}
-.tp-Departement-57 {
-  &:before {
-    content: $tp-Departement-57; 
-  }
-}
-.tp-Departement-58 {
-  &:before {
-    content: $tp-Departement-58; 
-  }
-}
-.tp-Departement-59 {
-  &:before {
-    content: $tp-Departement-59; 
-  }
-}
-.tp-Departement-60 {
-  &:before {
-    content: $tp-Departement-60; 
-  }
-}
-.tp-Departement-61 {
-  &:before {
-    content: $tp-Departement-61; 
-  }
-}
-.tp-Departement-62 {
-  &:before {
-    content: $tp-Departement-62; 
-  }
-}
-.tp-Departement-63 {
-  &:before {
-    content: $tp-Departement-63; 
-  }
-}
-.tp-Departement-64 {
-  &:before {
-    content: $tp-Departement-64; 
-  }
-}
-.tp-Departement-65 {
-  &:before {
-    content: $tp-Departement-65; 
-  }
-}
-.tp-Departement-66 {
-  &:before {
-    content: $tp-Departement-66; 
-  }
-}
-.tp-Departement-67 {
-  &:before {
-    content: $tp-Departement-67; 
-  }
-}
-.tp-Departement-68 {
-  &:before {
-    content: $tp-Departement-68; 
-  }
-}
-.tp-Departement-69 {
-  &:before {
-    content: $tp-Departement-69; 
-  }
-}
-.tp-Departement-70 {
-  &:before {
-    content: $tp-Departement-70; 
-  }
-}
-.tp-Departement-71 {
-  &:before {
-    content: $tp-Departement-71; 
-  }
-}
-.tp-Departement-72 {
-  &:before {
-    content: $tp-Departement-72; 
-  }
-}
-.tp-Departement-73 {
-  &:before {
-    content: $tp-Departement-73; 
-  }
-}
-.tp-Departement-74 {
-  &:before {
-    content: $tp-Departement-74; 
-  }
-}
-.tp-Departement-75 {
-  &:before {
-    content: $tp-Departement-75; 
-  }
-}
-.tp-Departement-76 {
-  &:before {
-    content: $tp-Departement-76; 
-  }
-}
-.tp-Departement-77 {
-  &:before {
-    content: $tp-Departement-77; 
-  }
-}
-.tp-Departement-78 {
-  &:before {
-    content: $tp-Departement-78; 
-  }
-}
-.tp-Departement-79 {
-  &:before {
-    content: $tp-Departement-79; 
-  }
-}
-.tp-Departement-80 {
-  &:before {
-    content: $tp-Departement-80; 
-  }
-}
-.tp-Departement-81 {
-  &:before {
-    content: $tp-Departement-81; 
-  }
-}
-.tp-Departement-82 {
-  &:before {
-    content: $tp-Departement-82; 
-  }
-}
-.tp-Departement-83 {
-  &:before {
-    content: $tp-Departement-83; 
-  }
-}
-.tp-Departement-84 {
-  &:before {
-    content: $tp-Departement-84; 
-  }
-}
-.tp-Departement-85 {
-  &:before {
-    content: $tp-Departement-85; 
-  }
-}
-.tp-Departement-86 {
-  &:before {
-    content: $tp-Departement-86; 
-  }
-}
-.tp-Departement-87 {
-  &:before {
-    content: $tp-Departement-87; 
-  }
-}
-.tp-Departement-88 {
-  &:before {
-    content: $tp-Departement-88; 
-  }
-}
-.tp-Departement-89 {
-  &:before {
-    content: $tp-Departement-89; 
-  }
-}
-.tp-Departement-90 {
-  &:before {
-    content: $tp-Departement-90; 
-  }
-}
-.tp-Departement-91 {
-  &:before {
-    content: $tp-Departement-91; 
-  }
-}
-.tp-Departement-92 {
-  &:before {
-    content: $tp-Departement-92; 
-  }
-}
-.tp-Departement-93 {
-  &:before {
-    content: $tp-Departement-93; 
-  }
-}
-.tp-Departement-94 {
-  &:before {
-    content: $tp-Departement-94; 
-  }
-}
-.tp-Departement-95 {
-  &:before {
-    content: $tp-Departement-95; 
-  }
-}
-.tp-Abricot {
-  &:before {
-    content: $tp-Abricot; 
-  }
-}
-.tp-Acariens {
-  &:before {
-    content: $tp-Acariens; 
-  }
-}
-.tp-ACS {
-  &:before {
-    content: $tp-ACS; 
-  }
-}
-.tp-Adventices {
-  &:before {
-    content: $tp-Adventices; 
-  }
-}
-.tp-Agriculture-bio {
-  &:before {
-    content: $tp-Agriculture-bio; 
-  }
-}
-.tp-Agriculture-conventionnelle {
-  &:before {
-    content: $tp-Agriculture-conventionnelle; 
-  }
-}
-.tp-Agriculture-de-precision {
-  &:before {
-    content: $tp-Agriculture-de-precision; 
-  }
-}
-.tp-Agriculture-hors-sol {
-  &:before {
-    content: $tp-Agriculture-hors-sol; 
-  }
-}
-.tp-Agriculture-integree {
-  &:before {
-    content: $tp-Agriculture-integree; 
-  }
-}
-.tp-Agriculture-raisonnee {
-  &:before {
-    content: $tp-Agriculture-raisonnee; 
-  }
-}
-.tp-Agrivoltaisme {
-  &:before {
-    content: $tp-Agrivoltaisme; 
-  }
-}
-.tp-Agroforesterie {
-  &:before {
-    content: $tp-Agroforesterie; 
-  }
-}
-.tp-Agroforesterie-GC {
-  &:before {
-    content: $tp-Agroforesterie-GC; 
-  }
-}
-.tp-Agroforesterie-Maraichage {
-  &:before {
-    content: $tp-Agroforesterie-Maraichage; 
-  }
-}
-.tp-Ail {
-  &:before {
-    content: $tp-Ail; 
-  }
-}
-.tp-Amande {
-  &:before {
-    content: $tp-Amande; 
-  }
-}
-.tp-Amarante {
-  &:before {
-    content: $tp-Amarante; 
-  }
-}
-.tp-Aneth {
-  &:before {
-    content: $tp-Aneth; 
-  }
-}
-.tp-Apiculture {
-  &:before {
-    content: $tp-Apiculture; 
-  }
-}
-.tp-Approche-redox {
-  &:before {
-    content: $tp-Approche-redox; 
-  }
-}
-.tp-Arachide {
-  &:before {
-    content: $tp-Arachide; 
-  }
-}
-.tp-Arboriculture {
-  &:before {
-    content: $tp-Arboriculture; 
-  }
-}
-.tp-Artichaut {
-  &:before {
-    content: $tp-Artichaut; 
-  }
-}
-.tp-Association-de-culture {
-  &:before {
-    content: $tp-Association-de-culture; 
-  }
-}
-.tp-Aubergine {
-  &:before {
-    content: $tp-Aubergine; 
-  }
-}
-.tp-Auto-fertilite-du-sol {
-  &:before {
-    content: $tp-Auto-fertilite-du-sol; 
-  }
-}
-.tp-Autonomie-en-MO {
-  &:before {
-    content: $tp-Autonomie-en-MO; 
-  }
-}
-.tp-Autonomie-en-proteines {
-  &:before {
-    content: $tp-Autonomie-en-proteines; 
-  }
-}
-.tp-Aviculture {
-  &:before {
-    content: $tp-Aviculture; 
-  }
-}
-.tp-Aviculture-oeufs {
-  &:before {
-    content: $tp-Aviculture-oeufs; 
-  }
-}
-.tp-Bacteries {
-  &:before {
-    content: $tp-Bacteries; 
-  }
-}
-.tp-Bambou {
-  &:before {
-    content: $tp-Bambou; 
-  }
-}
-.tp-Banane {
-  &:before {
-    content: $tp-Banane; 
-  }
-}
-.tp-Basilique {
-  &:before {
-    content: $tp-Basilique; 
-  }
-}
-.tp-Batiments-delevage {
-  &:before {
-    content: $tp-Batiments-delevage; 
-  }
-}
-.tp-Benin {
-  &:before {
-    content: $tp-Benin; 
-  }
-}
-.tp-Betterave {
-  &:before {
-    content: $tp-Betterave; 
-  }
-}
-.tp-Biodiversite {
-  &:before {
-    content: $tp-Biodiversite; 
-  }
-}
-.tp-Biodynamie-Demeter .path1 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path1;  
-    color: rgb(133, 153, 201);
-  }
-}
-.tp-Biodynamie-Demeter .path2 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path2;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path3 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path3;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path4 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path4;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path5 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path5;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path6 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path6;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path7 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path7;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path8 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path8;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path9 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path9;  
-    margin-left: -1em;  
-    color: rgb(255, 255, 255);
-  }
-}
-.tp-Biodynamie-Demeter .path10 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path10;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path11 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path11;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path12 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path12;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path13 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path13;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path14 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path14;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path15 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path15;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path16 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path16;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path17 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path17;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path18 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path18;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path19 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path19;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path20 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path20;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path21 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path21;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path22 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path22;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path23 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path23;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path24 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path24;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path25 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path25;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path26 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path26;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path27 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path27;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path28 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path28;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path29 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path29;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path30 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path30;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path31 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path31;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Biodynamie-Demeter .path32 {
-  &:before {
-    content: $tp-Biodynamie-Demeter-path32;  
-    margin-left: -1em;  
-    color: rgb(0, 0, 0);
-  }
-}
-.tp-Bromes {
-  &:before {
-    content: $tp-Bromes; 
-  }
-}
-.tp-Cacao {
-  &:before {
-    content: $tp-Cacao; 
-  }
-}
-.tp-Cahier-des-charges {
-  &:before {
-    content: $tp-Cahier-des-charges; 
-  }
-}
-.tp-Canard {
-  &:before {
-    content: $tp-Canard; 
-  }
-}
-.tp-Canne-a-sucre {
-  &:before {
-    content: $tp-Canne-a-sucre; 
-  }
-}
-.tp-Carotte {
-  &:before {
-    content: $tp-Carotte; 
-  }
-}
-.tp-Cassis {
-  &:before {
-    content: $tp-Cassis; 
-  }
-}
-.tp-Cereales {
-  &:before {
-    content: $tp-Cereales; 
-  }
-}
-.tp-Cerise {
-  &:before {
-    content: $tp-Cerise; 
-  }
-}
-.tp-Chataigne {
-  &:before {
-    content: $tp-Chataigne; 
-  }
-}
-.tp-Chia {
-  &:before {
-    content: $tp-Chia; 
-  }
-}
-.tp-Chou {
-  &:before {
-    content: $tp-Chou; 
-  }
-}
-.tp-Choux {
-  &:before {
-    content: $tp-Choux; 
-  }
-}
-.tp-Ciboulette {
-  &:before {
-    content: $tp-Ciboulette; 
-  }
-}
-.tp-Circuit-court {
-  &:before {
-    content: $tp-Circuit-court; 
-  }
-}
-.tp-Citron {
-  &:before {
-    content: $tp-Citron; 
-  }
-}
-.tp-Citronnelle {
-  &:before {
-    content: $tp-Citronnelle; 
-  }
-}
-.tp-Colza {
-  &:before {
-    content: $tp-Colza; 
-  }
-}
-.tp-Compaction {
-  &:before {
-    content: $tp-Compaction; 
-  }
-}
-.tp-Concombre {
-  &:before {
-    content: $tp-Concombre; 
-  }
-}
-.tp-Conventionnelle {
-  &:before {
-    content: $tp-Conventionnelle; 
-  }
-}
-.tp-Coriandre {
-  &:before {
-    content: $tp-Coriandre; 
-  }
-}
-.tp-Corossol {
-  &:before {
-    content: $tp-Corossol; 
-  }
-}
-.tp-Courge {
-  &:before {
-    content: $tp-Courge; 
-  }
-}
-.tp-Couverts-permanents {
-  &:before {
-    content: $tp-Couverts-permanents; 
-  }
-}
-.tp-Couverts-vegetaux {
-  &:before {
-    content: $tp-Couverts-vegetaux; 
-  }
-}
-.tp-Cultures-fourrageres {
-  &:before {
-    content: $tp-Cultures-fourrageres; 
-  }
-}
-.tp-Culture-sous-abri {
-  &:before {
-    content: $tp-Culture-sous-abri; 
-  }
-}
-.tp-Cultures-tropicales {
-  &:before {
-    content: $tp-Cultures-tropicales; 
-  }
-}
-.tp-Departement-972 {
-  &:before {
-    content: $tp-Departement-972; 
-  }
-}
-.tp-Departement-973 {
-  &:before {
-    content: $tp-Departement-973; 
-  }
-}
-.tp-Departement-974 {
-  &:before {
-    content: $tp-Departement-974; 
-  }
-}
-.tp-Departement-976 {
-  &:before {
-    content: $tp-Departement-976; 
+    content: $tp-Zone-vulnerable; 
   }
 }
 .tp-Desherbage {
@@ -1571,6 +583,11 @@
 .tp-Fenouil {
   &:before {
     content: $tp-Fenouil; 
+  }
+}
+.tp-Fenugrec {
+  &:before {
+    content: $tp-Fenugrec; 
   }
 }
 .tp-Fertilisation-ciblee {
@@ -2334,6 +1351,11 @@
     content: $tp-Methanisation; 
   }
 }
+.tp-Millet {
+  &:before {
+    content: $tp-Millet; 
+  }
+}
 .tp-Miscanthus {
   &:before {
     content: $tp-Miscanthus; 
@@ -2347,6 +1369,11 @@
 .tp-More {
   &:before {
     content: $tp-More; 
+  }
+}
+.tp-Moutarde {
+  &:before {
+    content: $tp-Moutarde; 
   }
 }
 .tp-Mycosylviculture {
@@ -3561,74 +2588,1062 @@
     content: $tp-TCS; 
   }
 }
-.tp-Tomate {
+.tp-Abricot {
   &:before {
-    content: $tp-Tomate; 
+    content: $tp-Abricot; 
   }
 }
-.tp-Tournesol {
+.tp-Acariens {
   &:before {
-    content: $tp-Tournesol; 
+    content: $tp-Acariens; 
   }
 }
-.tp-Transformation-a-la-ferme-des-poulets-de-chair {
+.tp-ACS {
   &:before {
-    content: $tp-Transformation-a-la-ferme-des-poulets-de-chair; 
+    content: $tp-ACS; 
   }
 }
-.tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre {
+.tp-Adventices {
   &:before {
-    content: $tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre; 
+    content: $tp-Adventices; 
   }
 }
-.tp-Transformation-a-la-ferme-des-produits-laitiers {
+.tp-Agriculture-bio {
   &:before {
-    content: $tp-Transformation-a-la-ferme-des-produits-laitiers; 
+    content: $tp-Agriculture-bio; 
   }
 }
-.tp-Transformation-a-la-ferme-en-elevage-ovin-viande {
+.tp-Agriculture-conventionnelle {
   &:before {
-    content: $tp-Transformation-a-la-ferme-en-elevage-ovin-viande; 
+    content: $tp-Agriculture-conventionnelle; 
   }
 }
-.tp-Trefle {
+.tp-Agriculture-de-precision {
   &:before {
-    content: $tp-Trefle; 
+    content: $tp-Agriculture-de-precision; 
   }
 }
-.tp-Type-Sol {
+.tp-Agriculture-hors-sol {
   &:before {
-    content: $tp-Type-Sol; 
+    content: $tp-Agriculture-hors-sol; 
   }
 }
-.tp-UTH {
+.tp-Agriculture-integree {
   &:before {
-    content: $tp-UTH; 
+    content: $tp-Agriculture-integree; 
   }
 }
-.tp-Virus {
+.tp-Agriculture-raisonnee {
   &:before {
-    content: $tp-Virus; 
+    content: $tp-Agriculture-raisonnee; 
   }
 }
-.tp-Viticulture {
+.tp-Agrivoltaisme {
   &:before {
-    content: $tp-Viticulture; 
+    content: $tp-Agrivoltaisme; 
   }
 }
-.tp-Vitiforesterie {
+.tp-Agroforesterie {
   &:before {
-    content: $tp-Vitiforesterie; 
+    content: $tp-Agroforesterie; 
   }
 }
-.tp-Wallonie {
+.tp-Agroforesterie-GC {
   &:before {
-    content: $tp-Wallonie; 
+    content: $tp-Agroforesterie-GC; 
   }
 }
-.tp-Zone-vulnerable {
+.tp-Agroforesterie-Maraichage {
   &:before {
-    content: $tp-Zone-vulnerable; 
+    content: $tp-Agroforesterie-Maraichage; 
+  }
+}
+.tp-Ail {
+  &:before {
+    content: $tp-Ail; 
+  }
+}
+.tp-Amande {
+  &:before {
+    content: $tp-Amande; 
+  }
+}
+.tp-Amarante {
+  &:before {
+    content: $tp-Amarante; 
+  }
+}
+.tp-Aneth {
+  &:before {
+    content: $tp-Aneth; 
+  }
+}
+.tp-Apiculture {
+  &:before {
+    content: $tp-Apiculture; 
+  }
+}
+.tp-Approche-redox {
+  &:before {
+    content: $tp-Approche-redox; 
+  }
+}
+.tp-Arachide {
+  &:before {
+    content: $tp-Arachide; 
+  }
+}
+.tp-Arboriculture {
+  &:before {
+    content: $tp-Arboriculture; 
+  }
+}
+.tp-Artichaut {
+  &:before {
+    content: $tp-Artichaut; 
+  }
+}
+.tp-Association-de-culture {
+  &:before {
+    content: $tp-Association-de-culture; 
+  }
+}
+.tp-Aubergine {
+  &:before {
+    content: $tp-Aubergine; 
+  }
+}
+.tp-Auto-fertilite-du-sol {
+  &:before {
+    content: $tp-Auto-fertilite-du-sol; 
+  }
+}
+.tp-Autonomie-en-MO {
+  &:before {
+    content: $tp-Autonomie-en-MO; 
+  }
+}
+.tp-Autonomie-en-proteines {
+  &:before {
+    content: $tp-Autonomie-en-proteines; 
+  }
+}
+.tp-Aviculture {
+  &:before {
+    content: $tp-Aviculture; 
+  }
+}
+.tp-Aviculture-oeufs {
+  &:before {
+    content: $tp-Aviculture-oeufs; 
+  }
+}
+.tp-Bacteries {
+  &:before {
+    content: $tp-Bacteries; 
+  }
+}
+.tp-Bambou {
+  &:before {
+    content: $tp-Bambou; 
+  }
+}
+.tp-Banane {
+  &:before {
+    content: $tp-Banane; 
+  }
+}
+.tp-Basilique {
+  &:before {
+    content: $tp-Basilique; 
+  }
+}
+.tp-Batiments-delevage {
+  &:before {
+    content: $tp-Batiments-delevage; 
+  }
+}
+.tp-Benin {
+  &:before {
+    content: $tp-Benin; 
+  }
+}
+.tp-Betterave {
+  &:before {
+    content: $tp-Betterave; 
+  }
+}
+.tp-Biodiversite {
+  &:before {
+    content: $tp-Biodiversite; 
+  }
+}
+.tp-Biodynamie-Demeter .path1 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path1;  
+    color: rgb(133, 153, 201);
+  }
+}
+.tp-Biodynamie-Demeter .path2 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path3 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path4 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path5 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path6 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path6;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path7 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path7;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path8 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path8;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path9 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path9;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path10 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path10;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path11 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path12 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path12;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path13 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path14 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path15 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path16 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path17 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path18 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path19 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path20 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path21 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path22 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path23 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path23;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path24 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path24;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path25 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path25;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path26 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path26;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path27 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path27;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path28 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path28;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path29 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path29;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path30 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path30;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path31 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path31;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path32 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path32;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Bromes {
+  &:before {
+    content: $tp-Bromes; 
+  }
+}
+.tp-Cacao {
+  &:before {
+    content: $tp-Cacao; 
+  }
+}
+.tp-Cahier-des-charges {
+  &:before {
+    content: $tp-Cahier-des-charges; 
+  }
+}
+.tp-Canard {
+  &:before {
+    content: $tp-Canard; 
+  }
+}
+.tp-Canne-a-sucre {
+  &:before {
+    content: $tp-Canne-a-sucre; 
+  }
+}
+.tp-Carotte {
+  &:before {
+    content: $tp-Carotte; 
+  }
+}
+.tp-Cassis {
+  &:before {
+    content: $tp-Cassis; 
+  }
+}
+.tp-Cereales {
+  &:before {
+    content: $tp-Cereales; 
+  }
+}
+.tp-Cerise {
+  &:before {
+    content: $tp-Cerise; 
+  }
+}
+.tp-Chataigne {
+  &:before {
+    content: $tp-Chataigne; 
+  }
+}
+.tp-Chia {
+  &:before {
+    content: $tp-Chia; 
+  }
+}
+.tp-Chou {
+  &:before {
+    content: $tp-Chou; 
+  }
+}
+.tp-Choux {
+  &:before {
+    content: $tp-Choux; 
+  }
+}
+.tp-Ciboulette {
+  &:before {
+    content: $tp-Ciboulette; 
+  }
+}
+.tp-Circuit-court {
+  &:before {
+    content: $tp-Circuit-court; 
+  }
+}
+.tp-Citron {
+  &:before {
+    content: $tp-Citron; 
+  }
+}
+.tp-Citronnelle {
+  &:before {
+    content: $tp-Citronnelle; 
+  }
+}
+.tp-Colza {
+  &:before {
+    content: $tp-Colza; 
+  }
+}
+.tp-Compaction {
+  &:before {
+    content: $tp-Compaction; 
+  }
+}
+.tp-Concombre {
+  &:before {
+    content: $tp-Concombre; 
+  }
+}
+.tp-Conventionnelle {
+  &:before {
+    content: $tp-Conventionnelle; 
+  }
+}
+.tp-Coriandre {
+  &:before {
+    content: $tp-Coriandre; 
+  }
+}
+.tp-Corossol {
+  &:before {
+    content: $tp-Corossol; 
+  }
+}
+.tp-Courge {
+  &:before {
+    content: $tp-Courge; 
+  }
+}
+.tp-Couverts-permanents {
+  &:before {
+    content: $tp-Couverts-permanents; 
+  }
+}
+.tp-Couverts-vegetaux {
+  &:before {
+    content: $tp-Couverts-vegetaux; 
+  }
+}
+.tp-Cultures-fourrageres {
+  &:before {
+    content: $tp-Cultures-fourrageres; 
+  }
+}
+.tp-Culture-sous-abri {
+  &:before {
+    content: $tp-Culture-sous-abri; 
+  }
+}
+.tp-Cultures-tropicales {
+  &:before {
+    content: $tp-Cultures-tropicales; 
+  }
+}
+.tp-Departement-01 {
+  &:before {
+    content: $tp-Departement-01; 
+  }
+}
+.tp-Departement-02 {
+  &:before {
+    content: $tp-Departement-02; 
+  }
+}
+.tp-Departement-2A {
+  &:before {
+    content: $tp-Departement-2A; 
+  }
+}
+.tp-Departement-2B {
+  &:before {
+    content: $tp-Departement-2B; 
+  }
+}
+.tp-Departement-03 {
+  &:before {
+    content: $tp-Departement-03; 
+  }
+}
+.tp-Departement-04 {
+  &:before {
+    content: $tp-Departement-04; 
+  }
+}
+.tp-Departement-05 {
+  &:before {
+    content: $tp-Departement-05; 
+  }
+}
+.tp-Departement-06 {
+  &:before {
+    content: $tp-Departement-06; 
+  }
+}
+.tp-Departement-07 {
+  &:before {
+    content: $tp-Departement-07; 
+  }
+}
+.tp-Departement-08 {
+  &:before {
+    content: $tp-Departement-08; 
+  }
+}
+.tp-Departement-09 {
+  &:before {
+    content: $tp-Departement-09; 
+  }
+}
+.tp-Departement-10 {
+  &:before {
+    content: $tp-Departement-10; 
+  }
+}
+.tp-Departement-11 {
+  &:before {
+    content: $tp-Departement-11; 
+  }
+}
+.tp-Departement-12 {
+  &:before {
+    content: $tp-Departement-12; 
+  }
+}
+.tp-Departement-13 {
+  &:before {
+    content: $tp-Departement-13; 
+  }
+}
+.tp-Departement-14 {
+  &:before {
+    content: $tp-Departement-14; 
+  }
+}
+.tp-Departement-15 {
+  &:before {
+    content: $tp-Departement-15; 
+  }
+}
+.tp-Departement-16 {
+  &:before {
+    content: $tp-Departement-16; 
+  }
+}
+.tp-Departement-17 {
+  &:before {
+    content: $tp-Departement-17; 
+  }
+}
+.tp-Departement-18 {
+  &:before {
+    content: $tp-Departement-18; 
+  }
+}
+.tp-Departement-19 {
+  &:before {
+    content: $tp-Departement-19; 
+  }
+}
+.tp-Departement-21 {
+  &:before {
+    content: $tp-Departement-21; 
+  }
+}
+.tp-Departement-22 {
+  &:before {
+    content: $tp-Departement-22; 
+  }
+}
+.tp-Departement-23 {
+  &:before {
+    content: $tp-Departement-23; 
+  }
+}
+.tp-Departement-24 {
+  &:before {
+    content: $tp-Departement-24; 
+  }
+}
+.tp-Departement-25 {
+  &:before {
+    content: $tp-Departement-25; 
+  }
+}
+.tp-Departement-26 {
+  &:before {
+    content: $tp-Departement-26; 
+  }
+}
+.tp-Departement-27 {
+  &:before {
+    content: $tp-Departement-27; 
+  }
+}
+.tp-Departement-28 {
+  &:before {
+    content: $tp-Departement-28; 
+  }
+}
+.tp-Departement-29 {
+  &:before {
+    content: $tp-Departement-29; 
+  }
+}
+.tp-Departement-30 {
+  &:before {
+    content: $tp-Departement-30; 
+  }
+}
+.tp-Departement-31 {
+  &:before {
+    content: $tp-Departement-31; 
+  }
+}
+.tp-Departement-32 {
+  &:before {
+    content: $tp-Departement-32; 
+  }
+}
+.tp-Departement-33 {
+  &:before {
+    content: $tp-Departement-33; 
+  }
+}
+.tp-Departement-34 {
+  &:before {
+    content: $tp-Departement-34; 
+  }
+}
+.tp-Departement-35 {
+  &:before {
+    content: $tp-Departement-35; 
+  }
+}
+.tp-Departement-36 {
+  &:before {
+    content: $tp-Departement-36; 
+  }
+}
+.tp-Departement-37 {
+  &:before {
+    content: $tp-Departement-37; 
+  }
+}
+.tp-Departement-38 {
+  &:before {
+    content: $tp-Departement-38; 
+  }
+}
+.tp-Departement-39 {
+  &:before {
+    content: $tp-Departement-39; 
+  }
+}
+.tp-Departement-40 {
+  &:before {
+    content: $tp-Departement-40; 
+  }
+}
+.tp-Departement-41 {
+  &:before {
+    content: $tp-Departement-41; 
+  }
+}
+.tp-Departement-42 {
+  &:before {
+    content: $tp-Departement-42; 
+  }
+}
+.tp-Departement-43 {
+  &:before {
+    content: $tp-Departement-43; 
+  }
+}
+.tp-Departement-44 {
+  &:before {
+    content: $tp-Departement-44; 
+  }
+}
+.tp-Departement-45 {
+  &:before {
+    content: $tp-Departement-45; 
+  }
+}
+.tp-Departement-46 {
+  &:before {
+    content: $tp-Departement-46; 
+  }
+}
+.tp-Departement-47 {
+  &:before {
+    content: $tp-Departement-47; 
+  }
+}
+.tp-Departement-48 {
+  &:before {
+    content: $tp-Departement-48; 
+  }
+}
+.tp-Departement-49 {
+  &:before {
+    content: $tp-Departement-49; 
+  }
+}
+.tp-Departement-50 {
+  &:before {
+    content: $tp-Departement-50; 
+  }
+}
+.tp-Departement-51 {
+  &:before {
+    content: $tp-Departement-51; 
+  }
+}
+.tp-Departement-52 {
+  &:before {
+    content: $tp-Departement-52; 
+  }
+}
+.tp-Departement-53 {
+  &:before {
+    content: $tp-Departement-53; 
+  }
+}
+.tp-Departement-54 {
+  &:before {
+    content: $tp-Departement-54; 
+  }
+}
+.tp-Departement-55 {
+  &:before {
+    content: $tp-Departement-55; 
+  }
+}
+.tp-Departement-56 {
+  &:before {
+    content: $tp-Departement-56; 
+  }
+}
+.tp-Departement-57 {
+  &:before {
+    content: $tp-Departement-57; 
+  }
+}
+.tp-Departement-58 {
+  &:before {
+    content: $tp-Departement-58; 
+  }
+}
+.tp-Departement-59 {
+  &:before {
+    content: $tp-Departement-59; 
+  }
+}
+.tp-Departement-60 {
+  &:before {
+    content: $tp-Departement-60; 
+  }
+}
+.tp-Departement-61 {
+  &:before {
+    content: $tp-Departement-61; 
+  }
+}
+.tp-Departement-62 {
+  &:before {
+    content: $tp-Departement-62; 
+  }
+}
+.tp-Departement-63 {
+  &:before {
+    content: $tp-Departement-63; 
+  }
+}
+.tp-Departement-64 {
+  &:before {
+    content: $tp-Departement-64; 
+  }
+}
+.tp-Departement-65 {
+  &:before {
+    content: $tp-Departement-65; 
+  }
+}
+.tp-Departement-66 {
+  &:before {
+    content: $tp-Departement-66; 
+  }
+}
+.tp-Departement-67 {
+  &:before {
+    content: $tp-Departement-67; 
+  }
+}
+.tp-Departement-68 {
+  &:before {
+    content: $tp-Departement-68; 
+  }
+}
+.tp-Departement-69 {
+  &:before {
+    content: $tp-Departement-69; 
+  }
+}
+.tp-Departement-70 {
+  &:before {
+    content: $tp-Departement-70; 
+  }
+}
+.tp-Departement-71 {
+  &:before {
+    content: $tp-Departement-71; 
+  }
+}
+.tp-Departement-72 {
+  &:before {
+    content: $tp-Departement-72; 
+  }
+}
+.tp-Departement-73 {
+  &:before {
+    content: $tp-Departement-73; 
+  }
+}
+.tp-Departement-74 {
+  &:before {
+    content: $tp-Departement-74; 
+  }
+}
+.tp-Departement-75 {
+  &:before {
+    content: $tp-Departement-75; 
+  }
+}
+.tp-Departement-76 {
+  &:before {
+    content: $tp-Departement-76; 
+  }
+}
+.tp-Departement-77 {
+  &:before {
+    content: $tp-Departement-77; 
+  }
+}
+.tp-Departement-78 {
+  &:before {
+    content: $tp-Departement-78; 
+  }
+}
+.tp-Departement-79 {
+  &:before {
+    content: $tp-Departement-79; 
+  }
+}
+.tp-Departement-80 {
+  &:before {
+    content: $tp-Departement-80; 
+  }
+}
+.tp-Departement-81 {
+  &:before {
+    content: $tp-Departement-81; 
+  }
+}
+.tp-Departement-82 {
+  &:before {
+    content: $tp-Departement-82; 
+  }
+}
+.tp-Departement-83 {
+  &:before {
+    content: $tp-Departement-83; 
+  }
+}
+.tp-Departement-84 {
+  &:before {
+    content: $tp-Departement-84; 
+  }
+}
+.tp-Departement-85 {
+  &:before {
+    content: $tp-Departement-85; 
+  }
+}
+.tp-Departement-86 {
+  &:before {
+    content: $tp-Departement-86; 
+  }
+}
+.tp-Departement-87 {
+  &:before {
+    content: $tp-Departement-87; 
+  }
+}
+.tp-Departement-88 {
+  &:before {
+    content: $tp-Departement-88; 
+  }
+}
+.tp-Departement-89 {
+  &:before {
+    content: $tp-Departement-89; 
+  }
+}
+.tp-Departement-90 {
+  &:before {
+    content: $tp-Departement-90; 
+  }
+}
+.tp-Departement-91 {
+  &:before {
+    content: $tp-Departement-91; 
+  }
+}
+.tp-Departement-92 {
+  &:before {
+    content: $tp-Departement-92; 
+  }
+}
+.tp-Departement-93 {
+  &:before {
+    content: $tp-Departement-93; 
+  }
+}
+.tp-Departement-94 {
+  &:before {
+    content: $tp-Departement-94; 
+  }
+}
+.tp-Departement-95 {
+  &:before {
+    content: $tp-Departement-95; 
+  }
+}
+.tp-Departement-972 {
+  &:before {
+    content: $tp-Departement-972; 
+  }
+}
+.tp-Departement-973 {
+  &:before {
+    content: $tp-Departement-973; 
+  }
+}
+.tp-Departement-974 {
+  &:before {
+    content: $tp-Departement-974; 
+  }
+}
+.tp-Departement-976 {
+  &:before {
+    content: $tp-Departement-976; 
   }
 }
 
