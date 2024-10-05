@@ -1,0 +1,3634 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lkmw5v');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?lkmw5v#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?lkmw5v') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?lkmw5v') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?lkmw5v##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="tp-"], [class*=" tp-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tp-Departement-01 {
+  &:before {
+    content: $tp-Departement-01; 
+  }
+}
+.tp-Departement-02 {
+  &:before {
+    content: $tp-Departement-02; 
+  }
+}
+.tp-Departement-2A {
+  &:before {
+    content: $tp-Departement-2A; 
+  }
+}
+.tp-Departement-2B {
+  &:before {
+    content: $tp-Departement-2B; 
+  }
+}
+.tp-Departement-03 {
+  &:before {
+    content: $tp-Departement-03; 
+  }
+}
+.tp-Departement-04 {
+  &:before {
+    content: $tp-Departement-04; 
+  }
+}
+.tp-Departement-05 {
+  &:before {
+    content: $tp-Departement-05; 
+  }
+}
+.tp-Departement-06 {
+  &:before {
+    content: $tp-Departement-06; 
+  }
+}
+.tp-Departement-07 {
+  &:before {
+    content: $tp-Departement-07; 
+  }
+}
+.tp-Departement-08 {
+  &:before {
+    content: $tp-Departement-08; 
+  }
+}
+.tp-Departement-09 {
+  &:before {
+    content: $tp-Departement-09; 
+  }
+}
+.tp-Departement-10 {
+  &:before {
+    content: $tp-Departement-10; 
+  }
+}
+.tp-Departement-11 {
+  &:before {
+    content: $tp-Departement-11; 
+  }
+}
+.tp-Departement-12 {
+  &:before {
+    content: $tp-Departement-12; 
+  }
+}
+.tp-Departement-13 {
+  &:before {
+    content: $tp-Departement-13; 
+  }
+}
+.tp-Departement-14 {
+  &:before {
+    content: $tp-Departement-14; 
+  }
+}
+.tp-Departement-15 {
+  &:before {
+    content: $tp-Departement-15; 
+  }
+}
+.tp-Departement-16 {
+  &:before {
+    content: $tp-Departement-16; 
+  }
+}
+.tp-Departement-17 {
+  &:before {
+    content: $tp-Departement-17; 
+  }
+}
+.tp-Departement-18 {
+  &:before {
+    content: $tp-Departement-18; 
+  }
+}
+.tp-Departement-19 {
+  &:before {
+    content: $tp-Departement-19; 
+  }
+}
+.tp-Departement-21 {
+  &:before {
+    content: $tp-Departement-21; 
+  }
+}
+.tp-Departement-22 {
+  &:before {
+    content: $tp-Departement-22; 
+  }
+}
+.tp-Departement-23 {
+  &:before {
+    content: $tp-Departement-23; 
+  }
+}
+.tp-Departement-24 {
+  &:before {
+    content: $tp-Departement-24; 
+  }
+}
+.tp-Departement-25 {
+  &:before {
+    content: $tp-Departement-25; 
+  }
+}
+.tp-Departement-26 {
+  &:before {
+    content: $tp-Departement-26; 
+  }
+}
+.tp-Departement-27 {
+  &:before {
+    content: $tp-Departement-27; 
+  }
+}
+.tp-Departement-28 {
+  &:before {
+    content: $tp-Departement-28; 
+  }
+}
+.tp-Departement-29 {
+  &:before {
+    content: $tp-Departement-29; 
+  }
+}
+.tp-Departement-30 {
+  &:before {
+    content: $tp-Departement-30; 
+  }
+}
+.tp-Departement-31 {
+  &:before {
+    content: $tp-Departement-31; 
+  }
+}
+.tp-Departement-32 {
+  &:before {
+    content: $tp-Departement-32; 
+  }
+}
+.tp-Departement-33 {
+  &:before {
+    content: $tp-Departement-33; 
+  }
+}
+.tp-Departement-34 {
+  &:before {
+    content: $tp-Departement-34; 
+  }
+}
+.tp-Departement-35 {
+  &:before {
+    content: $tp-Departement-35; 
+  }
+}
+.tp-Departement-36 {
+  &:before {
+    content: $tp-Departement-36; 
+  }
+}
+.tp-Departement-37 {
+  &:before {
+    content: $tp-Departement-37; 
+  }
+}
+.tp-Departement-38 {
+  &:before {
+    content: $tp-Departement-38; 
+  }
+}
+.tp-Departement-39 {
+  &:before {
+    content: $tp-Departement-39; 
+  }
+}
+.tp-Departement-40 {
+  &:before {
+    content: $tp-Departement-40; 
+  }
+}
+.tp-Departement-41 {
+  &:before {
+    content: $tp-Departement-41; 
+  }
+}
+.tp-Departement-42 {
+  &:before {
+    content: $tp-Departement-42; 
+  }
+}
+.tp-Departement-43 {
+  &:before {
+    content: $tp-Departement-43; 
+  }
+}
+.tp-Departement-44 {
+  &:before {
+    content: $tp-Departement-44; 
+  }
+}
+.tp-Departement-45 {
+  &:before {
+    content: $tp-Departement-45; 
+  }
+}
+.tp-Departement-46 {
+  &:before {
+    content: $tp-Departement-46; 
+  }
+}
+.tp-Departement-47 {
+  &:before {
+    content: $tp-Departement-47; 
+  }
+}
+.tp-Departement-48 {
+  &:before {
+    content: $tp-Departement-48; 
+  }
+}
+.tp-Departement-49 {
+  &:before {
+    content: $tp-Departement-49; 
+  }
+}
+.tp-Departement-50 {
+  &:before {
+    content: $tp-Departement-50; 
+  }
+}
+.tp-Departement-51 {
+  &:before {
+    content: $tp-Departement-51; 
+  }
+}
+.tp-Departement-52 {
+  &:before {
+    content: $tp-Departement-52; 
+  }
+}
+.tp-Departement-53 {
+  &:before {
+    content: $tp-Departement-53; 
+  }
+}
+.tp-Departement-54 {
+  &:before {
+    content: $tp-Departement-54; 
+  }
+}
+.tp-Departement-55 {
+  &:before {
+    content: $tp-Departement-55; 
+  }
+}
+.tp-Departement-56 {
+  &:before {
+    content: $tp-Departement-56; 
+  }
+}
+.tp-Departement-57 {
+  &:before {
+    content: $tp-Departement-57; 
+  }
+}
+.tp-Departement-58 {
+  &:before {
+    content: $tp-Departement-58; 
+  }
+}
+.tp-Departement-59 {
+  &:before {
+    content: $tp-Departement-59; 
+  }
+}
+.tp-Departement-60 {
+  &:before {
+    content: $tp-Departement-60; 
+  }
+}
+.tp-Departement-61 {
+  &:before {
+    content: $tp-Departement-61; 
+  }
+}
+.tp-Departement-62 {
+  &:before {
+    content: $tp-Departement-62; 
+  }
+}
+.tp-Departement-63 {
+  &:before {
+    content: $tp-Departement-63; 
+  }
+}
+.tp-Departement-64 {
+  &:before {
+    content: $tp-Departement-64; 
+  }
+}
+.tp-Departement-65 {
+  &:before {
+    content: $tp-Departement-65; 
+  }
+}
+.tp-Departement-66 {
+  &:before {
+    content: $tp-Departement-66; 
+  }
+}
+.tp-Departement-67 {
+  &:before {
+    content: $tp-Departement-67; 
+  }
+}
+.tp-Departement-68 {
+  &:before {
+    content: $tp-Departement-68; 
+  }
+}
+.tp-Departement-69 {
+  &:before {
+    content: $tp-Departement-69; 
+  }
+}
+.tp-Departement-70 {
+  &:before {
+    content: $tp-Departement-70; 
+  }
+}
+.tp-Departement-71 {
+  &:before {
+    content: $tp-Departement-71; 
+  }
+}
+.tp-Departement-72 {
+  &:before {
+    content: $tp-Departement-72; 
+  }
+}
+.tp-Departement-73 {
+  &:before {
+    content: $tp-Departement-73; 
+  }
+}
+.tp-Departement-74 {
+  &:before {
+    content: $tp-Departement-74; 
+  }
+}
+.tp-Departement-75 {
+  &:before {
+    content: $tp-Departement-75; 
+  }
+}
+.tp-Departement-76 {
+  &:before {
+    content: $tp-Departement-76; 
+  }
+}
+.tp-Departement-77 {
+  &:before {
+    content: $tp-Departement-77; 
+  }
+}
+.tp-Departement-78 {
+  &:before {
+    content: $tp-Departement-78; 
+  }
+}
+.tp-Departement-79 {
+  &:before {
+    content: $tp-Departement-79; 
+  }
+}
+.tp-Departement-80 {
+  &:before {
+    content: $tp-Departement-80; 
+  }
+}
+.tp-Departement-81 {
+  &:before {
+    content: $tp-Departement-81; 
+  }
+}
+.tp-Departement-82 {
+  &:before {
+    content: $tp-Departement-82; 
+  }
+}
+.tp-Departement-83 {
+  &:before {
+    content: $tp-Departement-83; 
+  }
+}
+.tp-Departement-84 {
+  &:before {
+    content: $tp-Departement-84; 
+  }
+}
+.tp-Departement-85 {
+  &:before {
+    content: $tp-Departement-85; 
+  }
+}
+.tp-Departement-86 {
+  &:before {
+    content: $tp-Departement-86; 
+  }
+}
+.tp-Departement-87 {
+  &:before {
+    content: $tp-Departement-87; 
+  }
+}
+.tp-Departement-88 {
+  &:before {
+    content: $tp-Departement-88; 
+  }
+}
+.tp-Departement-89 {
+  &:before {
+    content: $tp-Departement-89; 
+  }
+}
+.tp-Departement-90 {
+  &:before {
+    content: $tp-Departement-90; 
+  }
+}
+.tp-Departement-91 {
+  &:before {
+    content: $tp-Departement-91; 
+  }
+}
+.tp-Departement-92 {
+  &:before {
+    content: $tp-Departement-92; 
+  }
+}
+.tp-Departement-93 {
+  &:before {
+    content: $tp-Departement-93; 
+  }
+}
+.tp-Departement-94 {
+  &:before {
+    content: $tp-Departement-94; 
+  }
+}
+.tp-Departement-95 {
+  &:before {
+    content: $tp-Departement-95; 
+  }
+}
+.tp-Abricot {
+  &:before {
+    content: $tp-Abricot; 
+  }
+}
+.tp-Acariens {
+  &:before {
+    content: $tp-Acariens; 
+  }
+}
+.tp-ACS {
+  &:before {
+    content: $tp-ACS; 
+  }
+}
+.tp-Adventices {
+  &:before {
+    content: $tp-Adventices; 
+  }
+}
+.tp-Agriculture-bio {
+  &:before {
+    content: $tp-Agriculture-bio; 
+  }
+}
+.tp-Agriculture-conventionnelle {
+  &:before {
+    content: $tp-Agriculture-conventionnelle; 
+  }
+}
+.tp-Agriculture-de-precision {
+  &:before {
+    content: $tp-Agriculture-de-precision; 
+  }
+}
+.tp-Agriculture-hors-sol {
+  &:before {
+    content: $tp-Agriculture-hors-sol; 
+  }
+}
+.tp-Agriculture-integree {
+  &:before {
+    content: $tp-Agriculture-integree; 
+  }
+}
+.tp-Agriculture-raisonnee {
+  &:before {
+    content: $tp-Agriculture-raisonnee; 
+  }
+}
+.tp-Agrivoltaisme {
+  &:before {
+    content: $tp-Agrivoltaisme; 
+  }
+}
+.tp-Agroforesterie {
+  &:before {
+    content: $tp-Agroforesterie; 
+  }
+}
+.tp-Agroforesterie-GC {
+  &:before {
+    content: $tp-Agroforesterie-GC; 
+  }
+}
+.tp-Agroforesterie-Maraichage {
+  &:before {
+    content: $tp-Agroforesterie-Maraichage; 
+  }
+}
+.tp-Ail {
+  &:before {
+    content: $tp-Ail; 
+  }
+}
+.tp-Amande {
+  &:before {
+    content: $tp-Amande; 
+  }
+}
+.tp-Amarante {
+  &:before {
+    content: $tp-Amarante; 
+  }
+}
+.tp-Aneth {
+  &:before {
+    content: $tp-Aneth; 
+  }
+}
+.tp-Apiculture {
+  &:before {
+    content: $tp-Apiculture; 
+  }
+}
+.tp-Approche-redox {
+  &:before {
+    content: $tp-Approche-redox; 
+  }
+}
+.tp-Arachide {
+  &:before {
+    content: $tp-Arachide; 
+  }
+}
+.tp-Arboriculture {
+  &:before {
+    content: $tp-Arboriculture; 
+  }
+}
+.tp-Artichaut {
+  &:before {
+    content: $tp-Artichaut; 
+  }
+}
+.tp-Association-de-culture {
+  &:before {
+    content: $tp-Association-de-culture; 
+  }
+}
+.tp-Aubergine {
+  &:before {
+    content: $tp-Aubergine; 
+  }
+}
+.tp-Auto-fertilite-du-sol {
+  &:before {
+    content: $tp-Auto-fertilite-du-sol; 
+  }
+}
+.tp-Autonomie-en-MO {
+  &:before {
+    content: $tp-Autonomie-en-MO; 
+  }
+}
+.tp-Autonomie-en-proteines {
+  &:before {
+    content: $tp-Autonomie-en-proteines; 
+  }
+}
+.tp-Aviculture {
+  &:before {
+    content: $tp-Aviculture; 
+  }
+}
+.tp-Aviculture-oeufs {
+  &:before {
+    content: $tp-Aviculture-oeufs; 
+  }
+}
+.tp-Bacteries {
+  &:before {
+    content: $tp-Bacteries; 
+  }
+}
+.tp-Bambou {
+  &:before {
+    content: $tp-Bambou; 
+  }
+}
+.tp-Banane {
+  &:before {
+    content: $tp-Banane; 
+  }
+}
+.tp-Basilique {
+  &:before {
+    content: $tp-Basilique; 
+  }
+}
+.tp-Batiments-delevage {
+  &:before {
+    content: $tp-Batiments-delevage; 
+  }
+}
+.tp-Benin {
+  &:before {
+    content: $tp-Benin; 
+  }
+}
+.tp-Betterave {
+  &:before {
+    content: $tp-Betterave; 
+  }
+}
+.tp-Biodiversite {
+  &:before {
+    content: $tp-Biodiversite; 
+  }
+}
+.tp-Biodynamie-Demeter .path1 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path1;  
+    color: rgb(133, 153, 201);
+  }
+}
+.tp-Biodynamie-Demeter .path2 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path3 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path4 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path5 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path5;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path6 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path6;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path7 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path7;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path8 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path8;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path9 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path9;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-Biodynamie-Demeter .path10 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path10;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path11 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path12 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path12;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path13 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path14 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path15 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path16 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path17 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path18 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path19 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path20 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path21 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path22 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path23 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path23;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path24 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path24;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path25 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path25;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path26 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path26;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path27 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path27;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path28 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path28;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path29 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path29;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path30 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path30;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path31 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path31;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Biodynamie-Demeter .path32 {
+  &:before {
+    content: $tp-Biodynamie-Demeter-path32;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Bromes {
+  &:before {
+    content: $tp-Bromes; 
+  }
+}
+.tp-Cacao {
+  &:before {
+    content: $tp-Cacao; 
+  }
+}
+.tp-Cahier-des-charges {
+  &:before {
+    content: $tp-Cahier-des-charges; 
+  }
+}
+.tp-Canard {
+  &:before {
+    content: $tp-Canard; 
+  }
+}
+.tp-Canne-a-sucre {
+  &:before {
+    content: $tp-Canne-a-sucre; 
+  }
+}
+.tp-Carotte {
+  &:before {
+    content: $tp-Carotte; 
+  }
+}
+.tp-Cassis {
+  &:before {
+    content: $tp-Cassis; 
+  }
+}
+.tp-Cereales {
+  &:before {
+    content: $tp-Cereales; 
+  }
+}
+.tp-Cerise {
+  &:before {
+    content: $tp-Cerise; 
+  }
+}
+.tp-Chataigne {
+  &:before {
+    content: $tp-Chataigne; 
+  }
+}
+.tp-Chia {
+  &:before {
+    content: $tp-Chia; 
+  }
+}
+.tp-Chou {
+  &:before {
+    content: $tp-Chou; 
+  }
+}
+.tp-Choux {
+  &:before {
+    content: $tp-Choux; 
+  }
+}
+.tp-Ciboulette {
+  &:before {
+    content: $tp-Ciboulette; 
+  }
+}
+.tp-Circuit-court {
+  &:before {
+    content: $tp-Circuit-court; 
+  }
+}
+.tp-Citron {
+  &:before {
+    content: $tp-Citron; 
+  }
+}
+.tp-Citronnelle {
+  &:before {
+    content: $tp-Citronnelle; 
+  }
+}
+.tp-Colza {
+  &:before {
+    content: $tp-Colza; 
+  }
+}
+.tp-Compaction {
+  &:before {
+    content: $tp-Compaction; 
+  }
+}
+.tp-Concombre {
+  &:before {
+    content: $tp-Concombre; 
+  }
+}
+.tp-Conventionnelle {
+  &:before {
+    content: $tp-Conventionnelle; 
+  }
+}
+.tp-Coriandre {
+  &:before {
+    content: $tp-Coriandre; 
+  }
+}
+.tp-Corossol {
+  &:before {
+    content: $tp-Corossol; 
+  }
+}
+.tp-Courge {
+  &:before {
+    content: $tp-Courge; 
+  }
+}
+.tp-Couverts-permanents {
+  &:before {
+    content: $tp-Couverts-permanents; 
+  }
+}
+.tp-Couverts-vegetaux {
+  &:before {
+    content: $tp-Couverts-vegetaux; 
+  }
+}
+.tp-Cultures-fourrageres {
+  &:before {
+    content: $tp-Cultures-fourrageres; 
+  }
+}
+.tp-Culture-sous-abri {
+  &:before {
+    content: $tp-Culture-sous-abri; 
+  }
+}
+.tp-Cultures-tropicales {
+  &:before {
+    content: $tp-Cultures-tropicales; 
+  }
+}
+.tp-Departement-972 {
+  &:before {
+    content: $tp-Departement-972; 
+  }
+}
+.tp-Departement-973 {
+  &:before {
+    content: $tp-Departement-973; 
+  }
+}
+.tp-Departement-974 {
+  &:before {
+    content: $tp-Departement-974; 
+  }
+}
+.tp-Departement-976 {
+  &:before {
+    content: $tp-Departement-976; 
+  }
+}
+.tp-Desherbage {
+  &:before {
+    content: $tp-Desherbage; 
+  }
+}
+.tp-Desherbage-chimique {
+  &:before {
+    content: $tp-Desherbage-chimique; 
+  }
+}
+.tp-Desherbage-electrique {
+  &:before {
+    content: $tp-Desherbage-electrique; 
+  }
+}
+.tp-Desherbage-manuel {
+  &:before {
+    content: $tp-Desherbage-manuel; 
+  }
+}
+.tp-Desherbage-par-couverture {
+  &:before {
+    content: $tp-Desherbage-par-couverture; 
+  }
+}
+.tp-Desherbage-thermique {
+  &:before {
+    content: $tp-Desherbage-thermique; 
+  }
+}
+.tp-Ecophyto .path1 {
+  &:before {
+    content: $tp-Ecophyto-path1;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path2 {
+  &:before {
+    content: $tp-Ecophyto-path2;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path3 {
+  &:before {
+    content: $tp-Ecophyto-path3;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path4 {
+  &:before {
+    content: $tp-Ecophyto-path4;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path5 {
+  &:before {
+    content: $tp-Ecophyto-path5;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path6 {
+  &:before {
+    content: $tp-Ecophyto-path6;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path7 {
+  &:before {
+    content: $tp-Ecophyto-path7;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path8 {
+  &:before {
+    content: $tp-Ecophyto-path8;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path9 {
+  &:before {
+    content: $tp-Ecophyto-path9;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path10 {
+  &:before {
+    content: $tp-Ecophyto-path10;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path11 {
+  &:before {
+    content: $tp-Ecophyto-path11;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path12 {
+  &:before {
+    content: $tp-Ecophyto-path12;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path13 {
+  &:before {
+    content: $tp-Ecophyto-path13;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path14 {
+  &:before {
+    content: $tp-Ecophyto-path14;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path15 {
+  &:before {
+    content: $tp-Ecophyto-path15;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path16 {
+  &:before {
+    content: $tp-Ecophyto-path16;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path17 {
+  &:before {
+    content: $tp-Ecophyto-path17;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path18 {
+  &:before {
+    content: $tp-Ecophyto-path18;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path19 {
+  &:before {
+    content: $tp-Ecophyto-path19;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path20 {
+  &:before {
+    content: $tp-Ecophyto-path20;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path21 {
+  &:before {
+    content: $tp-Ecophyto-path21;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path22 {
+  &:before {
+    content: $tp-Ecophyto-path22;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path23 {
+  &:before {
+    content: $tp-Ecophyto-path23;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path24 {
+  &:before {
+    content: $tp-Ecophyto-path24;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path25 {
+  &:before {
+    content: $tp-Ecophyto-path25;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path26 {
+  &:before {
+    content: $tp-Ecophyto-path26;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path27 {
+  &:before {
+    content: $tp-Ecophyto-path27;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path28 {
+  &:before {
+    content: $tp-Ecophyto-path28;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path29 {
+  &:before {
+    content: $tp-Ecophyto-path29;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path30 {
+  &:before {
+    content: $tp-Ecophyto-path30;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path31 {
+  &:before {
+    content: $tp-Ecophyto-path31;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path32 {
+  &:before {
+    content: $tp-Ecophyto-path32;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path33 {
+  &:before {
+    content: $tp-Ecophyto-path33;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path34 {
+  &:before {
+    content: $tp-Ecophyto-path34;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path35 {
+  &:before {
+    content: $tp-Ecophyto-path35;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path36 {
+  &:before {
+    content: $tp-Ecophyto-path36;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path37 {
+  &:before {
+    content: $tp-Ecophyto-path37;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path38 {
+  &:before {
+    content: $tp-Ecophyto-path38;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path39 {
+  &:before {
+    content: $tp-Ecophyto-path39;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path40 {
+  &:before {
+    content: $tp-Ecophyto-path40;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path41 {
+  &:before {
+    content: $tp-Ecophyto-path41;  
+    margin-left: -1em;  
+    color: rgb(0, 128, 200);
+  }
+}
+.tp-Ecophyto .path42 {
+  &:before {
+    content: $tp-Ecophyto-path42;  
+    margin-left: -1em;  
+    color: rgb(0, 128, 200);
+  }
+}
+.tp-Ecophyto .path43 {
+  &:before {
+    content: $tp-Ecophyto-path43;  
+    margin-left: -1em;  
+    color: rgb(62, 179, 151);
+  }
+}
+.tp-Ecophyto .path44 {
+  &:before {
+    content: $tp-Ecophyto-path44;  
+    margin-left: -1em;  
+    color: rgb(62, 179, 151);
+  }
+}
+.tp-Ecophyto .path45 {
+  &:before {
+    content: $tp-Ecophyto-path45;  
+    margin-left: -1em;  
+    color: rgb(62, 179, 151);
+  }
+}
+.tp-Ecophyto .path46 {
+  &:before {
+    content: $tp-Ecophyto-path46;  
+    margin-left: -1em;  
+    color: rgb(62, 179, 151);
+  }
+}
+.tp-Ecophyto .path47 {
+  &:before {
+    content: $tp-Ecophyto-path47;  
+    margin-left: -1em;  
+    color: rgb(233, 76, 100);
+  }
+}
+.tp-Ecophyto .path48 {
+  &:before {
+    content: $tp-Ecophyto-path48;  
+    margin-left: -1em;  
+    color: rgb(212, 225, 220);
+  }
+}
+.tp-Ecophyto .path49 {
+  &:before {
+    content: $tp-Ecophyto-path49;  
+    margin-left: -1em;  
+    color: rgb(212, 225, 220);
+  }
+}
+.tp-Ecophyto .path50 {
+  &:before {
+    content: $tp-Ecophyto-path50;  
+    margin-left: -1em;  
+    color: rgb(212, 225, 220);
+  }
+}
+.tp-Ecophyto .path51 {
+  &:before {
+    content: $tp-Ecophyto-path51;  
+    margin-left: -1em;  
+    color: rgb(0, 128, 200);
+  }
+}
+.tp-Ecophyto .path52 {
+  &:before {
+    content: $tp-Ecophyto-path52;  
+    margin-left: -1em;  
+    color: rgb(0, 128, 200);
+  }
+}
+.tp-Ecophyto .path53 {
+  &:before {
+    content: $tp-Ecophyto-path53;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path54 {
+  &:before {
+    content: $tp-Ecophyto-path54;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path55 {
+  &:before {
+    content: $tp-Ecophyto-path55;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path56 {
+  &:before {
+    content: $tp-Ecophyto-path56;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Ecophyto .path57 {
+  &:before {
+    content: $tp-Ecophyto-path57;  
+    margin-left: -1em;  
+    color: rgb(144, 131, 138);
+  }
+}
+.tp-Elevage {
+  &:before {
+    content: $tp-Elevage; 
+  }
+}
+.tp-Elevage-bovin {
+  &:before {
+    content: $tp-Elevage-bovin; 
+  }
+}
+.tp-Elevage-bovin-viande {
+  &:before {
+    content: $tp-Elevage-bovin-viande; 
+  }
+}
+.tp-Elevage-caprin {
+  &:before {
+    content: $tp-Elevage-caprin; 
+  }
+}
+.tp-Elevage-equin {
+  &:before {
+    content: $tp-Elevage-equin; 
+  }
+}
+.tp-Elevage-et-agroforesterie {
+  &:before {
+    content: $tp-Elevage-et-agroforesterie; 
+  }
+}
+.tp-Elevage-ovin {
+  &:before {
+    content: $tp-Elevage-ovin; 
+  }
+}
+.tp-Elevage-porcin {
+  &:before {
+    content: $tp-Elevage-porcin; 
+  }
+}
+.tp-Endive {
+  &:before {
+    content: $tp-Endive; 
+  }
+}
+.tp-Epinards {
+  &:before {
+    content: $tp-Epinards; 
+  }
+}
+.tp-ETA {
+  &:before {
+    content: $tp-ETA; 
+  }
+}
+.tp-Fenouil {
+  &:before {
+    content: $tp-Fenouil; 
+  }
+}
+.tp-Fertilisation-ciblee {
+  &:before {
+    content: $tp-Fertilisation-ciblee; 
+  }
+}
+.tp-Feverole {
+  &:before {
+    content: $tp-Feverole; 
+  }
+}
+.tp-Figue {
+  &:before {
+    content: $tp-Figue; 
+  }
+}
+.tp-Flandre {
+  &:before {
+    content: $tp-Flandre; 
+  }
+}
+.tp-Fraise {
+  &:before {
+    content: $tp-Fraise; 
+  }
+}
+.tp-Framboise {
+  &:before {
+    content: $tp-Framboise; 
+  }
+}
+.tp-Fruits {
+  &:before {
+    content: $tp-Fruits; 
+  }
+}
+.tp-Gestion-de-la-fertilite {
+  &:before {
+    content: $tp-Gestion-de-la-fertilite; 
+  }
+}
+.tp-Gestion-des-couverts-vegetaux {
+  &:before {
+    content: $tp-Gestion-des-couverts-vegetaux; 
+  }
+}
+.tp-Ghana {
+  &:before {
+    content: $tp-Ghana; 
+  }
+}
+.tp-Gombo {
+  &:before {
+    content: $tp-Gombo; 
+  }
+}
+.tp-Goyave {
+  &:before {
+    content: $tp-Goyave; 
+  }
+}
+.tp-Grandes-cultures {
+  &:before {
+    content: $tp-Grandes-cultures; 
+  }
+}
+.tp-Grenade {
+  &:before {
+    content: $tp-Grenade; 
+  }
+}
+.tp-Groseillier {
+  &:before {
+    content: $tp-Groseillier; 
+  }
+}
+.tp-Haricot {
+  &:before {
+    content: $tp-Haricot; 
+  }
+}
+.tp-Heliciculture {
+  &:before {
+    content: $tp-Heliciculture; 
+  }
+}
+.tp-Hibiscus {
+  &:before {
+    content: $tp-Hibiscus; 
+  }
+}
+.tp-Horticulture-PPAM {
+  &:before {
+    content: $tp-Horticulture-PPAM; 
+  }
+}
+.tp-HVE .path1 {
+  &:before {
+    content: $tp-HVE-path1;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tp-HVE .path2 {
+  &:before {
+    content: $tp-HVE-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path3 {
+  &:before {
+    content: $tp-HVE-path3;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path4 {
+  &:before {
+    content: $tp-HVE-path4;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path5 {
+  &:before {
+    content: $tp-HVE-path5;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path6 {
+  &:before {
+    content: $tp-HVE-path6;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path7 {
+  &:before {
+    content: $tp-HVE-path7;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path8 {
+  &:before {
+    content: $tp-HVE-path8;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path9 {
+  &:before {
+    content: $tp-HVE-path9;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path10 {
+  &:before {
+    content: $tp-HVE-path10;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path11 {
+  &:before {
+    content: $tp-HVE-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path12 {
+  &:before {
+    content: $tp-HVE-path12;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path13 {
+  &:before {
+    content: $tp-HVE-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path14 {
+  &:before {
+    content: $tp-HVE-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path15 {
+  &:before {
+    content: $tp-HVE-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path16 {
+  &:before {
+    content: $tp-HVE-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path17 {
+  &:before {
+    content: $tp-HVE-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path18 {
+  &:before {
+    content: $tp-HVE-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path19 {
+  &:before {
+    content: $tp-HVE-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path20 {
+  &:before {
+    content: $tp-HVE-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path21 {
+  &:before {
+    content: $tp-HVE-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path22 {
+  &:before {
+    content: $tp-HVE-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path23 {
+  &:before {
+    content: $tp-HVE-path23;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path24 {
+  &:before {
+    content: $tp-HVE-path24;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path25 {
+  &:before {
+    content: $tp-HVE-path25;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path26 {
+  &:before {
+    content: $tp-HVE-path26;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path27 {
+  &:before {
+    content: $tp-HVE-path27;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path28 {
+  &:before {
+    content: $tp-HVE-path28;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path29 {
+  &:before {
+    content: $tp-HVE-path29;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path30 {
+  &:before {
+    content: $tp-HVE-path30;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path31 {
+  &:before {
+    content: $tp-HVE-path31;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path32 {
+  &:before {
+    content: $tp-HVE-path32;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path33 {
+  &:before {
+    content: $tp-HVE-path33;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path34 {
+  &:before {
+    content: $tp-HVE-path34;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path35 {
+  &:before {
+    content: $tp-HVE-path35;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path36 {
+  &:before {
+    content: $tp-HVE-path36;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path37 {
+  &:before {
+    content: $tp-HVE-path37;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path38 {
+  &:before {
+    content: $tp-HVE-path38;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path39 {
+  &:before {
+    content: $tp-HVE-path39;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path40 {
+  &:before {
+    content: $tp-HVE-path40;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path41 {
+  &:before {
+    content: $tp-HVE-path41;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path42 {
+  &:before {
+    content: $tp-HVE-path42;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path43 {
+  &:before {
+    content: $tp-HVE-path43;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path44 {
+  &:before {
+    content: $tp-HVE-path44;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path45 {
+  &:before {
+    content: $tp-HVE-path45;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path46 {
+  &:before {
+    content: $tp-HVE-path46;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path47 {
+  &:before {
+    content: $tp-HVE-path47;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path48 {
+  &:before {
+    content: $tp-HVE-path48;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path49 {
+  &:before {
+    content: $tp-HVE-path49;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path50 {
+  &:before {
+    content: $tp-HVE-path50;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path51 {
+  &:before {
+    content: $tp-HVE-path51;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path52 {
+  &:before {
+    content: $tp-HVE-path52;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path53 {
+  &:before {
+    content: $tp-HVE-path53;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path54 {
+  &:before {
+    content: $tp-HVE-path54;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path55 {
+  &:before {
+    content: $tp-HVE-path55;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path56 {
+  &:before {
+    content: $tp-HVE-path56;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path57 {
+  &:before {
+    content: $tp-HVE-path57;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path58 {
+  &:before {
+    content: $tp-HVE-path58;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path59 {
+  &:before {
+    content: $tp-HVE-path59;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path60 {
+  &:before {
+    content: $tp-HVE-path60;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path61 {
+  &:before {
+    content: $tp-HVE-path61;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path62 {
+  &:before {
+    content: $tp-HVE-path62;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path63 {
+  &:before {
+    content: $tp-HVE-path63;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path64 {
+  &:before {
+    content: $tp-HVE-path64;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path65 {
+  &:before {
+    content: $tp-HVE-path65;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path66 {
+  &:before {
+    content: $tp-HVE-path66;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path67 {
+  &:before {
+    content: $tp-HVE-path67;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path68 {
+  &:before {
+    content: $tp-HVE-path68;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path69 {
+  &:before {
+    content: $tp-HVE-path69;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path70 {
+  &:before {
+    content: $tp-HVE-path70;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path71 {
+  &:before {
+    content: $tp-HVE-path71;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path72 {
+  &:before {
+    content: $tp-HVE-path72;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path73 {
+  &:before {
+    content: $tp-HVE-path73;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path74 {
+  &:before {
+    content: $tp-HVE-path74;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path75 {
+  &:before {
+    content: $tp-HVE-path75;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-HVE .path76 {
+  &:before {
+    content: $tp-HVE-path76;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-Igname {
+  &:before {
+    content: $tp-Igname; 
+  }
+}
+.tp-Insectes {
+  &:before {
+    content: $tp-Insectes; 
+  }
+}
+.tp-Installation {
+  &:before {
+    content: $tp-Installation; 
+  }
+}
+.tp-Irrigation {
+  &:before {
+    content: $tp-Irrigation; 
+  }
+}
+.tp-Irrigation-en-arboriculture {
+  &:before {
+    content: $tp-Irrigation-en-arboriculture; 
+  }
+}
+.tp-Irrigation-en-maraichage {
+  &:before {
+    content: $tp-Irrigation-en-maraichage; 
+  }
+}
+.tp-Itineraire-des-poules {
+  &:before {
+    content: $tp-Itineraire-des-poules; 
+  }
+}
+.tp-Karite {
+  &:before {
+    content: $tp-Karite; 
+  }
+}
+.tp-Labels {
+  &:before {
+    content: $tp-Labels; 
+  }
+}
+.tp-Labour {
+  &:before {
+    content: $tp-Labour; 
+  }
+}
+.tp-Laitue {
+  &:before {
+    content: $tp-Laitue; 
+  }
+}
+.tp-Lapin {
+  &:before {
+    content: $tp-Lapin; 
+  }
+}
+.tp-Lentille {
+  &:before {
+    content: $tp-Lentille; 
+  }
+}
+.tp-Les-cepages {
+  &:before {
+    content: $tp-Les-cepages; 
+  }
+}
+.tp-Lin {
+  &:before {
+    content: $tp-Lin; 
+  }
+}
+.tp-Luzerne {
+  &:before {
+    content: $tp-Luzerne; 
+  }
+}
+.tp-Mais {
+  &:before {
+    content: $tp-Mais; 
+  }
+}
+.tp-Maladies-cryptogamiques {
+  &:before {
+    content: $tp-Maladies-cryptogamiques; 
+  }
+}
+.tp-Mammiferes {
+  &:before {
+    content: $tp-Mammiferes; 
+  }
+}
+.tp-Mangue {
+  &:before {
+    content: $tp-Mangue; 
+  }
+}
+.tp-Manioc {
+  &:before {
+    content: $tp-Manioc; 
+  }
+}
+.tp-Maraichage {
+  &:before {
+    content: $tp-Maraichage; 
+  }
+}
+.tp-Maraichage-bio-intensif {
+  &:before {
+    content: $tp-Maraichage-bio-intensif; 
+  }
+}
+.tp-Mecanisation {
+  &:before {
+    content: $tp-Mecanisation; 
+  }
+}
+.tp-Melon {
+  &:before {
+    content: $tp-Melon; 
+  }
+}
+.tp-Meteil {
+  &:before {
+    content: $tp-Meteil; 
+  }
+}
+.tp-Methanisation {
+  &:before {
+    content: $tp-Methanisation; 
+  }
+}
+.tp-Miscanthus {
+  &:before {
+    content: $tp-Miscanthus; 
+  }
+}
+.tp-Mollusques {
+  &:before {
+    content: $tp-Mollusques; 
+  }
+}
+.tp-More {
+  &:before {
+    content: $tp-More; 
+  }
+}
+.tp-Mycosylviculture {
+  &:before {
+    content: $tp-Mycosylviculture; 
+  }
+}
+.tp-Navet {
+  &:before {
+    content: $tp-Navet; 
+  }
+}
+.tp-Nematodes {
+  &:before {
+    content: $tp-Nematodes; 
+  }
+}
+.tp-Nere {
+  &:before {
+    content: $tp-Nere; 
+  }
+}
+.tp-Niebe {
+  &:before {
+    content: $tp-Niebe; 
+  }
+}
+.tp-Noix {
+  &:before {
+    content: $tp-Noix; 
+  }
+}
+.tp-Noix-de-cajou {
+  &:before {
+    content: $tp-Noix-de-cajou; 
+  }
+}
+.tp-Noix-de-coco {
+  &:before {
+    content: $tp-Noix-de-coco; 
+  }
+}
+.tp-Non-irrigue {
+  &:before {
+    content: $tp-Non-irrigue; 
+  }
+}
+.tp-Non-labour {
+  &:before {
+    content: $tp-Non-labour; 
+  }
+}
+.tp-Nutrition-des-bovins {
+  &:before {
+    content: $tp-Nutrition-des-bovins; 
+  }
+}
+.tp-Nutrition-des-brebis-laitieres {
+  &:before {
+    content: $tp-Nutrition-des-brebis-laitieres; 
+  }
+}
+.tp-Nutrition-des-poules {
+  &:before {
+    content: $tp-Nutrition-des-poules; 
+  }
+}
+.tp-Oignon {
+  &:before {
+    content: $tp-Oignon; 
+  }
+}
+.tp-Oignon-1 {
+  &:before {
+    content: $tp-Oignon-1; 
+  }
+}
+.tp-Oiseaux {
+  &:before {
+    content: $tp-Oiseaux; 
+  }
+}
+.tp-Olives {
+  &:before {
+    content: $tp-Olives; 
+  }
+}
+.tp-Orange {
+  &:before {
+    content: $tp-Orange; 
+  }
+}
+.tp-Other {
+  &:before {
+    content: $tp-Other; 
+  }
+}
+.tp-Pamplemousse {
+  &:before {
+    content: $tp-Pamplemousse; 
+  }
+}
+.tp-Papaye {
+  &:before {
+    content: $tp-Papaye; 
+  }
+}
+.tp-Partenariat {
+  &:before {
+    content: $tp-Partenariat; 
+  }
+}
+.tp-Pasteque {
+  &:before {
+    content: $tp-Pasteque; 
+  }
+}
+.tp-Patate-douce {
+  &:before {
+    content: $tp-Patate-douce; 
+  }
+}
+.tp-Paturage-tournant-dynamique {
+  &:before {
+    content: $tp-Paturage-tournant-dynamique; 
+  }
+}
+.tp-PBI {
+  &:before {
+    content: $tp-PBI; 
+  }
+}
+.tp-Peche {
+  &:before {
+    content: $tp-Peche; 
+  }
+}
+.tp-Permaculture {
+  &:before {
+    content: $tp-Permaculture; 
+  }
+}
+.tp-Petit-pois {
+  &:before {
+    content: $tp-Petit-pois; 
+  }
+}
+.tp-PFI {
+  &:before {
+    content: $tp-PFI; 
+  }
+}
+.tp-PH-5 {
+  &:before {
+    content: $tp-PH-5; 
+  }
+}
+.tp-PH-65 {
+  &:before {
+    content: $tp-PH-65; 
+  }
+}
+.tp-PH-75 {
+  &:before {
+    content: $tp-PH-75; 
+  }
+}
+.tp-PH-7 {
+  &:before {
+    content: $tp-PH-7; 
+  }
+}
+.tp-Piment {
+  &:before {
+    content: $tp-Piment; 
+  }
+}
+.tp-Pistache {
+  &:before {
+    content: $tp-Pistache; 
+  }
+}
+.tp-Planification {
+  &:before {
+    content: $tp-Planification; 
+  }
+}
+.tp-Plantation-en-arboriculture {
+  &:before {
+    content: $tp-Plantation-en-arboriculture; 
+  }
+}
+.tp-Plantation-en-viticulture {
+  &:before {
+    content: $tp-Plantation-en-viticulture; 
+  }
+}
+.tp-Poire {
+  &:before {
+    content: $tp-Poire; 
+  }
+}
+.tp-Poireau {
+  &:before {
+    content: $tp-Poireau; 
+  }
+}
+.tp-Pois-chiche {
+  &:before {
+    content: $tp-Pois-chiche; 
+  }
+}
+.tp-Poivron {
+  &:before {
+    content: $tp-Poivron; 
+  }
+}
+.tp-Polyculture {
+  &:before {
+    content: $tp-Polyculture; 
+  }
+}
+.tp-Polyculture-elevage {
+  &:before {
+    content: $tp-Polyculture-elevage; 
+  }
+}
+.tp-Pomme {
+  &:before {
+    content: $tp-Pomme; 
+  }
+}
+.tp-Pomme-cannelle {
+  &:before {
+    content: $tp-Pomme-cannelle; 
+  }
+}
+.tp-Pomme-de-terre {
+  &:before {
+    content: $tp-Pomme-de-terre; 
+  }
+}
+.tp-Pre-verger {
+  &:before {
+    content: $tp-Pre-verger; 
+  }
+}
+.tp-Protection-des-cultures {
+  &:before {
+    content: $tp-Protection-des-cultures; 
+  }
+}
+.tp-Protection-en-arboriculture {
+  &:before {
+    content: $tp-Protection-en-arboriculture; 
+  }
+}
+.tp-Protection-en-viticulture {
+  &:before {
+    content: $tp-Protection-en-viticulture; 
+  }
+}
+.tp-Protection-integree-des-cultures-PIC {
+  &:before {
+    content: $tp-Protection-integree-des-cultures-PIC; 
+  }
+}
+.tp-Prune {
+  &:before {
+    content: $tp-Prune; 
+  }
+}
+.tp-Quinoa {
+  &:before {
+    content: $tp-Quinoa; 
+  }
+}
+.tp-Radis {
+  &:before {
+    content: $tp-Radis; 
+  }
+}
+.tp-Ray-grass {
+  &:before {
+    content: $tp-Ray-grass; 
+  }
+}
+.tp-Remise-en-vie-des-sols {
+  &:before {
+    content: $tp-Remise-en-vie-des-sols; 
+  }
+}
+.tp-Reproduction-des-bovins {
+  &:before {
+    content: $tp-Reproduction-des-bovins; 
+  }
+}
+.tp-Reproduction-des-brebis-lait {
+  &:before {
+    content: $tp-Reproduction-des-brebis-lait; 
+  }
+}
+.tp-Reproduction-des-caprins {
+  &:before {
+    content: $tp-Reproduction-des-caprins; 
+  }
+}
+.tp-Riz {
+  &:before {
+    content: $tp-Riz; 
+  }
+}
+.tp-Romarin {
+  &:before {
+    content: $tp-Romarin; 
+  }
+}
+.tp-Rongeurs {
+  &:before {
+    content: $tp-Rongeurs; 
+  }
+}
+.tp-Rotations {
+  &:before {
+    content: $tp-Rotations; 
+  }
+}
+.tp-Sante-des-bovins {
+  &:before {
+    content: $tp-Sante-des-bovins; 
+  }
+}
+.tp-Sante-des-elevages-ovins {
+  &:before {
+    content: $tp-Sante-des-elevages-ovins; 
+  }
+}
+.tp-Sante-des-poules {
+  &:before {
+    content: $tp-Sante-des-poules; 
+  }
+}
+.tp-Sarrasin {
+  &:before {
+    content: $tp-Sarrasin; 
+  }
+}
+.tp-SAU {
+  &:before {
+    content: $tp-SAU; 
+  }
+}
+.tp-SDSC {
+  &:before {
+    content: $tp-SDSC; 
+  }
+}
+.tp-Semis-Direct {
+  &:before {
+    content: $tp-Semis-Direct; 
+  }
+}
+.tp-Senegal {
+  &:before {
+    content: $tp-Senegal; 
+  }
+}
+.tp-Soja {
+  &:before {
+    content: $tp-Soja; 
+  }
+}
+.tp-Sorgho {
+  &:before {
+    content: $tp-Sorgho; 
+  }
+}
+.tp-SQ1 .path1 {
+  &:before {
+    content: $tp-SQ1-path1;  
+    color: rgb(5, 157, 76);
+  }
+}
+.tp-SQ1 .path2 {
+  &:before {
+    content: $tp-SQ1-path2;  
+    margin-left: -1em;  
+    color: rgb(140, 195, 64);
+  }
+}
+.tp-SQ1 .path3 {
+  &:before {
+    content: $tp-SQ1-path3;  
+    margin-left: -1em;  
+    color: rgb(251, 221, 0);
+  }
+}
+.tp-SQ1 .path4 {
+  &:before {
+    content: $tp-SQ1-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 152, 55);
+  }
+}
+.tp-SQ1 .path5 {
+  &:before {
+    content: $tp-SQ1-path5;  
+    margin-left: -1em;  
+    color: rgb(189, 35, 39);
+  }
+}
+.tp-SQ1 .path6 {
+  &:before {
+    content: $tp-SQ1-path6;  
+    margin-left: -1em;  
+    color: rgb(61, 35, 18);
+  }
+}
+.tp-SQ1 .path7 {
+  &:before {
+    content: $tp-SQ1-path7;  
+    margin-left: -1em;  
+    color: rgb(90, 64, 27);
+  }
+}
+.tp-SQ1 .path8 {
+  &:before {
+    content: $tp-SQ1-path8;  
+    margin-left: -1em;  
+    color: rgb(90, 96, 111);
+  }
+}
+.tp-SQ1 .path9 {
+  &:before {
+    content: $tp-SQ1-path9;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ1 .path10 {
+  &:before {
+    content: $tp-SQ1-path10;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ1 .path11 {
+  &:before {
+    content: $tp-SQ1-path11;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ1 .path12 {
+  &:before {
+    content: $tp-SQ1-path12;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ1 .path13 {
+  &:before {
+    content: $tp-SQ1-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path14 {
+  &:before {
+    content: $tp-SQ1-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path15 {
+  &:before {
+    content: $tp-SQ1-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path16 {
+  &:before {
+    content: $tp-SQ1-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path17 {
+  &:before {
+    content: $tp-SQ1-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path18 {
+  &:before {
+    content: $tp-SQ1-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path19 {
+  &:before {
+    content: $tp-SQ1-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path20 {
+  &:before {
+    content: $tp-SQ1-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path21 {
+  &:before {
+    content: $tp-SQ1-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path22 {
+  &:before {
+    content: $tp-SQ1-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ1 .path23 {
+  &:before {
+    content: $tp-SQ1-path23;  
+    margin-left: -1em;  
+    color: rgb(108, 110, 114);
+  }
+}
+.tp-SQ2 .path1 {
+  &:before {
+    content: $tp-SQ2-path1;  
+    color: rgb(5, 157, 76);
+  }
+}
+.tp-SQ2 .path2 {
+  &:before {
+    content: $tp-SQ2-path2;  
+    margin-left: -1em;  
+    color: rgb(140, 195, 64);
+  }
+}
+.tp-SQ2 .path3 {
+  &:before {
+    content: $tp-SQ2-path3;  
+    margin-left: -1em;  
+    color: rgb(251, 221, 0);
+  }
+}
+.tp-SQ2 .path4 {
+  &:before {
+    content: $tp-SQ2-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 152, 55);
+  }
+}
+.tp-SQ2 .path5 {
+  &:before {
+    content: $tp-SQ2-path5;  
+    margin-left: -1em;  
+    color: rgb(189, 35, 39);
+  }
+}
+.tp-SQ2 .path6 {
+  &:before {
+    content: $tp-SQ2-path6;  
+    margin-left: -1em;  
+    color: rgb(61, 35, 18);
+  }
+}
+.tp-SQ2 .path7 {
+  &:before {
+    content: $tp-SQ2-path7;  
+    margin-left: -1em;  
+    color: rgb(90, 64, 27);
+  }
+}
+.tp-SQ2 .path8 {
+  &:before {
+    content: $tp-SQ2-path8;  
+    margin-left: -1em;  
+    color: rgb(90, 96, 111);
+  }
+}
+.tp-SQ2 .path9 {
+  &:before {
+    content: $tp-SQ2-path9;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ2 .path10 {
+  &:before {
+    content: $tp-SQ2-path10;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ2 .path11 {
+  &:before {
+    content: $tp-SQ2-path11;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ2 .path12 {
+  &:before {
+    content: $tp-SQ2-path12;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ2 .path13 {
+  &:before {
+    content: $tp-SQ2-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path14 {
+  &:before {
+    content: $tp-SQ2-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path15 {
+  &:before {
+    content: $tp-SQ2-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path16 {
+  &:before {
+    content: $tp-SQ2-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path17 {
+  &:before {
+    content: $tp-SQ2-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path18 {
+  &:before {
+    content: $tp-SQ2-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path19 {
+  &:before {
+    content: $tp-SQ2-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path20 {
+  &:before {
+    content: $tp-SQ2-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path21 {
+  &:before {
+    content: $tp-SQ2-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ2 .path22 {
+  &:before {
+    content: $tp-SQ2-path22;  
+    margin-left: -1em;  
+    color: rgb(108, 110, 114);
+  }
+}
+.tp-SQ3 .path1 {
+  &:before {
+    content: $tp-SQ3-path1;  
+    color: rgb(5, 157, 76);
+  }
+}
+.tp-SQ3 .path2 {
+  &:before {
+    content: $tp-SQ3-path2;  
+    margin-left: -1em;  
+    color: rgb(140, 195, 64);
+  }
+}
+.tp-SQ3 .path3 {
+  &:before {
+    content: $tp-SQ3-path3;  
+    margin-left: -1em;  
+    color: rgb(251, 221, 0);
+  }
+}
+.tp-SQ3 .path4 {
+  &:before {
+    content: $tp-SQ3-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 152, 55);
+  }
+}
+.tp-SQ3 .path5 {
+  &:before {
+    content: $tp-SQ3-path5;  
+    margin-left: -1em;  
+    color: rgb(189, 35, 39);
+  }
+}
+.tp-SQ3 .path6 {
+  &:before {
+    content: $tp-SQ3-path6;  
+    margin-left: -1em;  
+    color: rgb(61, 35, 18);
+  }
+}
+.tp-SQ3 .path7 {
+  &:before {
+    content: $tp-SQ3-path7;  
+    margin-left: -1em;  
+    color: rgb(90, 64, 27);
+  }
+}
+.tp-SQ3 .path8 {
+  &:before {
+    content: $tp-SQ3-path8;  
+    margin-left: -1em;  
+    color: rgb(90, 96, 111);
+  }
+}
+.tp-SQ3 .path9 {
+  &:before {
+    content: $tp-SQ3-path9;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ3 .path10 {
+  &:before {
+    content: $tp-SQ3-path10;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ3 .path11 {
+  &:before {
+    content: $tp-SQ3-path11;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ3 .path12 {
+  &:before {
+    content: $tp-SQ3-path12;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ3 .path13 {
+  &:before {
+    content: $tp-SQ3-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path14 {
+  &:before {
+    content: $tp-SQ3-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path15 {
+  &:before {
+    content: $tp-SQ3-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path16 {
+  &:before {
+    content: $tp-SQ3-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path17 {
+  &:before {
+    content: $tp-SQ3-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path18 {
+  &:before {
+    content: $tp-SQ3-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path19 {
+  &:before {
+    content: $tp-SQ3-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path20 {
+  &:before {
+    content: $tp-SQ3-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ3 .path21 {
+  &:before {
+    content: $tp-SQ3-path21;  
+    margin-left: -1em;  
+    color: rgb(108, 110, 114);
+  }
+}
+.tp-SQ4 .path1 {
+  &:before {
+    content: $tp-SQ4-path1;  
+    color: rgb(5, 157, 76);
+  }
+}
+.tp-SQ4 .path2 {
+  &:before {
+    content: $tp-SQ4-path2;  
+    margin-left: -1em;  
+    color: rgb(140, 195, 64);
+  }
+}
+.tp-SQ4 .path3 {
+  &:before {
+    content: $tp-SQ4-path3;  
+    margin-left: -1em;  
+    color: rgb(251, 221, 0);
+  }
+}
+.tp-SQ4 .path4 {
+  &:before {
+    content: $tp-SQ4-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 152, 55);
+  }
+}
+.tp-SQ4 .path5 {
+  &:before {
+    content: $tp-SQ4-path5;  
+    margin-left: -1em;  
+    color: rgb(189, 35, 39);
+  }
+}
+.tp-SQ4 .path6 {
+  &:before {
+    content: $tp-SQ4-path6;  
+    margin-left: -1em;  
+    color: rgb(61, 35, 18);
+  }
+}
+.tp-SQ4 .path7 {
+  &:before {
+    content: $tp-SQ4-path7;  
+    margin-left: -1em;  
+    color: rgb(90, 64, 27);
+  }
+}
+.tp-SQ4 .path8 {
+  &:before {
+    content: $tp-SQ4-path8;  
+    margin-left: -1em;  
+    color: rgb(90, 96, 111);
+  }
+}
+.tp-SQ4 .path9 {
+  &:before {
+    content: $tp-SQ4-path9;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ4 .path10 {
+  &:before {
+    content: $tp-SQ4-path10;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ4 .path11 {
+  &:before {
+    content: $tp-SQ4-path11;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ4 .path12 {
+  &:before {
+    content: $tp-SQ4-path12;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ4 .path13 {
+  &:before {
+    content: $tp-SQ4-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path14 {
+  &:before {
+    content: $tp-SQ4-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path15 {
+  &:before {
+    content: $tp-SQ4-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path16 {
+  &:before {
+    content: $tp-SQ4-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path17 {
+  &:before {
+    content: $tp-SQ4-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path18 {
+  &:before {
+    content: $tp-SQ4-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path19 {
+  &:before {
+    content: $tp-SQ4-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path20 {
+  &:before {
+    content: $tp-SQ4-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path21 {
+  &:before {
+    content: $tp-SQ4-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path22 {
+  &:before {
+    content: $tp-SQ4-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ4 .path23 {
+  &:before {
+    content: $tp-SQ4-path23;  
+    margin-left: -1em;  
+    color: rgb(108, 110, 114);
+  }
+}
+.tp-SQ5 .path1 {
+  &:before {
+    content: $tp-SQ5-path1;  
+    color: rgb(5, 157, 76);
+  }
+}
+.tp-SQ5 .path2 {
+  &:before {
+    content: $tp-SQ5-path2;  
+    margin-left: -1em;  
+    color: rgb(140, 195, 64);
+  }
+}
+.tp-SQ5 .path3 {
+  &:before {
+    content: $tp-SQ5-path3;  
+    margin-left: -1em;  
+    color: rgb(251, 221, 0);
+  }
+}
+.tp-SQ5 .path4 {
+  &:before {
+    content: $tp-SQ5-path4;  
+    margin-left: -1em;  
+    color: rgb(247, 152, 55);
+  }
+}
+.tp-SQ5 .path5 {
+  &:before {
+    content: $tp-SQ5-path5;  
+    margin-left: -1em;  
+    color: rgb(189, 35, 39);
+  }
+}
+.tp-SQ5 .path6 {
+  &:before {
+    content: $tp-SQ5-path6;  
+    margin-left: -1em;  
+    color: rgb(61, 35, 18);
+  }
+}
+.tp-SQ5 .path7 {
+  &:before {
+    content: $tp-SQ5-path7;  
+    margin-left: -1em;  
+    color: rgb(105, 82, 48);
+  }
+}
+.tp-SQ5 .path8 {
+  &:before {
+    content: $tp-SQ5-path8;  
+    margin-left: -1em;  
+    color: rgb(90, 96, 111);
+  }
+}
+.tp-SQ5 .path9 {
+  &:before {
+    content: $tp-SQ5-path9;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ5 .path10 {
+  &:before {
+    content: $tp-SQ5-path10;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ5 .path11 {
+  &:before {
+    content: $tp-SQ5-path11;  
+    margin-left: -1em;  
+    color: rgb(131, 136, 147);
+  }
+}
+.tp-SQ5 .path12 {
+  &:before {
+    content: $tp-SQ5-path12;  
+    margin-left: -1em;  
+    color: rgb(214, 215, 219);
+  }
+}
+.tp-SQ5 .path13 {
+  &:before {
+    content: $tp-SQ5-path13;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path14 {
+  &:before {
+    content: $tp-SQ5-path14;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path15 {
+  &:before {
+    content: $tp-SQ5-path15;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path16 {
+  &:before {
+    content: $tp-SQ5-path16;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path17 {
+  &:before {
+    content: $tp-SQ5-path17;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path18 {
+  &:before {
+    content: $tp-SQ5-path18;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path19 {
+  &:before {
+    content: $tp-SQ5-path19;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path20 {
+  &:before {
+    content: $tp-SQ5-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path21 {
+  &:before {
+    content: $tp-SQ5-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path22 {
+  &:before {
+    content: $tp-SQ5-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path23 {
+  &:before {
+    content: $tp-SQ5-path23;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path24 {
+  &:before {
+    content: $tp-SQ5-path24;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path25 {
+  &:before {
+    content: $tp-SQ5-path25;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path26 {
+  &:before {
+    content: $tp-SQ5-path26;  
+    margin-left: -1em;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tp-SQ5 .path27 {
+  &:before {
+    content: $tp-SQ5-path27;  
+    margin-left: -1em;  
+    color: rgb(108, 110, 114);
+  }
+}
+.tp-Strategie-dinvestissements {
+  &:before {
+    content: $tp-Strategie-dinvestissements; 
+  }
+}
+.tp-Sylviculture {
+  &:before {
+    content: $tp-Sylviculture; 
+  }
+}
+.tp-Sylvopastoralisme {
+  &:before {
+    content: $tp-Sylvopastoralisme; 
+  }
+}
+.tp-Systemes-et-choix-des-especes {
+  &:before {
+    content: $tp-Systemes-et-choix-des-especes; 
+  }
+}
+.tp-Taille {
+  &:before {
+    content: $tp-Taille; 
+  }
+}
+.tp-TCS {
+  &:before {
+    content: $tp-TCS; 
+  }
+}
+.tp-Tomate {
+  &:before {
+    content: $tp-Tomate; 
+  }
+}
+.tp-Tournesol {
+  &:before {
+    content: $tp-Tournesol; 
+  }
+}
+.tp-Transformation-a-la-ferme-des-poulets-de-chair {
+  &:before {
+    content: $tp-Transformation-a-la-ferme-des-poulets-de-chair; 
+  }
+}
+.tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre {
+  &:before {
+    content: $tp-Transformation-a-la-ferme-des-produits-du-lait-de-chevre; 
+  }
+}
+.tp-Transformation-a-la-ferme-des-produits-laitiers {
+  &:before {
+    content: $tp-Transformation-a-la-ferme-des-produits-laitiers; 
+  }
+}
+.tp-Transformation-a-la-ferme-en-elevage-ovin-viande {
+  &:before {
+    content: $tp-Transformation-a-la-ferme-en-elevage-ovin-viande; 
+  }
+}
+.tp-Trefle {
+  &:before {
+    content: $tp-Trefle; 
+  }
+}
+.tp-Type-Sol {
+  &:before {
+    content: $tp-Type-Sol; 
+  }
+}
+.tp-UTH {
+  &:before {
+    content: $tp-UTH; 
+  }
+}
+.tp-Virus {
+  &:before {
+    content: $tp-Virus; 
+  }
+}
+.tp-Viticulture {
+  &:before {
+    content: $tp-Viticulture; 
+  }
+}
+.tp-Vitiforesterie {
+  &:before {
+    content: $tp-Vitiforesterie; 
+  }
+}
+.tp-Wallonie {
+  &:before {
+    content: $tp-Wallonie; 
+  }
+}
+.tp-Zone-vulnerable {
+  &:before {
+    content: $tp-Zone-vulnerable; 
+  }
+}
+
