@@ -1,6 +1,6 @@
 <?php
 
-$svgFiles = glob(__DIR__ . "/svg/*.svg");
+$svgFiles = glob(__DIR__ . "/svg_output_from_ai/*.svg");
 $html = <<<EOD
 <html>
     <head>
@@ -58,16 +58,17 @@ foreach ($svgFiles as $file) {
     $newFilename = preg_replace('@[- _]+@', '-', $newFilename);
     $newFilename = preg_replace('@[^A-Za-z0-9]+\.svg@', '.svg', $newFilename);
 
-    $file = str_replace('/svg', '/svg-out', dirname($file)) . '/' . $newFilename;
-
+    $destSVGFilename = __DIR__ . "/../../icomoon/svg/" . $newFilename;
     
     echo $newFilename . "\n";
 
-    file_put_contents($file, $content);
+    file_put_contents($destSVGFilename, $content);
 
-    $html .= '  <div><img src="svg-out/'.$newFilename.'"><span>'.$newFilename.'</span></div> ' . "\n";
+    $html .= '  <div><img src="svg/'.$newFilename.'"><span>'.$newFilename.'</span></div> ' . "\n";
 }
 
 $html .= '</body></html>';
-file_put_contents('test.html', $html);
 
+$destHTMLFilename = __DIR__ . "/../../icomoon/test.html";
+
+file_put_contents($destHTMLFilename, $html);

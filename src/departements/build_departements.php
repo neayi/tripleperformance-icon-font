@@ -85,7 +85,8 @@ function makeSmallDepartements()
         $destSVGFilename = __DIR__ . "/../../icomoon/svg/Departement-$depNumber.svg";
         @unlink($destSVGFilename);
 
-        myExec ( 'inkscape --without-gui --export-plain-svg="'.$destSVGFilename.'" --export-id="departement" "'.$tempSVGFilename.'"');
+        // Create a new svg with only the image, cropped to it's max dimmensions
+        myExec ( 'inkscape --export-plain-svg="'.$destSVGFilename.'" --export-id="departement" "'.$tempSVGFilename.'"');
         
         // $destPNGFilename = outFolder . "Département $depNumber.png";
         // @unlink($destPNGFilename);
