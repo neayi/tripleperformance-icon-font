@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?j092w1');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?j092w1#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?j092w1') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?j092w1') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?j092w1##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?otfpjt');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?otfpjt#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?otfpjt') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?otfpjt') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?otfpjt##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -27,6 +27,76 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tp-Icone-categorie-Cepage {
+  &:before {
+    content: $tp-Icone-categorie-Cepage; 
+  }
+}
+.tp-Icone-categorie-Arbre {
+  &:before {
+    content: $tp-Icone-categorie-Arbre; 
+  }
+}
+.tp-Icone-categorie-Auxiliaires {
+  &:before {
+    content: $tp-Icone-categorie-Auxiliaires; 
+  }
+}
+.tp-Icone-categorie-Bioagresseur {
+  &:before {
+    content: $tp-Icone-categorie-Bioagresseur; 
+  }
+}
+.tp-Icone-categorie-Cultures {
+  &:before {
+    content: $tp-Icone-categorie-Cultures; 
+  }
+}
+.tp-Icone-categorie-Formation {
+  &:before {
+    content: $tp-Icone-categorie-Formation; 
+  }
+}
+.tp-Icone-categorie-Intrant {
+  &:before {
+    content: $tp-Icone-categorie-Intrant; 
+  }
+}
+.tp-Icone-categorie-Label {
+  &:before {
+    content: $tp-Icone-categorie-Label; 
+  }
+}
+.tp-Icone-categorie-Livre {
+  &:before {
+    content: $tp-Icone-categorie-Livre; 
+  }
+}
+.tp-Icone-categorie-Machines {
+  &:before {
+    content: $tp-Icone-categorie-Machines; 
+  }
+}
+.tp-Icone-categorie-OAD {
+  &:before {
+    content: $tp-Icone-categorie-OAD; 
+  }
+}
+.tp-Icone-categorie-objectif {
+  &:before {
+    content: $tp-Icone-categorie-objectif; 
+  }
+}
+.tp-Icone-categorie-Pratiques {
+  &:before {
+    content: $tp-Icone-categorie-Pratiques; 
+  }
+}
+.tp-Icone-categorie-Retours-dexperience {
+  &:before {
+    content: $tp-Icone-categorie-Retours-dexperience; 
+  }
+}
 .tp-Tomate {
   &:before {
     content: $tp-Tomate; 

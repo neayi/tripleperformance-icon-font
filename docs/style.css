@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?j092w1');
-  src:  url('fonts/tripleperformance.eot?j092w1#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?j092w1') format('truetype'),
-    url('fonts/tripleperformance.woff?j092w1') format('woff'),
-    url('fonts/tripleperformance.svg?j092w1#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?otfpjt');
+  src:  url('fonts/tripleperformance.eot?otfpjt#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?otfpjt') format('truetype'),
+    url('fonts/tripleperformance.woff?otfpjt') format('woff'),
+    url('fonts/tripleperformance.svg?otfpjt#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tp-Icone-categorie-Cepage:before {
+  content: "\eb72";
+}
+.tp-Icone-categorie-Arbre:before {
+  content: "\eb71";
+}
+.tp-Icone-categorie-Auxiliaires:before {
+  content: "\eb65";
+}
+.tp-Icone-categorie-Bioagresseur:before {
+  content: "\eb66";
+}
+.tp-Icone-categorie-Cultures:before {
+  content: "\eb67";
+}
+.tp-Icone-categorie-Formation:before {
+  content: "\eb68";
+}
+.tp-Icone-categorie-Intrant:before {
+  content: "\eb69";
+}
+.tp-Icone-categorie-Label:before {
+  content: "\eb6a";
+}
+.tp-Icone-categorie-Livre:before {
+  content: "\eb6b";
+}
+.tp-Icone-categorie-Machines:before {
+  content: "\eb6c";
+}
+.tp-Icone-categorie-OAD:before {
+  content: "\eb6d";
+}
+.tp-Icone-categorie-objectif:before {
+  content: "\eb6e";
+}
+.tp-Icone-categorie-Pratiques:before {
+  content: "\eb6f";
+}
+.tp-Icone-categorie-Retours-dexperience:before {
+  content: "\eb70";
+}
 .tp-Tomate:before {
   content: "\e900";
 }
