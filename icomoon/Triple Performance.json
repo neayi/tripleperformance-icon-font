@@ -446,12 +446,20 @@
     {
       "selection": [
         {
+          "order": 1587,
+          "id": 240,
+          "name": "Cuniculture",
+          "prevSize": 32,
+          "code": 60275,
+          "tempChar": ""
+        },
+        {
           "order": 1231,
           "id": 239,
           "name": "Tomate",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1232,
@@ -459,7 +467,7 @@
           "name": "Tournesol",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1233,
@@ -467,7 +475,7 @@
           "name": "Transformation-a-la-ferme-des-poulets-de-chair",
           "prevSize": 32,
           "code": 59650,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1234,
@@ -475,7 +483,7 @@
           "name": "Transformation-a-la-ferme-des-produits-du-lait-de-chevre",
           "prevSize": 32,
           "code": 59651,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1235,
@@ -483,7 +491,7 @@
           "name": "Transformation-a-la-ferme-des-produits-laitiers",
           "prevSize": 32,
           "code": 59652,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1236,
@@ -491,7 +499,7 @@
           "name": "Transformation-a-la-ferme-en-elevage-ovin-viande",
           "prevSize": 32,
           "code": 59653,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1237,
@@ -499,7 +507,7 @@
           "name": "Trefle",
           "prevSize": 32,
           "code": 59654,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1238,
@@ -507,7 +515,7 @@
           "name": "Type-Sol",
           "prevSize": 32,
           "code": 59655,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1239,
@@ -515,7 +523,7 @@
           "name": "UTH",
           "prevSize": 32,
           "code": 59656,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1240,
@@ -523,7 +531,7 @@
           "name": "Virus",
           "prevSize": 32,
           "code": 59657,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1241,
@@ -531,7 +539,7 @@
           "name": "Viticulture",
           "prevSize": 32,
           "code": 59658,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1242,
@@ -539,7 +547,7 @@
           "name": "Vitiforesterie",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1243,
@@ -547,7 +555,7 @@
           "name": "Wallonie",
           "prevSize": 32,
           "code": 59660,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1244,
@@ -555,7 +563,7 @@
           "name": "Zone-vulnerable",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1245,
@@ -563,7 +571,7 @@
           "name": "Desherbage",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1246,
@@ -571,7 +579,7 @@
           "name": "Desherbage-chimique",
           "prevSize": 32,
           "code": 59663,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1247,
@@ -579,7 +587,7 @@
           "name": "Desherbage-electrique",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1248,
@@ -587,7 +595,7 @@
           "name": "Desherbage-manuel",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1249,
@@ -595,7 +603,7 @@
           "name": "Desherbage-par-couverture",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1250,
@@ -603,7 +611,7 @@
           "name": "Desherbage-thermique",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1251,
@@ -671,7 +679,6 @@
             59724
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -727,7 +734,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -736,7 +744,7 @@
           "name": "Elevage",
           "prevSize": 32,
           "code": 59725,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1253,
@@ -744,7 +752,7 @@
           "name": "Elevage-bovin",
           "prevSize": 32,
           "code": 59726,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1254,
@@ -752,7 +760,7 @@
           "name": "Elevage-bovin-viande",
           "prevSize": 32,
           "code": 59727,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1255,
@@ -760,7 +768,7 @@
           "name": "Elevage-caprin",
           "prevSize": 32,
           "code": 59728,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1256,
@@ -768,7 +776,7 @@
           "name": "Elevage-equin",
           "prevSize": 32,
           "code": 59729,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1257,
@@ -776,7 +784,7 @@
           "name": "Elevage-et-agroforesterie",
           "prevSize": 32,
           "code": 59730,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1258,
@@ -784,7 +792,7 @@
           "name": "Elevage-ovin",
           "prevSize": 32,
           "code": 59731,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1259,
@@ -792,7 +800,7 @@
           "name": "Elevage-porcin",
           "prevSize": 32,
           "code": 59732,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1260,
@@ -800,7 +808,7 @@
           "name": "Endive",
           "prevSize": 32,
           "code": 59733,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1261,
@@ -808,7 +816,7 @@
           "name": "Epinards",
           "prevSize": 32,
           "code": 59734,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1262,
@@ -816,7 +824,7 @@
           "name": "ETA",
           "prevSize": 32,
           "code": 59735,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1263,
@@ -824,7 +832,7 @@
           "name": "Fenouil",
           "prevSize": 32,
           "code": 59736,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1264,
@@ -832,7 +840,7 @@
           "name": "Fenugrec",
           "prevSize": 32,
           "code": 59737,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1265,
@@ -840,7 +848,7 @@
           "name": "Fertilisation-ciblee",
           "prevSize": 32,
           "code": 59738,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1266,
@@ -848,7 +856,7 @@
           "name": "Feverole",
           "prevSize": 32,
           "code": 59739,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1267,
@@ -856,7 +864,7 @@
           "name": "Figue",
           "prevSize": 32,
           "code": 59740,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1268,
@@ -864,7 +872,7 @@
           "name": "Flandre",
           "prevSize": 32,
           "code": 59741,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1269,
@@ -872,7 +880,7 @@
           "name": "Fraise",
           "prevSize": 32,
           "code": 59742,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1270,
@@ -880,7 +888,7 @@
           "name": "Framboise",
           "prevSize": 32,
           "code": 59743,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1271,
@@ -888,7 +896,7 @@
           "name": "Fruits",
           "prevSize": 32,
           "code": 59744,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1272,
@@ -896,7 +904,7 @@
           "name": "Gestion-de-la-fertilite",
           "prevSize": 32,
           "code": 59745,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1273,
@@ -904,7 +912,7 @@
           "name": "Gestion-des-couverts-vegetaux",
           "prevSize": 32,
           "code": 59746,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1274,
@@ -912,7 +920,7 @@
           "name": "Ghana",
           "prevSize": 32,
           "code": 59747,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1275,
@@ -920,7 +928,7 @@
           "name": "Gombo",
           "prevSize": 32,
           "code": 59748,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1276,
@@ -928,7 +936,7 @@
           "name": "Goyave",
           "prevSize": 32,
           "code": 59749,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1277,
@@ -936,7 +944,7 @@
           "name": "Grandes-cultures",
           "prevSize": 32,
           "code": 59750,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1278,
@@ -944,7 +952,7 @@
           "name": "Grenade",
           "prevSize": 32,
           "code": 59751,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1279,
@@ -952,7 +960,7 @@
           "name": "Groseillier",
           "prevSize": 32,
           "code": 59752,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1280,
@@ -960,7 +968,7 @@
           "name": "Haricot",
           "prevSize": 32,
           "code": 59753,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1281,
@@ -968,7 +976,7 @@
           "name": "Heliciculture",
           "prevSize": 32,
           "code": 59754,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1282,
@@ -976,7 +984,7 @@
           "name": "Hibiscus",
           "prevSize": 32,
           "code": 59755,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1283,
@@ -984,7 +992,7 @@
           "name": "Horticulture-PPAM",
           "prevSize": 32,
           "code": 59756,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1284,
@@ -1071,7 +1079,6 @@
             59832
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -1146,7 +1153,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -1155,7 +1163,7 @@
           "name": "Igname",
           "prevSize": 32,
           "code": 59833,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1286,
@@ -1163,7 +1171,7 @@
           "name": "Insectes",
           "prevSize": 32,
           "code": 59834,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1287,
@@ -1171,7 +1179,7 @@
           "name": "Installation",
           "prevSize": 32,
           "code": 59835,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1288,
@@ -1179,7 +1187,7 @@
           "name": "Irrigation",
           "prevSize": 32,
           "code": 59836,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1289,
@@ -1187,7 +1195,7 @@
           "name": "Irrigation-en-arboriculture",
           "prevSize": 32,
           "code": 59837,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1290,
@@ -1195,7 +1203,7 @@
           "name": "Irrigation-en-maraichage",
           "prevSize": 32,
           "code": 59838,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1291,
@@ -1203,7 +1211,7 @@
           "name": "Itineraire-des-poules",
           "prevSize": 32,
           "code": 59839,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1292,
@@ -1211,7 +1219,7 @@
           "name": "Karite",
           "prevSize": 32,
           "code": 59840,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1293,
@@ -1219,7 +1227,7 @@
           "name": "Labels",
           "prevSize": 32,
           "code": 59841,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1294,
@@ -1227,7 +1235,7 @@
           "name": "Labour",
           "prevSize": 32,
           "code": 59842,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1295,
@@ -1235,7 +1243,7 @@
           "name": "Laitue",
           "prevSize": 32,
           "code": 59843,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1296,
@@ -1243,7 +1251,7 @@
           "name": "Lapin",
           "prevSize": 32,
           "code": 59844,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1297,
@@ -1251,7 +1259,7 @@
           "name": "Lentille",
           "prevSize": 32,
           "code": 59845,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1298,
@@ -1259,7 +1267,7 @@
           "name": "Les-cepages",
           "prevSize": 32,
           "code": 59846,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1299,
@@ -1267,7 +1275,7 @@
           "name": "Lin",
           "prevSize": 32,
           "code": 59847,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1300,
@@ -1275,7 +1283,7 @@
           "name": "Luzerne",
           "prevSize": 32,
           "code": 59848,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1301,
@@ -1283,7 +1291,7 @@
           "name": "Mais",
           "prevSize": 32,
           "code": 59849,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1302,
@@ -1291,7 +1299,7 @@
           "name": "Maladies-cryptogamiques",
           "prevSize": 32,
           "code": 59850,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1303,
@@ -1299,7 +1307,7 @@
           "name": "Mammiferes",
           "prevSize": 32,
           "code": 59851,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1304,
@@ -1307,7 +1315,7 @@
           "name": "Mangue",
           "prevSize": 32,
           "code": 59852,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1305,
@@ -1315,7 +1323,7 @@
           "name": "Manioc",
           "prevSize": 32,
           "code": 59853,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1306,
@@ -1323,7 +1331,7 @@
           "name": "Maraichage",
           "prevSize": 32,
           "code": 59854,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1307,
@@ -1331,7 +1339,7 @@
           "name": "Maraichage-bio-intensif",
           "prevSize": 32,
           "code": 59855,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1308,
@@ -1339,7 +1347,7 @@
           "name": "Mecanisation",
           "prevSize": 32,
           "code": 59856,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1309,
@@ -1347,7 +1355,7 @@
           "name": "Melon",
           "prevSize": 32,
           "code": 59857,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1310,
@@ -1355,7 +1363,7 @@
           "name": "Meteil",
           "prevSize": 32,
           "code": 59858,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1311,
@@ -1363,7 +1371,7 @@
           "name": "Methanisation",
           "prevSize": 32,
           "code": 59859,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1312,
@@ -1371,7 +1379,7 @@
           "name": "Millet",
           "prevSize": 32,
           "code": 59860,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1313,
@@ -1379,7 +1387,7 @@
           "name": "Miscanthus",
           "prevSize": 32,
           "code": 59861,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1314,
@@ -1387,7 +1395,7 @@
           "name": "Mollusques",
           "prevSize": 32,
           "code": 59862,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1315,
@@ -1395,7 +1403,7 @@
           "name": "More",
           "prevSize": 32,
           "code": 59863,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1316,
@@ -1403,7 +1411,7 @@
           "name": "Moutarde",
           "prevSize": 32,
           "code": 59864,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1317,
@@ -1411,7 +1419,7 @@
           "name": "Mycosylviculture",
           "prevSize": 32,
           "code": 59865,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1318,
@@ -1419,7 +1427,7 @@
           "name": "Navet",
           "prevSize": 32,
           "code": 59866,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1319,
@@ -1427,7 +1435,7 @@
           "name": "Nematodes",
           "prevSize": 32,
           "code": 59867,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1320,
@@ -1435,7 +1443,7 @@
           "name": "Nere",
           "prevSize": 32,
           "code": 59868,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1321,
@@ -1443,7 +1451,7 @@
           "name": "Niebe",
           "prevSize": 32,
           "code": 59869,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1322,
@@ -1451,7 +1459,7 @@
           "name": "Noix",
           "prevSize": 32,
           "code": 59870,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1323,
@@ -1459,7 +1467,7 @@
           "name": "Noix-de-cajou",
           "prevSize": 32,
           "code": 59871,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1324,
@@ -1467,7 +1475,7 @@
           "name": "Noix-de-coco",
           "prevSize": 32,
           "code": 59872,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1325,
@@ -1475,7 +1483,7 @@
           "name": "Non-irrigue",
           "prevSize": 32,
           "code": 59873,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1326,
@@ -1483,7 +1491,7 @@
           "name": "Non-labour",
           "prevSize": 32,
           "code": 59874,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1327,
@@ -1491,7 +1499,7 @@
           "name": "Nutrition-des-bovins",
           "prevSize": 32,
           "code": 59875,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1328,
@@ -1499,7 +1507,7 @@
           "name": "Nutrition-des-brebis-laitieres",
           "prevSize": 32,
           "code": 59876,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1329,
@@ -1507,7 +1515,7 @@
           "name": "Nutrition-des-poules",
           "prevSize": 32,
           "code": 59877,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1330,
@@ -1515,7 +1523,7 @@
           "name": "Oignon",
           "prevSize": 32,
           "code": 59878,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1331,
@@ -1523,7 +1531,7 @@
           "name": "Oignon-1",
           "prevSize": 32,
           "code": 59879,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1332,
@@ -1531,7 +1539,7 @@
           "name": "Oiseaux",
           "prevSize": 32,
           "code": 59880,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1333,
@@ -1539,7 +1547,7 @@
           "name": "Olives",
           "prevSize": 32,
           "code": 59881,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1334,
@@ -1547,7 +1555,7 @@
           "name": "Orange",
           "prevSize": 32,
           "code": 59882,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1335,
@@ -1555,7 +1563,7 @@
           "name": "Other",
           "prevSize": 32,
           "code": 59883,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1336,
@@ -1563,7 +1571,7 @@
           "name": "Pamplemousse",
           "prevSize": 32,
           "code": 59884,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1337,
@@ -1571,7 +1579,7 @@
           "name": "Papaye",
           "prevSize": 32,
           "code": 59885,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1338,
@@ -1579,7 +1587,7 @@
           "name": "Partenariat",
           "prevSize": 32,
           "code": 59886,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1339,
@@ -1587,7 +1595,7 @@
           "name": "Pasteque",
           "prevSize": 32,
           "code": 59887,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1340,
@@ -1595,7 +1603,7 @@
           "name": "Patate-douce",
           "prevSize": 32,
           "code": 59888,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1341,
@@ -1603,7 +1611,7 @@
           "name": "Paturage-tournant-dynamique",
           "prevSize": 32,
           "code": 59889,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1342,
@@ -1611,7 +1619,7 @@
           "name": "PBI",
           "prevSize": 32,
           "code": 59890,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1343,
@@ -1619,7 +1627,7 @@
           "name": "Peche",
           "prevSize": 32,
           "code": 59891,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1344,
@@ -1627,7 +1635,7 @@
           "name": "Permaculture",
           "prevSize": 32,
           "code": 59892,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1345,
@@ -1635,7 +1643,7 @@
           "name": "Petit-pois",
           "prevSize": 32,
           "code": 59893,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1346,
@@ -1643,7 +1651,7 @@
           "name": "PFI",
           "prevSize": 32,
           "code": 59894,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1347,
@@ -1651,7 +1659,7 @@
           "name": "PH-5",
           "prevSize": 32,
           "code": 59895,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1348,
@@ -1659,7 +1667,7 @@
           "name": "PH-65",
           "prevSize": 32,
           "code": 59896,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1349,
@@ -1667,7 +1675,7 @@
           "name": "PH-75",
           "prevSize": 32,
           "code": 59897,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1350,
@@ -1675,7 +1683,7 @@
           "name": "PH-7",
           "prevSize": 32,
           "code": 59898,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1351,
@@ -1683,7 +1691,7 @@
           "name": "Piment",
           "prevSize": 32,
           "code": 59899,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1352,
@@ -1691,7 +1699,7 @@
           "name": "Pistache",
           "prevSize": 32,
           "code": 59900,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1353,
@@ -1699,7 +1707,7 @@
           "name": "Planification",
           "prevSize": 32,
           "code": 59901,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1354,
@@ -1707,7 +1715,7 @@
           "name": "Plantation-en-arboriculture",
           "prevSize": 32,
           "code": 59902,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1355,
@@ -1715,7 +1723,7 @@
           "name": "Plantation-en-viticulture",
           "prevSize": 32,
           "code": 59903,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1356,
@@ -1723,7 +1731,7 @@
           "name": "Poire",
           "prevSize": 32,
           "code": 59904,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1357,
@@ -1731,7 +1739,7 @@
           "name": "Poireau",
           "prevSize": 32,
           "code": 59905,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1358,
@@ -1739,7 +1747,7 @@
           "name": "Pois-chiche",
           "prevSize": 32,
           "code": 59906,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1359,
@@ -1747,7 +1755,7 @@
           "name": "Poivron",
           "prevSize": 32,
           "code": 59907,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1360,
@@ -1755,7 +1763,7 @@
           "name": "Polyculture",
           "prevSize": 32,
           "code": 59908,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1361,
@@ -1763,7 +1771,7 @@
           "name": "Polyculture-elevage",
           "prevSize": 32,
           "code": 59909,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1362,
@@ -1771,7 +1779,7 @@
           "name": "Pomme",
           "prevSize": 32,
           "code": 59910,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1363,
@@ -1779,7 +1787,7 @@
           "name": "Pomme-cannelle",
           "prevSize": 32,
           "code": 59911,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1364,
@@ -1787,7 +1795,7 @@
           "name": "Pomme-de-terre",
           "prevSize": 32,
           "code": 59912,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1365,
@@ -1795,7 +1803,7 @@
           "name": "Pre-verger",
           "prevSize": 32,
           "code": 59913,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1366,
@@ -1803,7 +1811,7 @@
           "name": "Protection-des-cultures",
           "prevSize": 32,
           "code": 59914,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1367,
@@ -1811,7 +1819,7 @@
           "name": "Protection-en-arboriculture",
           "prevSize": 32,
           "code": 59915,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1368,
@@ -1819,7 +1827,7 @@
           "name": "Protection-en-viticulture",
           "prevSize": 32,
           "code": 59916,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1369,
@@ -1827,7 +1835,7 @@
           "name": "Protection-integree-des-cultures-PIC",
           "prevSize": 32,
           "code": 59917,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1370,
@@ -1835,7 +1843,7 @@
           "name": "Prune",
           "prevSize": 32,
           "code": 59918,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1371,
@@ -1843,7 +1851,7 @@
           "name": "Quinoa",
           "prevSize": 32,
           "code": 59919,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1372,
@@ -1851,7 +1859,7 @@
           "name": "Radis",
           "prevSize": 32,
           "code": 59920,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1373,
@@ -1859,7 +1867,7 @@
           "name": "Ray-grass",
           "prevSize": 32,
           "code": 59921,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1374,
@@ -1867,7 +1875,7 @@
           "name": "Remise-en-vie-des-sols",
           "prevSize": 32,
           "code": 59922,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1375,
@@ -1875,7 +1883,7 @@
           "name": "Reproduction-des-bovins",
           "prevSize": 32,
           "code": 59923,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1376,
@@ -1883,7 +1891,7 @@
           "name": "Reproduction-des-brebis-lait",
           "prevSize": 32,
           "code": 59924,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1377,
@@ -1891,7 +1899,7 @@
           "name": "Reproduction-des-caprins",
           "prevSize": 32,
           "code": 59925,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1378,
@@ -1899,7 +1907,7 @@
           "name": "Riz",
           "prevSize": 32,
           "code": 59926,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1379,
@@ -1907,7 +1915,7 @@
           "name": "Romarin",
           "prevSize": 32,
           "code": 59927,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1380,
@@ -1915,7 +1923,7 @@
           "name": "Rongeurs",
           "prevSize": 32,
           "code": 59928,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1381,
@@ -1923,7 +1931,7 @@
           "name": "Rotations",
           "prevSize": 32,
           "code": 59929,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1382,
@@ -1931,7 +1939,7 @@
           "name": "Sante-des-bovins",
           "prevSize": 32,
           "code": 59930,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1383,
@@ -1939,7 +1947,7 @@
           "name": "Sante-des-elevages-ovins",
           "prevSize": 32,
           "code": 59931,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1384,
@@ -1947,7 +1955,7 @@
           "name": "Sante-des-poules",
           "prevSize": 32,
           "code": 59932,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1385,
@@ -1955,7 +1963,7 @@
           "name": "Sarrasin",
           "prevSize": 32,
           "code": 59933,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1386,
@@ -1963,7 +1971,7 @@
           "name": "SAU",
           "prevSize": 32,
           "code": 59934,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1387,
@@ -1971,7 +1979,7 @@
           "name": "SDSC",
           "prevSize": 32,
           "code": 59935,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1388,
@@ -1979,7 +1987,7 @@
           "name": "Semis-Direct",
           "prevSize": 32,
           "code": 59936,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1389,
@@ -1987,7 +1995,7 @@
           "name": "Senegal",
           "prevSize": 32,
           "code": 59937,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1390,
@@ -1995,7 +2003,7 @@
           "name": "Soja",
           "prevSize": 32,
           "code": 59938,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1391,
@@ -2003,7 +2011,7 @@
           "name": "Sorgho",
           "prevSize": 32,
           "code": 59939,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1392,
@@ -2037,7 +2045,6 @@
             59962
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2059,7 +2066,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2093,7 +2101,6 @@
             59984
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2114,7 +2121,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2147,7 +2155,6 @@
             60005
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2167,7 +2174,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2202,7 +2210,6 @@
             60028
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2224,7 +2231,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2263,7 +2271,6 @@
             60055
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2289,7 +2296,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2298,7 +2306,7 @@
           "name": "Strategie-dinvestissements",
           "prevSize": 32,
           "code": 60056,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1398,
@@ -2306,7 +2314,7 @@
           "name": "Sylviculture",
           "prevSize": 32,
           "code": 60057,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1399,
@@ -2314,7 +2322,7 @@
           "name": "Sylvopastoralisme",
           "prevSize": 32,
           "code": 60058,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1400,
@@ -2322,7 +2330,7 @@
           "name": "Systemes-et-choix-des-especes",
           "prevSize": 32,
           "code": 60059,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1401,
@@ -2330,7 +2338,7 @@
           "name": "Taille",
           "prevSize": 32,
           "code": 60060,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1402,
@@ -2338,7 +2346,7 @@
           "name": "TCS",
           "prevSize": 32,
           "code": 60061,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1403,
@@ -2346,7 +2354,7 @@
           "name": "Abricot",
           "prevSize": 32,
           "code": 60062,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1404,
@@ -2354,7 +2362,7 @@
           "name": "Acariens",
           "prevSize": 32,
           "code": 60063,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1405,
@@ -2362,7 +2370,7 @@
           "name": "ACS",
           "prevSize": 32,
           "code": 60064,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1406,
@@ -2370,7 +2378,7 @@
           "name": "Adventices",
           "prevSize": 32,
           "code": 60065,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1407,
@@ -2378,7 +2386,7 @@
           "name": "Agriculture-bio",
           "prevSize": 32,
           "code": 60066,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1408,
@@ -2386,7 +2394,7 @@
           "name": "Agriculture-conventionnelle",
           "prevSize": 32,
           "code": 60067,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1409,
@@ -2394,7 +2402,7 @@
           "name": "Agriculture-de-precision",
           "prevSize": 32,
           "code": 60068,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1410,
@@ -2402,7 +2410,7 @@
           "name": "Agriculture-hors-sol",
           "prevSize": 32,
           "code": 60069,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1411,
@@ -2410,7 +2418,7 @@
           "name": "Agriculture-integree",
           "prevSize": 32,
           "code": 60070,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1412,
@@ -2418,7 +2426,7 @@
           "name": "Agriculture-raisonnee",
           "prevSize": 32,
           "code": 60071,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1413,
@@ -2426,7 +2434,7 @@
           "name": "Agrivoltaisme",
           "prevSize": 32,
           "code": 60072,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1414,
@@ -2434,7 +2442,7 @@
           "name": "Agroforesterie",
           "prevSize": 32,
           "code": 60073,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1415,
@@ -2442,7 +2450,7 @@
           "name": "Agroforesterie-GC",
           "prevSize": 32,
           "code": 60074,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1416,
@@ -2450,7 +2458,7 @@
           "name": "Agroforesterie-Maraichage",
           "prevSize": 32,
           "code": 60075,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1417,
@@ -2458,7 +2466,7 @@
           "name": "Ail",
           "prevSize": 32,
           "code": 60076,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1418,
@@ -2466,7 +2474,7 @@
           "name": "Amande",
           "prevSize": 32,
           "code": 60077,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1419,
@@ -2474,7 +2482,7 @@
           "name": "Amarante",
           "prevSize": 32,
           "code": 60078,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1420,
@@ -2482,7 +2490,7 @@
           "name": "Aneth",
           "prevSize": 32,
           "code": 60079,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1421,
@@ -2490,7 +2498,7 @@
           "name": "Apiculture",
           "prevSize": 32,
           "code": 60080,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1422,
@@ -2498,7 +2506,7 @@
           "name": "Approche-redox",
           "prevSize": 32,
           "code": 60081,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1423,
@@ -2506,7 +2514,7 @@
           "name": "Arachide",
           "prevSize": 32,
           "code": 60082,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1424,
@@ -2514,7 +2522,7 @@
           "name": "Arboriculture",
           "prevSize": 32,
           "code": 60083,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1425,
@@ -2522,7 +2530,7 @@
           "name": "Artichaut",
           "prevSize": 32,
           "code": 60084,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1426,
@@ -2530,7 +2538,7 @@
           "name": "Association-de-culture",
           "prevSize": 32,
           "code": 60085,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1427,
@@ -2538,7 +2546,7 @@
           "name": "Aubergine",
           "prevSize": 32,
           "code": 60086,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1428,
@@ -2546,7 +2554,7 @@
           "name": "Auto-fertilite-du-sol",
           "prevSize": 32,
           "code": 60087,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1429,
@@ -2554,7 +2562,7 @@
           "name": "Autonomie-en-MO",
           "prevSize": 32,
           "code": 60088,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1430,
@@ -2562,7 +2570,7 @@
           "name": "Autonomie-en-proteines",
           "prevSize": 32,
           "code": 60089,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1431,
@@ -2570,7 +2578,7 @@
           "name": "Aviculture",
           "prevSize": 32,
           "code": 60090,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1432,
@@ -2578,7 +2586,7 @@
           "name": "Aviculture-oeufs",
           "prevSize": 32,
           "code": 60091,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1433,
@@ -2586,7 +2594,7 @@
           "name": "Bacteries",
           "prevSize": 32,
           "code": 60092,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1434,
@@ -2594,7 +2602,7 @@
           "name": "Bambou",
           "prevSize": 32,
           "code": 60093,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1435,
@@ -2602,7 +2610,7 @@
           "name": "Banane",
           "prevSize": 32,
           "code": 60094,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1436,
@@ -2610,7 +2618,7 @@
           "name": "Basilique",
           "prevSize": 32,
           "code": 60095,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1437,
@@ -2618,7 +2626,7 @@
           "name": "Batiments-delevage",
           "prevSize": 32,
           "code": 60096,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1438,
@@ -2626,7 +2634,7 @@
           "name": "Benin",
           "prevSize": 32,
           "code": 60097,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1439,
@@ -2634,7 +2642,7 @@
           "name": "Betterave",
           "prevSize": 32,
           "code": 60098,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1440,
@@ -2642,7 +2650,7 @@
           "name": "Biodiversite",
           "prevSize": 32,
           "code": 60099,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1441,
@@ -2685,7 +2693,6 @@
             60131
           ],
           "tempChar": [
-            "",
             "",
             "",
             "",
@@ -2716,7 +2723,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            ""
           ]
         },
         {
@@ -2725,7 +2733,7 @@
           "name": "Bromes",
           "prevSize": 32,
           "code": 60132,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1443,
@@ -2733,7 +2741,7 @@
           "name": "Cacao",
           "prevSize": 32,
           "code": 60133,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1444,
@@ -2741,7 +2749,7 @@
           "name": "Cahier-des-charges",
           "prevSize": 32,
           "code": 60134,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1445,
@@ -2749,7 +2757,7 @@
           "name": "Canard",
           "prevSize": 32,
           "code": 60135,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1446,
@@ -2757,7 +2765,7 @@
           "name": "Canne-a-sucre",
           "prevSize": 32,
           "code": 60136,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1447,
@@ -2765,7 +2773,7 @@
           "name": "Carotte",
           "prevSize": 32,
           "code": 60137,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1448,
@@ -2773,7 +2781,7 @@
           "name": "Cassis",
           "prevSize": 32,
           "code": 60138,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1449,
@@ -2781,7 +2789,7 @@
           "name": "Cereales",
           "prevSize": 32,
           "code": 60139,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1450,
@@ -2789,7 +2797,7 @@
           "name": "Cerise",
           "prevSize": 32,
           "code": 60140,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1451,
@@ -2797,7 +2805,7 @@
           "name": "Chataigne",
           "prevSize": 32,
           "code": 60141,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1452,
@@ -2805,7 +2813,7 @@
           "name": "Chia",
           "prevSize": 32,
           "code": 60142,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1453,
@@ -2813,7 +2821,7 @@
           "name": "Chou",
           "prevSize": 32,
           "code": 60143,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1454,
@@ -2821,7 +2829,7 @@
           "name": "Choux",
           "prevSize": 32,
           "code": 60144,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1455,
@@ -2829,7 +2837,7 @@
           "name": "Ciboulette",
           "prevSize": 32,
           "code": 60145,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1456,
@@ -2837,7 +2845,7 @@
           "name": "Circuit-court",
           "prevSize": 32,
           "code": 60146,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1457,
@@ -2845,7 +2853,7 @@
           "name": "Citron",
           "prevSize": 32,
           "code": 60147,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1458,
@@ -2853,7 +2861,7 @@
           "name": "Citronnelle",
           "prevSize": 32,
           "code": 60148,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1459,
@@ -2861,7 +2869,7 @@
           "name": "Colza",
           "prevSize": 32,
           "code": 60149,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1460,
@@ -2869,7 +2877,7 @@
           "name": "Compaction",
           "prevSize": 32,
           "code": 60150,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1461,
@@ -2877,7 +2885,7 @@
           "name": "Concombre",
           "prevSize": 32,
           "code": 60151,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1462,
@@ -2885,7 +2893,7 @@
           "name": "Conventionnelle",
           "prevSize": 32,
           "code": 60152,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1463,
@@ -2893,7 +2901,7 @@
           "name": "Coriandre",
           "prevSize": 32,
           "code": 60153,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1464,
@@ -2901,7 +2909,7 @@
           "name": "Corossol",
           "prevSize": 32,
           "code": 60154,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1465,
@@ -2909,7 +2917,7 @@
           "name": "Courge",
           "prevSize": 32,
           "code": 60155,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1466,
@@ -2917,7 +2925,7 @@
           "name": "Couverts-permanents",
           "prevSize": 32,
           "code": 60156,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1467,
@@ -2925,7 +2933,7 @@
           "name": "Couverts-vegetaux",
           "prevSize": 32,
           "code": 60157,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1468,
@@ -2933,7 +2941,7 @@
           "name": "Cultures-fourrageres",
           "prevSize": 32,
           "code": 60158,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1469,
@@ -2941,7 +2949,7 @@
           "name": "Culture-sous-abri",
           "prevSize": 32,
           "code": 60159,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1470,
@@ -2949,7 +2957,7 @@
           "name": "Cultures-tropicales",
           "prevSize": 32,
           "code": 60160,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -2963,6 +2971,23 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 240,
+          "paths": [
+            "M672.707 362.099c-13.458 0-24.367 10.91-24.367 24.367s10.91 24.367 24.367 24.367c13.458 0 24.367-10.91 24.367-24.367 0-0.026-0-0.051-0-0.077l0 0.004c-0.041-13.426-10.935-24.295-24.367-24.295-0 0-0 0-0 0l-0 0zM672.707 392.63c-3.413-0.041-6.164-2.817-6.164-6.236 0-0 0-0 0-0l-0 0c0.041-3.373 2.785-6.092 6.164-6.092 3.404 0 6.164 2.76 6.164 6.164s-2.76 6.164-6.164 6.164l-0 0z",
+            "M755.381 353.541c-35.173-41.7-84.342-63.456-130.321-59.758-5.566-30.039-14.29-56.778-26.028-81.823l0.863 2.049c-23.062-51.635-52.143-90.434-74.044-98.846-2.577-1.133-5.581-1.793-8.739-1.793s-6.162 0.66-8.882 1.849l0.143-0.056c-17.478 7.832-16.317 36.261-11.458 61.353-31.764-27.341-65.704-45.978-83.544-30.822-7.977 6.744-14.504 22.192 1.16 57.364 14.451 30.326 31.843 56.438 52.386 79.703l-0.316-0.365c21.312 26.007 45.935 48.232 73.473 66.396l1.224 0.758c-7.735 16.293-12.252 35.403-12.252 55.567 0 13.813 2.12 27.131 6.051 39.646l-0.253-0.936c-6.678-0.789-14.462-1.262-22.348-1.305l-0.061-0h-20.451c-0.179-0-0.392-0.001-0.604-0.001-70.515 0-134.594 27.558-182.054 72.491l0.122-0.114c-9.217-16.985-26.915-28.324-47.262-28.324-29.599 0-53.593 23.994-53.593 53.593 0 25.999 18.514 47.675 43.077 52.562l0.341 0.057c-17.153 34.146-27.196 74.41-27.196 117.019 0 0.087 0 0.175 0 0.262l-0-0.014c-0 0-0 0-0 0 0 80.658 65.283 146.069 145.893 146.275l0.020 0 179.345 2.683c10.683-0.013 20.361-4.302 27.418-11.246l-0.005 0.005c3.814-4.044 6.846-8.873 8.826-14.213l0.094-0.291c1.396-3.841 2.217-8.274 2.248-12.895l0-0.014c-0.041-21.211-17.225-38.395-38.432-38.436l-0.004-0h-31.909l57.509-19.581c6.599 10.008 20.814 30.894 35.608 50.040 25.745 33.505 36.696 40.612 42.642 43.005 7.6 2.904 16.39 4.585 25.573 4.585 0.545 0 1.088-0.006 1.63-0.018l-0.081 0.001c11.627-0.078 22.861-1.608 33.578-4.416l-0.944 0.21c3.434-0.9 6.026-3.711 6.593-7.201l0.007-0.051c0-1.088 3.408-26.253-10.225-42.642-5.061-6.032-11.969-10.367-19.846-12.138l-0.242-0.046 1.233-61.716c12.545-26.283 19.871-57.122 19.871-89.673 0-0.166-0-0.331-0.001-0.497l0 0.026c0.001-0.229 0.002-0.499 0.002-0.77 0-25.282-4.791-49.445-13.516-71.63l0.46 1.329c23.784-1.125 45.279-10.092 62.16-24.349l-0.154 0.127c50.765-43.513 48.734-129.741-4.859-192.616zM516.061 131.989c0.2-0.018 0.432-0.028 0.667-0.028 1.038 0 2.030 0.196 2.941 0.554l-0.055-0.019c14.504 5.439 41.12 37.929 63.964 89.274 10.232 21.638 18.496 46.81 23.54 73.126l0.32 2.006c-0.77 0.157-1.449 0.382-2.090 0.677l0.059-0.024-2.248 0.58c-4.117 1.204-7.464 2.414-10.721 3.795l0.64-0.241c-14.485-31.168-32.193-57.996-53.248-81.795l0.307 0.354c-3.191-3.699-6.382-7.252-9.573-10.806l-3.263-3.408c-1.813-1.958-3.626-3.916-5.512-5.729-14.504-46.776-9.21-66.575-5.657-68.17zM748.782 532.378c-15.061 12.526-34.605 20.128-55.923 20.128-2.677 0-5.327-0.12-7.943-0.355l0.338 0.024c-0.169-0.011-0.367-0.018-0.566-0.018-5.047 0-9.138 4.091-9.138 9.138 0 1.402 0.316 2.73 0.88 3.917l-0.024-0.055c10.621 22.084 16.827 48.014 16.827 75.394 0 0.316-0.001 0.632-0.002 0.947l0-0.049c0.001 0.258 0.002 0.563 0.002 0.869 0 30.281-6.93 58.943-19.29 84.487l0.505-1.158c-0.472 1.102-0.806 2.38-0.938 3.717l-0.004 0.054-1.45 71.651c-0 0.027-0 0.059-0 0.091 0 4.883 3.799 8.878 8.603 9.191l0.027 0.001c0.117-0.002 0.255-0.004 0.393-0.004 6.080 0 11.546 2.625 15.328 6.803l0.016 0.018c4.101 5.939 6.551 13.292 6.551 21.218 0 0.47-0.009 0.938-0.026 1.403l0.002-0.067c-5.667 1.374-12.174 2.162-18.865 2.162-8.212 0-16.147-1.187-23.643-3.399l0.59 0.149c-2.103-0.943-11.168-6.164-34.955-37.276-20.016-25.382-38.654-54.391-38.654-54.391-1.57-2.429-4.206-4.052-7.23-4.205l-0.022-0.001c-0.008-0-0.016-0-0.025-0-1.026 0-2.016 0.159-2.944 0.454l0.069-0.019-79.773 27.195c14.673-19.967 23.481-45.038 23.481-72.165 0-67.729-54.905-122.633-122.633-122.633-0.454 0-0.907 0.002-1.359 0.007l0.069-0.001c-4.684 0.431-8.324 4.341-8.324 9.101s3.64 8.67 8.289 9.099l0.036 0.003c57.849 0.035 104.731 46.939 104.731 104.793 0 34.898-17.059 65.812-43.293 84.858l-0.303 0.209s0 0 0 0l-0.943 0.653c-0.272 0.296-0.513 0.63-0.712 0.989l-0.013 0.026v0.435c-0.117 0.198-0.239 0.436-0.346 0.682l-0.017 0.043c0 0.435 0 0.943-0.508 1.45-0.046 0.218-0.072 0.469-0.072 0.725s0.026 0.507 0.076 0.749l-0.004-0.024s0 0.725 0 1.088c-0.019 0.109-0.030 0.235-0.030 0.363s0.011 0.254 0.032 0.376l-0.002-0.013c-0.032 0.086-0.050 0.186-0.050 0.29s0.018 0.204 0.052 0.296l-0.002-0.006c0.378 2.521 1.739 4.667 3.672 6.074l0.026 0.018h0.508c0.604 0.371 1.3 0.691 2.035 0.924l0.068 0.019c0.086-0.032 0.186-0.050 0.29-0.050s0.204 0.018 0.296 0.052l-0.006-0.002c0.611 0.206 1.325 0.359 2.062 0.432l0.041 0.003h87.025c0-0 0-0 0-0 11.189 0 20.265 9.050 20.306 20.229l0 0.004c0.001 0.064 0.001 0.139 0.001 0.215 0 2.375-0.453 4.644-1.277 6.726l0.043-0.124c-1.024 2.847-2.61 5.273-4.637 7.248l-0.004 0.004c-3.656 3.631-8.694 5.876-14.257 5.876-0.087 0-0.174-0.001-0.261-0.002l0.013 0-179.418-2.683c-0.239 0.002-0.521 0.003-0.804 0.003-70.34 0-127.443-56.673-128.139-126.849l-0.001-0.066c-0-0.075-0-0.163-0-0.251 0-44.374 11.701-86.015 32.185-122.005l-0.639 1.219c0.85-1.362 1.354-3.015 1.354-4.786s-0.504-3.425-1.376-4.825l0.022 0.039c-1.637-2.421-4.372-3.991-7.473-3.991-0.408 0-0.809 0.027-1.203 0.080l0.046-0.005c-0.51 0.037-1.105 0.058-1.704 0.058s-1.194-0.021-1.784-0.062l0.079 0.004c-0.062 0-0.135 0.001-0.209 0.001-19.586 0-35.463-15.877-35.463-35.463s15.877-35.463 35.463-35.463c17.174 0 31.496 12.207 34.763 28.418l0.038 0.227c0.587 3.491 3.1 6.271 6.39 7.236l0.064 0.016c0.759 0.228 1.632 0.359 2.535 0.359 2.631 0 5.003-1.112 6.67-2.892l0.005-0.005c1.088-1.16 2.248-2.466 3.408-3.626 44.86-45.282 107.061-73.319 175.809-73.319 0.019 0 0.039 0 0.058 0l20.521-0c12.069 0.062 23.816 1.274 35.186 3.53l-1.174-0.194c0.478 0.088 1.027 0.139 1.588 0.139 5.047 0 9.138-4.091 9.138-9.138 0-1.144-0.21-2.239-0.594-3.248l0.021 0.063c-13.997-36.261-12.184-74.044 4.714-101.53 0.892-1.365 1.422-3.037 1.422-4.832 0-0.862-0.122-1.695-0.35-2.483l0.016 0.063c-0.623-2.492-2.266-4.514-4.448-5.634l-0.049-0.023c-22.627-11.168-51.635-36.478-77.453-66.937-19.033-21.614-35.468-46.211-48.392-72.829l-0.85-1.94c-9.645-21.756-8.92-33.722-6.019-36.261 6.164-5.222 38.726 7.252 81.804 51.853 6.164 6.237 12.546 13.271 18.856 20.741 25.165 29.008 45.108 61.135 53.303 84.922 1.244 3.605 4.602 6.15 8.556 6.164l0.002 0h0.87c1.264-0.087 2.426-0.453 3.448-1.036l-0.040 0.021c7.695-4.188 16.634-7.347 26.092-8.99l0.523-0.075c41.772-7.252 89.926 13.489 122.851 52.36 47.066 55.189 50.112 130.538 6.89 166.799z"
+          ],
+          "attrs": [
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Cuniculture"
+          ]
+        },
         {
           "id": 239,
           "paths": [
@@ -10420,7 +10445,7 @@
           "name": "Departement-01",
           "prevSize": 32,
           "code": 60161,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1472,
@@ -10428,7 +10453,7 @@
           "name": "Departement-02",
           "prevSize": 32,
           "code": 60162,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1473,
@@ -10436,7 +10461,7 @@
           "name": "Departement-2A",
           "prevSize": 32,
           "code": 60163,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1474,
@@ -10444,7 +10469,7 @@
           "name": "Departement-2B",
           "prevSize": 32,
           "code": 60164,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1475,
@@ -10452,7 +10477,7 @@
           "name": "Departement-03",
           "prevSize": 32,
           "code": 60165,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1476,
@@ -10460,7 +10485,7 @@
           "name": "Departement-04",
           "prevSize": 32,
           "code": 60166,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1477,
@@ -10468,7 +10493,7 @@
           "name": "Departement-05",
           "prevSize": 32,
           "code": 60167,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1478,
@@ -10476,7 +10501,7 @@
           "name": "Departement-06",
           "prevSize": 32,
           "code": 60168,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1479,
@@ -10484,7 +10509,7 @@
           "name": "Departement-07",
           "prevSize": 32,
           "code": 60169,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1480,
@@ -10492,7 +10517,7 @@
           "name": "Departement-08",
           "prevSize": 32,
           "code": 60170,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1481,
@@ -10500,7 +10525,7 @@
           "name": "Departement-09",
           "prevSize": 32,
           "code": 60171,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1482,
@@ -10508,7 +10533,7 @@
           "name": "Departement-10",
           "prevSize": 32,
           "code": 60172,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1483,
@@ -10516,7 +10541,7 @@
           "name": "Departement-11",
           "prevSize": 32,
           "code": 60173,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1484,
@@ -10524,7 +10549,7 @@
           "name": "Departement-12",
           "prevSize": 32,
           "code": 60174,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1485,
@@ -10532,7 +10557,7 @@
           "name": "Departement-13",
           "prevSize": 32,
           "code": 60175,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1486,
@@ -10540,7 +10565,7 @@
           "name": "Departement-14",
           "prevSize": 32,
           "code": 60176,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1487,
@@ -10548,7 +10573,7 @@
           "name": "Departement-15",
           "prevSize": 32,
           "code": 60177,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1488,
@@ -10556,7 +10581,7 @@
           "name": "Departement-16",
           "prevSize": 32,
           "code": 60178,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1489,
@@ -10564,7 +10589,7 @@
           "name": "Departement-17",
           "prevSize": 32,
           "code": 60179,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1490,
@@ -10572,7 +10597,7 @@
           "name": "Departement-18",
           "prevSize": 32,
           "code": 60180,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1491,
@@ -10580,7 +10605,7 @@
           "name": "Departement-19",
           "prevSize": 32,
           "code": 60181,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1492,
@@ -10588,7 +10613,7 @@
           "name": "Departement-21",
           "prevSize": 32,
           "code": 60182,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1493,
@@ -10596,7 +10621,7 @@
           "name": "Departement-22",
           "prevSize": 32,
           "code": 60183,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1494,
@@ -10604,7 +10629,7 @@
           "name": "Departement-23",
           "prevSize": 32,
           "code": 60184,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1495,
@@ -10612,7 +10637,7 @@
           "name": "Departement-24",
           "prevSize": 32,
           "code": 60185,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1496,
@@ -10620,7 +10645,7 @@
           "name": "Departement-25",
           "prevSize": 32,
           "code": 60186,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1497,
@@ -10628,7 +10653,7 @@
           "name": "Departement-26",
           "prevSize": 32,
           "code": 60187,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1498,
@@ -10636,7 +10661,7 @@
           "name": "Departement-27",
           "prevSize": 32,
           "code": 60188,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1499,
@@ -10644,7 +10669,7 @@
           "name": "Departement-28",
           "prevSize": 32,
           "code": 60189,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1500,
@@ -10652,7 +10677,7 @@
           "name": "Departement-29",
           "prevSize": 32,
           "code": 60190,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1501,
@@ -10660,7 +10685,7 @@
           "name": "Departement-30",
           "prevSize": 32,
           "code": 60191,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1502,
@@ -10668,7 +10693,7 @@
           "name": "Departement-31",
           "prevSize": 32,
           "code": 60192,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1503,
@@ -10676,7 +10701,7 @@
           "name": "Departement-32",
           "prevSize": 32,
           "code": 60193,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1504,
@@ -10684,7 +10709,7 @@
           "name": "Departement-33",
           "prevSize": 32,
           "code": 60194,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1505,
@@ -10692,7 +10717,7 @@
           "name": "Departement-34",
           "prevSize": 32,
           "code": 60195,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1506,
@@ -10700,7 +10725,7 @@
           "name": "Departement-35",
           "prevSize": 32,
           "code": 60196,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1507,
@@ -10708,7 +10733,7 @@
           "name": "Departement-36",
           "prevSize": 32,
           "code": 60197,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1508,
@@ -10716,7 +10741,7 @@
           "name": "Departement-37",
           "prevSize": 32,
           "code": 60198,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1509,
@@ -10724,7 +10749,7 @@
           "name": "Departement-38",
           "prevSize": 32,
           "code": 60199,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1510,
@@ -10732,7 +10757,7 @@
           "name": "Departement-39",
           "prevSize": 32,
           "code": 60200,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1511,
@@ -10740,7 +10765,7 @@
           "name": "Departement-40",
           "prevSize": 32,
           "code": 60201,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1512,
@@ -10748,7 +10773,7 @@
           "name": "Departement-41",
           "prevSize": 32,
           "code": 60202,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1513,
@@ -10756,7 +10781,7 @@
           "name": "Departement-42",
           "prevSize": 32,
           "code": 60203,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1514,
@@ -10764,7 +10789,7 @@
           "name": "Departement-43",
           "prevSize": 32,
           "code": 60204,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1515,
@@ -10772,7 +10797,7 @@
           "name": "Departement-44",
           "prevSize": 32,
           "code": 60205,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1516,
@@ -10780,7 +10805,7 @@
           "name": "Departement-45",
           "prevSize": 32,
           "code": 60206,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1517,
@@ -10788,7 +10813,7 @@
           "name": "Departement-46",
           "prevSize": 32,
           "code": 60207,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1518,
@@ -10796,7 +10821,7 @@
           "name": "Departement-47",
           "prevSize": 32,
           "code": 60208,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1519,
@@ -10804,7 +10829,7 @@
           "name": "Departement-48",
           "prevSize": 32,
           "code": 60209,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1520,
@@ -10812,7 +10837,7 @@
           "name": "Departement-49",
           "prevSize": 32,
           "code": 60210,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1521,
@@ -10820,7 +10845,7 @@
           "name": "Departement-50",
           "prevSize": 32,
           "code": 60211,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1522,
@@ -10828,7 +10853,7 @@
           "name": "Departement-51",
           "prevSize": 32,
           "code": 60212,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1523,
@@ -10836,7 +10861,7 @@
           "name": "Departement-52",
           "prevSize": 32,
           "code": 60213,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1524,
@@ -10844,7 +10869,7 @@
           "name": "Departement-53",
           "prevSize": 32,
           "code": 60214,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1525,
@@ -10852,7 +10877,7 @@
           "name": "Departement-54",
           "prevSize": 32,
           "code": 60215,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1526,
@@ -10860,7 +10885,7 @@
           "name": "Departement-55",
           "prevSize": 32,
           "code": 60216,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1527,
@@ -10868,7 +10893,7 @@
           "name": "Departement-56",
           "prevSize": 32,
           "code": 60217,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1528,
@@ -10876,7 +10901,7 @@
           "name": "Departement-57",
           "prevSize": 32,
           "code": 60218,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1529,
@@ -10884,7 +10909,7 @@
           "name": "Departement-58",
           "prevSize": 32,
           "code": 60219,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1530,
@@ -10892,7 +10917,7 @@
           "name": "Departement-59",
           "prevSize": 32,
           "code": 60220,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1531,
@@ -10900,7 +10925,7 @@
           "name": "Departement-60",
           "prevSize": 32,
           "code": 60221,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1532,
@@ -10908,7 +10933,7 @@
           "name": "Departement-61",
           "prevSize": 32,
           "code": 60222,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1533,
@@ -10916,7 +10941,7 @@
           "name": "Departement-62",
           "prevSize": 32,
           "code": 60223,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1534,
@@ -10924,7 +10949,7 @@
           "name": "Departement-63",
           "prevSize": 32,
           "code": 60224,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1535,
@@ -10932,7 +10957,7 @@
           "name": "Departement-64",
           "prevSize": 32,
           "code": 60225,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1536,
@@ -10940,7 +10965,7 @@
           "name": "Departement-65",
           "prevSize": 32,
           "code": 60226,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1537,
@@ -10948,7 +10973,7 @@
           "name": "Departement-66",
           "prevSize": 32,
           "code": 60227,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1538,
@@ -10956,7 +10981,7 @@
           "name": "Departement-67",
           "prevSize": 32,
           "code": 60228,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1539,
@@ -10964,7 +10989,7 @@
           "name": "Departement-68",
           "prevSize": 32,
           "code": 60229,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1540,
@@ -10972,7 +10997,7 @@
           "name": "Departement-69",
           "prevSize": 32,
           "code": 60230,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1541,
@@ -10980,7 +11005,7 @@
           "name": "Departement-70",
           "prevSize": 32,
           "code": 60231,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1542,
@@ -10988,7 +11013,7 @@
           "name": "Departement-71",
           "prevSize": 32,
           "code": 60232,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1543,
@@ -10996,7 +11021,7 @@
           "name": "Departement-72",
           "prevSize": 32,
           "code": 60233,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1544,
@@ -11004,7 +11029,7 @@
           "name": "Departement-73",
           "prevSize": 32,
           "code": 60234,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1545,
@@ -11012,7 +11037,7 @@
           "name": "Departement-74",
           "prevSize": 32,
           "code": 60235,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1546,
@@ -11020,7 +11045,7 @@
           "name": "Departement-75",
           "prevSize": 32,
           "code": 60236,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1547,
@@ -11028,7 +11053,7 @@
           "name": "Departement-76",
           "prevSize": 32,
           "code": 60237,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1548,
@@ -11036,7 +11061,7 @@
           "name": "Departement-77",
           "prevSize": 32,
           "code": 60238,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1549,
@@ -11044,7 +11069,7 @@
           "name": "Departement-78",
           "prevSize": 32,
           "code": 60239,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1550,
@@ -11052,7 +11077,7 @@
           "name": "Departement-79",
           "prevSize": 32,
           "code": 60240,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1551,
@@ -11060,7 +11085,7 @@
           "name": "Departement-80",
           "prevSize": 32,
           "code": 60241,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1552,
@@ -11068,7 +11093,7 @@
           "name": "Departement-81",
           "prevSize": 32,
           "code": 60242,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1553,
@@ -11076,7 +11101,7 @@
           "name": "Departement-82",
           "prevSize": 32,
           "code": 60243,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1554,
@@ -11084,7 +11109,7 @@
           "name": "Departement-83",
           "prevSize": 32,
           "code": 60244,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1555,
@@ -11092,7 +11117,7 @@
           "name": "Departement-84",
           "prevSize": 32,
           "code": 60245,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1556,
@@ -11100,7 +11125,7 @@
           "name": "Departement-85",
           "prevSize": 32,
           "code": 60246,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1557,
@@ -11108,7 +11133,7 @@
           "name": "Departement-86",
           "prevSize": 32,
           "code": 60247,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1558,
@@ -11116,7 +11141,7 @@
           "name": "Departement-87",
           "prevSize": 32,
           "code": 60248,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1559,
@@ -11124,7 +11149,7 @@
           "name": "Departement-88",
           "prevSize": 32,
           "code": 60249,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1560,
@@ -11132,7 +11157,7 @@
           "name": "Departement-89",
           "prevSize": 32,
           "code": 60250,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1561,
@@ -11140,7 +11165,7 @@
           "name": "Departement-90",
           "prevSize": 32,
           "code": 60251,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1562,
@@ -11148,7 +11173,7 @@
           "name": "Departement-91",
           "prevSize": 32,
           "code": 60252,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1563,
@@ -11156,7 +11181,7 @@
           "name": "Departement-92",
           "prevSize": 32,
           "code": 60253,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1564,
@@ -11164,7 +11189,7 @@
           "name": "Departement-93",
           "prevSize": 32,
           "code": 60254,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1565,
@@ -11172,7 +11197,7 @@
           "name": "Departement-94",
           "prevSize": 32,
           "code": 60255,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1566,
@@ -11180,7 +11205,7 @@
           "name": "Departement-95",
           "prevSize": 32,
           "code": 60256,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1567,
@@ -11188,7 +11213,7 @@
           "name": "Departement-972",
           "prevSize": 32,
           "code": 60257,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1568,
@@ -11196,7 +11221,7 @@
           "name": "Departement-973",
           "prevSize": 32,
           "code": 60258,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1569,
@@ -11204,7 +11229,7 @@
           "name": "Departement-974",
           "prevSize": 32,
           "code": 60259,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1570,
@@ -11212,7 +11237,7 @@
           "name": "Departement-976",
           "prevSize": 32,
           "code": 60260,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
