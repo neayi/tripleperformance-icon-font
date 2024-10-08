@@ -10491,12 +10491,20 @@
     {
       "selection": [
         {
+          "order": 1591,
+          "id": 100,
+          "name": "Departement-971",
+          "prevSize": 32,
+          "code": 60277,
+          "tempChar": ""
+        },
+        {
           "order": 1471,
           "id": 99,
           "name": "Departement-01",
           "prevSize": 32,
           "code": 60161,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1472,
@@ -10504,7 +10512,7 @@
           "name": "Departement-02",
           "prevSize": 32,
           "code": 60162,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1473,
@@ -10512,7 +10520,7 @@
           "name": "Departement-2A",
           "prevSize": 32,
           "code": 60163,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1474,
@@ -10520,7 +10528,7 @@
           "name": "Departement-2B",
           "prevSize": 32,
           "code": 60164,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1475,
@@ -10528,7 +10536,7 @@
           "name": "Departement-03",
           "prevSize": 32,
           "code": 60165,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1476,
@@ -10536,7 +10544,7 @@
           "name": "Departement-04",
           "prevSize": 32,
           "code": 60166,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1477,
@@ -10544,7 +10552,7 @@
           "name": "Departement-05",
           "prevSize": 32,
           "code": 60167,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1478,
@@ -10552,7 +10560,7 @@
           "name": "Departement-06",
           "prevSize": 32,
           "code": 60168,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1479,
@@ -10560,7 +10568,7 @@
           "name": "Departement-07",
           "prevSize": 32,
           "code": 60169,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1480,
@@ -10568,7 +10576,7 @@
           "name": "Departement-08",
           "prevSize": 32,
           "code": 60170,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1481,
@@ -10576,7 +10584,7 @@
           "name": "Departement-09",
           "prevSize": 32,
           "code": 60171,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1482,
@@ -10584,7 +10592,7 @@
           "name": "Departement-10",
           "prevSize": 32,
           "code": 60172,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1483,
@@ -10592,7 +10600,7 @@
           "name": "Departement-11",
           "prevSize": 32,
           "code": 60173,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1484,
@@ -10600,7 +10608,7 @@
           "name": "Departement-12",
           "prevSize": 32,
           "code": 60174,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1485,
@@ -10608,7 +10616,7 @@
           "name": "Departement-13",
           "prevSize": 32,
           "code": 60175,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1486,
@@ -10616,7 +10624,7 @@
           "name": "Departement-14",
           "prevSize": 32,
           "code": 60176,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1487,
@@ -10624,7 +10632,7 @@
           "name": "Departement-15",
           "prevSize": 32,
           "code": 60177,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1488,
@@ -10632,7 +10640,7 @@
           "name": "Departement-16",
           "prevSize": 32,
           "code": 60178,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1489,
@@ -10640,7 +10648,7 @@
           "name": "Departement-17",
           "prevSize": 32,
           "code": 60179,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1490,
@@ -10648,7 +10656,7 @@
           "name": "Departement-18",
           "prevSize": 32,
           "code": 60180,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1491,
@@ -10656,7 +10664,7 @@
           "name": "Departement-19",
           "prevSize": 32,
           "code": 60181,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1492,
@@ -10664,7 +10672,7 @@
           "name": "Departement-21",
           "prevSize": 32,
           "code": 60182,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1493,
@@ -10672,7 +10680,7 @@
           "name": "Departement-22",
           "prevSize": 32,
           "code": 60183,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1494,
@@ -10680,7 +10688,7 @@
           "name": "Departement-23",
           "prevSize": 32,
           "code": 60184,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1495,
@@ -10688,7 +10696,7 @@
           "name": "Departement-24",
           "prevSize": 32,
           "code": 60185,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1496,
@@ -10696,7 +10704,7 @@
           "name": "Departement-25",
           "prevSize": 32,
           "code": 60186,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1497,
@@ -10704,7 +10712,7 @@
           "name": "Departement-26",
           "prevSize": 32,
           "code": 60187,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1498,
@@ -10712,7 +10720,7 @@
           "name": "Departement-27",
           "prevSize": 32,
           "code": 60188,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1499,
@@ -10720,7 +10728,7 @@
           "name": "Departement-28",
           "prevSize": 32,
           "code": 60189,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1500,
@@ -10728,7 +10736,7 @@
           "name": "Departement-29",
           "prevSize": 32,
           "code": 60190,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1501,
@@ -10736,7 +10744,7 @@
           "name": "Departement-30",
           "prevSize": 32,
           "code": 60191,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1502,
@@ -10744,7 +10752,7 @@
           "name": "Departement-31",
           "prevSize": 32,
           "code": 60192,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1503,
@@ -10752,7 +10760,7 @@
           "name": "Departement-32",
           "prevSize": 32,
           "code": 60193,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1504,
@@ -10760,7 +10768,7 @@
           "name": "Departement-33",
           "prevSize": 32,
           "code": 60194,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1505,
@@ -10768,7 +10776,7 @@
           "name": "Departement-34",
           "prevSize": 32,
           "code": 60195,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1506,
@@ -10776,7 +10784,7 @@
           "name": "Departement-35",
           "prevSize": 32,
           "code": 60196,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1507,
@@ -10784,7 +10792,7 @@
           "name": "Departement-36",
           "prevSize": 32,
           "code": 60197,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1508,
@@ -10792,7 +10800,7 @@
           "name": "Departement-37",
           "prevSize": 32,
           "code": 60198,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1509,
@@ -10800,7 +10808,7 @@
           "name": "Departement-38",
           "prevSize": 32,
           "code": 60199,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1510,
@@ -10808,7 +10816,7 @@
           "name": "Departement-39",
           "prevSize": 32,
           "code": 60200,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1511,
@@ -10816,7 +10824,7 @@
           "name": "Departement-40",
           "prevSize": 32,
           "code": 60201,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1512,
@@ -10824,7 +10832,7 @@
           "name": "Departement-41",
           "prevSize": 32,
           "code": 60202,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1513,
@@ -10832,7 +10840,7 @@
           "name": "Departement-42",
           "prevSize": 32,
           "code": 60203,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1514,
@@ -10840,7 +10848,7 @@
           "name": "Departement-43",
           "prevSize": 32,
           "code": 60204,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1515,
@@ -10848,7 +10856,7 @@
           "name": "Departement-44",
           "prevSize": 32,
           "code": 60205,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1516,
@@ -10856,7 +10864,7 @@
           "name": "Departement-45",
           "prevSize": 32,
           "code": 60206,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1517,
@@ -10864,7 +10872,7 @@
           "name": "Departement-46",
           "prevSize": 32,
           "code": 60207,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1518,
@@ -10872,7 +10880,7 @@
           "name": "Departement-47",
           "prevSize": 32,
           "code": 60208,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1519,
@@ -10880,7 +10888,7 @@
           "name": "Departement-48",
           "prevSize": 32,
           "code": 60209,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1520,
@@ -10888,7 +10896,7 @@
           "name": "Departement-49",
           "prevSize": 32,
           "code": 60210,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1521,
@@ -10896,7 +10904,7 @@
           "name": "Departement-50",
           "prevSize": 32,
           "code": 60211,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1522,
@@ -10904,7 +10912,7 @@
           "name": "Departement-51",
           "prevSize": 32,
           "code": 60212,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1523,
@@ -10912,7 +10920,7 @@
           "name": "Departement-52",
           "prevSize": 32,
           "code": 60213,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1524,
@@ -10920,7 +10928,7 @@
           "name": "Departement-53",
           "prevSize": 32,
           "code": 60214,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1525,
@@ -10928,7 +10936,7 @@
           "name": "Departement-54",
           "prevSize": 32,
           "code": 60215,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1526,
@@ -10936,7 +10944,7 @@
           "name": "Departement-55",
           "prevSize": 32,
           "code": 60216,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1527,
@@ -10944,7 +10952,7 @@
           "name": "Departement-56",
           "prevSize": 32,
           "code": 60217,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1528,
@@ -10952,7 +10960,7 @@
           "name": "Departement-57",
           "prevSize": 32,
           "code": 60218,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1529,
@@ -10960,7 +10968,7 @@
           "name": "Departement-58",
           "prevSize": 32,
           "code": 60219,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1530,
@@ -10968,7 +10976,7 @@
           "name": "Departement-59",
           "prevSize": 32,
           "code": 60220,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1531,
@@ -10976,7 +10984,7 @@
           "name": "Departement-60",
           "prevSize": 32,
           "code": 60221,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1532,
@@ -10984,7 +10992,7 @@
           "name": "Departement-61",
           "prevSize": 32,
           "code": 60222,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1533,
@@ -10992,7 +11000,7 @@
           "name": "Departement-62",
           "prevSize": 32,
           "code": 60223,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1534,
@@ -11000,7 +11008,7 @@
           "name": "Departement-63",
           "prevSize": 32,
           "code": 60224,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1535,
@@ -11008,7 +11016,7 @@
           "name": "Departement-64",
           "prevSize": 32,
           "code": 60225,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1536,
@@ -11016,7 +11024,7 @@
           "name": "Departement-65",
           "prevSize": 32,
           "code": 60226,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1537,
@@ -11024,7 +11032,7 @@
           "name": "Departement-66",
           "prevSize": 32,
           "code": 60227,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1538,
@@ -11032,7 +11040,7 @@
           "name": "Departement-67",
           "prevSize": 32,
           "code": 60228,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1539,
@@ -11040,7 +11048,7 @@
           "name": "Departement-68",
           "prevSize": 32,
           "code": 60229,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1540,
@@ -11048,7 +11056,7 @@
           "name": "Departement-69",
           "prevSize": 32,
           "code": 60230,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1541,
@@ -11056,7 +11064,7 @@
           "name": "Departement-70",
           "prevSize": 32,
           "code": 60231,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1542,
@@ -11064,7 +11072,7 @@
           "name": "Departement-71",
           "prevSize": 32,
           "code": 60232,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1543,
@@ -11072,7 +11080,7 @@
           "name": "Departement-72",
           "prevSize": 32,
           "code": 60233,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1544,
@@ -11080,7 +11088,7 @@
           "name": "Departement-73",
           "prevSize": 32,
           "code": 60234,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1545,
@@ -11088,7 +11096,7 @@
           "name": "Departement-74",
           "prevSize": 32,
           "code": 60235,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1546,
@@ -11096,7 +11104,7 @@
           "name": "Departement-75",
           "prevSize": 32,
           "code": 60236,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1547,
@@ -11104,7 +11112,7 @@
           "name": "Departement-76",
           "prevSize": 32,
           "code": 60237,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1548,
@@ -11112,7 +11120,7 @@
           "name": "Departement-77",
           "prevSize": 32,
           "code": 60238,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1549,
@@ -11120,7 +11128,7 @@
           "name": "Departement-78",
           "prevSize": 32,
           "code": 60239,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1550,
@@ -11128,7 +11136,7 @@
           "name": "Departement-79",
           "prevSize": 32,
           "code": 60240,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1551,
@@ -11136,7 +11144,7 @@
           "name": "Departement-80",
           "prevSize": 32,
           "code": 60241,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1552,
@@ -11144,7 +11152,7 @@
           "name": "Departement-81",
           "prevSize": 32,
           "code": 60242,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1553,
@@ -11152,7 +11160,7 @@
           "name": "Departement-82",
           "prevSize": 32,
           "code": 60243,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1554,
@@ -11160,7 +11168,7 @@
           "name": "Departement-83",
           "prevSize": 32,
           "code": 60244,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1555,
@@ -11168,7 +11176,7 @@
           "name": "Departement-84",
           "prevSize": 32,
           "code": 60245,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1556,
@@ -11176,7 +11184,7 @@
           "name": "Departement-85",
           "prevSize": 32,
           "code": 60246,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1557,
@@ -11184,7 +11192,7 @@
           "name": "Departement-86",
           "prevSize": 32,
           "code": 60247,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1558,
@@ -11192,7 +11200,7 @@
           "name": "Departement-87",
           "prevSize": 32,
           "code": 60248,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1559,
@@ -11200,7 +11208,7 @@
           "name": "Departement-88",
           "prevSize": 32,
           "code": 60249,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1560,
@@ -11208,7 +11216,7 @@
           "name": "Departement-89",
           "prevSize": 32,
           "code": 60250,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1561,
@@ -11216,7 +11224,7 @@
           "name": "Departement-90",
           "prevSize": 32,
           "code": 60251,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1562,
@@ -11224,7 +11232,7 @@
           "name": "Departement-91",
           "prevSize": 32,
           "code": 60252,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1563,
@@ -11232,7 +11240,7 @@
           "name": "Departement-92",
           "prevSize": 32,
           "code": 60253,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1564,
@@ -11240,7 +11248,7 @@
           "name": "Departement-93",
           "prevSize": 32,
           "code": 60254,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1565,
@@ -11248,7 +11256,7 @@
           "name": "Departement-94",
           "prevSize": 32,
           "code": 60255,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1566,
@@ -11256,7 +11264,7 @@
           "name": "Departement-95",
           "prevSize": 32,
           "code": 60256,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1567,
@@ -11264,7 +11272,7 @@
           "name": "Departement-972",
           "prevSize": 32,
           "code": 60257,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1568,
@@ -11272,7 +11280,7 @@
           "name": "Departement-973",
           "prevSize": 32,
           "code": 60258,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1569,
@@ -11280,7 +11288,7 @@
           "name": "Departement-974",
           "prevSize": 32,
           "code": 60259,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1570,
@@ -11288,20 +11296,36 @@
           "name": "Departement-976",
           "prevSize": 32,
           "code": 60260,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
       "metadata": {
         "name": "Départements",
         "importSize": {
-          "width": 56,
-          "height": 50
+          "width": 96,
+          "height": 84
         }
       },
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 100,
+          "paths": [
+            "M335.238 908.069c1.803-1.111 3.987-1.769 6.325-1.769 4.364 0 8.193 2.293 10.346 5.741l0.030 0.051 15.604 25.722c1.163 1.834 1.853 4.067 1.853 6.461s-0.69 4.627-1.883 6.511l0.030-0.050-23.040 34.377-19.505 32.914c-2.168 3.573-6.038 5.924-10.456 5.924-1.681 0-3.283-0.34-4.74-0.956l0.080 0.030-79.97-32.914c-4.389-1.91-7.402-6.208-7.402-11.21 0-2.002 0.483-3.892 1.338-5.559l-0.032 0.069 19.505-37.303c2.061-3.981 6.149-6.656 10.861-6.656 0.468 0 0.93 0.026 1.385 0.078l38.832 3.53zM695.954 798.354c0.371-2.119 1.277-3.982 2.573-5.502l-0.013 0.016 36.571-44.617c1.8-2.125 4.289-3.617 7.118-4.133l0.075-0.011 21.455-3.901c0.665-0.129 1.43-0.202 2.211-0.202 2.090 0 4.058 0.526 5.777 1.453l-0.065-0.032 66.194 34.865c2.213 1.248 3.994 3.029 5.207 5.174l0.035 0.067 14.629 29.135 35.474 33.402c2.327 2.224 3.773 5.352 3.773 8.818 0 0.848-0.087 1.676-0.252 2.476l0.014-0.079-9.752 48.762c-0.635 3.134-2.399 5.774-4.84 7.533l-0.036 0.025-49.737 34.865c-0.841 0.599-1.81 1.095-2.848 1.441l-0.077 0.022-59.368 21.333c-1.198 0.433-2.581 0.683-4.023 0.683s-2.824-0.25-4.108-0.709l0.085 0.027-64.244-21.333c-3.931-1.286-6.932-4.408-8.025-8.326l-0.020-0.086-23.284-89.112c-0.246-0.916-0.388-1.967-0.388-3.051 0-4.194 2.118-7.894 5.344-10.087l0.042-0.027 19.139-12.19zM1155.779 243.81l13.653 35.352c0.493 1.273 0.779 2.747 0.779 4.288 0 4.508-2.447 8.444-6.084 10.553l-0.058 0.031-79.97 44.617c-1.619 0.907-3.536 1.482-5.577 1.584l-0.030 0.001-58.514 1.341c-0.030 0-0.066 0-0.101 0-6.733 0-12.19-5.458-12.19-12.19 0-2.195 0.58-4.255 1.595-6.034l-0.031 0.060 19.505-33.036c1.238-2.116 3.081-3.763 5.291-4.726l0.073-0.028 105.204-48.762c1.47-0.678 3.19-1.073 5.002-1.073 5.237 0 9.702 3.302 11.428 7.938l0.027 0.084zM442.27 213.090l-37.181-24.381c-2.314-1.485-4.065-3.67-4.972-6.254l-0.026-0.085-21.455-63.756c-0.366-1.108-0.578-2.383-0.578-3.708 0-2.273 0.622-4.401 1.706-6.223l-0.031 0.056 21.455-36.571c0.759-1.35 1.738-2.485 2.901-3.395l0.025-0.019 83.505-66.194c2.012-1.522 4.556-2.438 7.314-2.438s5.302 0.916 7.345 2.46l-0.031-0.022 75.947 54.248c2.136 1.441 3.728 3.546 4.489 6.016l0.021 0.079 23.771 71.192c0.277 0.969 0.436 2.081 0.436 3.23s-0.159 2.262-0.457 3.316l0.021-0.086-10.606 45.836 33.89 60.952 95.573 16.457c1.566 0.233 2.967 0.792 4.181 1.608l-0.036-0.023 68.267 40.594c1.926 1.19 3.462 2.843 4.478 4.808l0.032 0.068 20.846 39.741 92.16 23.406c5.315 1.391 9.174 6.15 9.174 11.811 0 0.912-0.1 1.8-0.29 2.655l0.015-0.081-7.802 33.89c-1.307 5.432-6.123 9.405-11.868 9.405-0.891 0-1.76-0.096-2.597-0.277l0.080 0.015-80.091-16.945-125.318 5.12-98.499 34.621-99.352 27.063c-0.933 0.256-2.003 0.403-3.109 0.403s-2.176-0.147-3.194-0.423l0.085 0.020-60.952-15.604c-1.826-0.445-3.421-1.248-4.778-2.335l0.024 0.019-47.421-39.010-7.802 8.655c-2.234 2.468-5.446 4.014-9.019 4.023l-0.002 0h-24.381l-4.51 46.446 24.381 67.17v1.219l15.604 64v1.341l7.802 61.928c0.056 0.44 0.088 0.949 0.088 1.465 0 2.096-0.529 4.069-1.461 5.792l0.032-0.064-23.406 44.495c-0.533 1.135-1.229 2.104-2.070 2.924l-0.002 0.002-79.848 81.31c-2.214 2.258-5.297 3.657-8.706 3.657-0.025 0-0.050-0-0.075-0l0.004 0h-29.623l-31.939 22.43c-1.197 0.926-2.633 1.607-4.198 1.938l-0.069 0.012-40.96 9.752c-0.826 0.199-1.774 0.314-2.749 0.314-5.763 0-10.592-3.999-11.864-9.374l-0.016-0.083-10.484-46.446-46.568-44.008c-2.319-2.214-3.765-5.325-3.779-8.775l-0-0.003v-19.383l-26.941-37.425c-1.373-1.946-2.195-4.366-2.195-6.978 0-0.033 0-0.065 0-0.098l-0 0.005v-40.96l-9.387-33.28c-0.057-0.494-0.090-1.066-0.090-1.646s0.033-1.152 0.096-1.715l-0.006 0.069v-83.139l-9.265-12.19c-1.498-1.98-2.41-4.477-2.438-7.186l-0-0.007v-60.952l-32.061-57.417c-0.993-1.726-1.579-3.795-1.579-6.001 0-0.592 0.042-1.175 0.124-1.745l-0.008 0.065 12.19-73.143c0.24-1.24 0.62-2.342 1.131-3.367l-0.034 0.076 21.455-44.617c1.262-2.601 3.341-4.64 5.898-5.82l0.076-0.031 66.316-29.013c1.45-0.657 3.143-1.040 4.926-1.040 3.673 0 6.967 1.625 9.202 4.194l29.148 34.27h25.6c0.015-0 0.032-0 0.050-0 1.933 0 3.761 0.45 5.385 1.251l-0.071-0.032 70.949 34.377 53.272 13.166c5.318 1.389 9.179 6.15 9.179 11.813 0 1.863-0.418 3.627-1.165 5.206l0.032-0.074-11.215 23.65 10.971 2.926 42.545-19.139 29.989-31.573v-29.379c0.077-4.989 3.14-9.244 7.478-11.063l0.080-0.030 41.326-17.189zM975.238 520.29c-6.733 0-12.19-5.458-12.19-12.19s5.458-12.19 12.19-12.19v0h36.571c6.733 0 12.19 5.458 12.19 12.19s-5.458 12.19-12.19 12.19v0z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "width": 1170,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Departement-971"
+          ]
+        },
         {
           "id": 99,
           "paths": [
@@ -12920,7 +12944,7 @@
   "uid": -1,
   "preferences": {
     "showGlyphs": true,
-    "showCodes": true,
+    "showCodes": false,
     "showQuickUse": true,
     "showQuickUse2": true,
     "showSVGs": true,
@@ -12952,6 +12976,7 @@
       "classSelector": ".icon"
     },
     "historySize": 50,
-    "gridSize": 16
+    "gridSize": 16,
+    "showLiga": false
   }
 }

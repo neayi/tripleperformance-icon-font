@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?uv8s4v');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?uv8s4v#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?uv8s4v') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?uv8s4v') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?uv8s4v##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fx6lsu');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fx6lsu#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?fx6lsu') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?fx6lsu') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?fx6lsu##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -3224,6 +3224,11 @@
 .tp-Cultures-tropicales {
   &:before {
     content: $tp-Cultures-tropicales; 
+  }
+}
+.tp-Departement-971 {
+  &:before {
+    content: $tp-Departement-971; 
   }
 }
 .tp-Departement-01 {

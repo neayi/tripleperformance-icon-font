@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?uv8s4v');
-  src:  url('fonts/tripleperformance.eot?uv8s4v#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?uv8s4v') format('truetype'),
-    url('fonts/tripleperformance.woff?uv8s4v') format('woff'),
-    url('fonts/tripleperformance.svg?uv8s4v#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?fx6lsu');
+  src:  url('fonts/tripleperformance.eot?fx6lsu#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?fx6lsu') format('truetype'),
+    url('fonts/tripleperformance.woff?fx6lsu') format('woff'),
+    url('fonts/tripleperformance.svg?fx6lsu#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -2165,6 +2165,9 @@
 }
 .tp-Cultures-tropicales:before {
   content: "\eb00";
+}
+.tp-Departement-971:before {
+  content: "\eb75";
 }
 .tp-Departement-01:before {
   content: "\eb01";
