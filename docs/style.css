@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?mpqa5z');
-  src:  url('fonts/tripleperformance.eot?mpqa5z#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?mpqa5z') format('truetype'),
-    url('fonts/tripleperformance.woff?mpqa5z') format('woff'),
-    url('fonts/tripleperformance.svg?mpqa5z#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?uv8s4v');
+  src:  url('fonts/tripleperformance.eot?uv8s4v#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?uv8s4v') format('truetype'),
+    url('fonts/tripleperformance.woff?uv8s4v') format('woff'),
+    url('fonts/tripleperformance.svg?uv8s4v#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -67,8 +67,11 @@
 .tp-Icone-categorie-Retours-dexperience:before {
   content: "\eb70";
 }
-.tp-Cuniculture:before {
+.tp-Aquaponie:before {
   content: "\eb73";
+}
+.tp-Hydroponie:before {
+  content: "\eb74";
 }
 .tp-Tomate:before {
   content: "\e900";

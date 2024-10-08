@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?mpqa5z');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?mpqa5z#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?mpqa5z') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?mpqa5z') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?mpqa5z##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?uv8s4v');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?uv8s4v#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?uv8s4v') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?uv8s4v') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?uv8s4v##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -97,9 +97,14 @@
     content: $tp-Icone-categorie-Retours-dexperience; 
   }
 }
-.tp-Cuniculture {
+.tp-Aquaponie {
   &:before {
-    content: $tp-Cuniculture; 
+    content: $tp-Aquaponie; 
+  }
+}
+.tp-Hydroponie {
+  &:before {
+    content: $tp-Hydroponie; 
   }
 }
 .tp-Tomate {
