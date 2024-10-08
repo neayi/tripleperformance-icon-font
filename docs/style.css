@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?m7wicl');
-  src:  url('fonts/tripleperformance.eot?m7wicl#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?m7wicl') format('truetype'),
-    url('fonts/tripleperformance.woff?m7wicl') format('woff'),
-    url('fonts/tripleperformance.svg?m7wicl#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?ye3nqm');
+  src:  url('fonts/tripleperformance.eot?ye3nqm#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?ye3nqm') format('truetype'),
+    url('fonts/tripleperformance.woff?ye3nqm') format('woff'),
+    url('fonts/tripleperformance.svg?ye3nqm#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -66,6 +66,9 @@
 }
 .tp-Icone-categorie-Retours-dexperience:before {
   content: "\eb70";
+}
+.tp-Heliciculture:before {
+  content: "\e96a";
 }
 .tp-Circuit-court:before {
   content: "\e9ce";
@@ -509,9 +512,6 @@
 }
 .tp-Haricot:before {
   content: "\e969";
-}
-.tp-Heliciculture:before {
-  content: "\e96a";
 }
 .tp-Hibiscus:before {
   content: "\e96b";
