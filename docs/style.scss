@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ye3nqm');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ye3nqm#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ye3nqm') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ye3nqm') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ye3nqm##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?jr1at8');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?jr1at8#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?jr1at8') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?jr1at8') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?jr1at8##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -95,6 +95,41 @@
 .tp-Icone-categorie-Retours-dexperience {
   &:before {
     content: $tp-Icone-categorie-Retours-dexperience; 
+  }
+}
+.tp-Ressources-humaines {
+  &:before {
+    content: $tp-Ressources-humaines; 
+  }
+}
+.tp-Reduction-des-charges {
+  &:before {
+    content: $tp-Reduction-des-charges; 
+  }
+}
+.tp-Productivite {
+  &:before {
+    content: $tp-Productivite; 
+  }
+}
+.tp-Organisation-du-travail {
+  &:before {
+    content: $tp-Organisation-du-travail; 
+  }
+}
+.tp-Financement {
+  &:before {
+    content: $tp-Financement; 
+  }
+}
+.tp-Fiscalite {
+  &:before {
+    content: $tp-Fiscalite; 
+  }
+}
+.tp-Collaboration {
+  &:before {
+    content: $tp-Collaboration; 
   }
 }
 .tp-Heliciculture {

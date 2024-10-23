@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?ye3nqm');
-  src:  url('fonts/tripleperformance.eot?ye3nqm#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?ye3nqm') format('truetype'),
-    url('fonts/tripleperformance.woff?ye3nqm') format('woff'),
-    url('fonts/tripleperformance.svg?ye3nqm#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?jr1at8');
+  src:  url('fonts/tripleperformance.eot?jr1at8#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?jr1at8') format('truetype'),
+    url('fonts/tripleperformance.woff?jr1at8') format('woff'),
+    url('fonts/tripleperformance.svg?jr1at8#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -66,6 +66,27 @@
 }
 .tp-Icone-categorie-Retours-dexperience:before {
   content: "\eb70";
+}
+.tp-Ressources-humaines:before {
+  content: "\eb76";
+}
+.tp-Reduction-des-charges:before {
+  content: "\eb77";
+}
+.tp-Productivite:before {
+  content: "\eb78";
+}
+.tp-Organisation-du-travail:before {
+  content: "\eb79";
+}
+.tp-Financement:before {
+  content: "\eb7a";
+}
+.tp-Fiscalite:before {
+  content: "\eb7b";
+}
+.tp-Collaboration:before {
+  content: "\eb7c";
 }
 .tp-Heliciculture:before {
   content: "\e96a";
