@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?jr1at8');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?jr1at8#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?jr1at8') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?jr1at8') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?jr1at8##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpe5gc');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpe5gc#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?vpe5gc') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?vpe5gc') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?vpe5gc##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -95,6 +95,201 @@
 .tp-Icone-categorie-Retours-dexperience {
   &:before {
     content: $tp-Icone-categorie-Retours-dexperience; 
+  }
+}
+.tp-Valeurs-Parc .path1 {
+  &:before {
+    content: $tp-Valeurs-Parc-path1;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path2 {
+  &:before {
+    content: $tp-Valeurs-Parc-path2;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path3 {
+  &:before {
+    content: $tp-Valeurs-Parc-path3;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path4 {
+  &:before {
+    content: $tp-Valeurs-Parc-path4;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path5 {
+  &:before {
+    content: $tp-Valeurs-Parc-path5;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path6 {
+  &:before {
+    content: $tp-Valeurs-Parc-path6;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path7 {
+  &:before {
+    content: $tp-Valeurs-Parc-path7;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path8 {
+  &:before {
+    content: $tp-Valeurs-Parc-path8;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path9 {
+  &:before {
+    content: $tp-Valeurs-Parc-path9;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path10 {
+  &:before {
+    content: $tp-Valeurs-Parc-path10;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path11 {
+  &:before {
+    content: $tp-Valeurs-Parc-path11;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path12 {
+  &:before {
+    content: $tp-Valeurs-Parc-path12;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path13 {
+  &:before {
+    content: $tp-Valeurs-Parc-path13;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path14 {
+  &:before {
+    content: $tp-Valeurs-Parc-path14;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path15 {
+  &:before {
+    content: $tp-Valeurs-Parc-path15;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path16 {
+  &:before {
+    content: $tp-Valeurs-Parc-path16;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path17 {
+  &:before {
+    content: $tp-Valeurs-Parc-path17;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path18 {
+  &:before {
+    content: $tp-Valeurs-Parc-path18;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path19 {
+  &:before {
+    content: $tp-Valeurs-Parc-path19;  
+    margin-left: -1em;  
+    color: rgb(169, 17, 44);
+  }
+}
+.tp-Valeurs-Parc .path20 {
+  &:before {
+    content: $tp-Valeurs-Parc-path20;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path21 {
+  &:before {
+    content: $tp-Valeurs-Parc-path21;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path22 {
+  &:before {
+    content: $tp-Valeurs-Parc-path22;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path23 {
+  &:before {
+    content: $tp-Valeurs-Parc-path23;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path24 {
+  &:before {
+    content: $tp-Valeurs-Parc-path24;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path25 {
+  &:before {
+    content: $tp-Valeurs-Parc-path25;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path26 {
+  &:before {
+    content: $tp-Valeurs-Parc-path26;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path27 {
+  &:before {
+    content: $tp-Valeurs-Parc-path27;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
+  }
+}
+.tp-Valeurs-Parc .path28 {
+  &:before {
+    content: $tp-Valeurs-Parc-path28;  
+    margin-left: -1em;  
+    color: rgb(0, 147, 111);
   }
 }
 .tp-Ressources-humaines {

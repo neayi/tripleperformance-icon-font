@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?jr1at8');
-  src:  url('fonts/tripleperformance.eot?jr1at8#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?jr1at8') format('truetype'),
-    url('fonts/tripleperformance.woff?jr1at8') format('woff'),
-    url('fonts/tripleperformance.svg?jr1at8#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?vpe5gc');
+  src:  url('fonts/tripleperformance.eot?vpe5gc#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?vpe5gc') format('truetype'),
+    url('fonts/tripleperformance.woff?vpe5gc') format('woff'),
+    url('fonts/tripleperformance.svg?vpe5gc#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -66,6 +66,145 @@
 }
 .tp-Icone-categorie-Retours-dexperience:before {
   content: "\eb70";
+}
+.tp-Valeurs-Parc .path1:before {
+  content: "\eb7d";
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path2:before {
+  content: "\eb7e";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path3:before {
+  content: "\eb7f";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path4:before {
+  content: "\eb80";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path5:before {
+  content: "\eb81";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path6:before {
+  content: "\eb82";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path7:before {
+  content: "\eb83";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path8:before {
+  content: "\eb84";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path9:before {
+  content: "\eb85";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path10:before {
+  content: "\eb86";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path11:before {
+  content: "\eb87";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path12:before {
+  content: "\eb88";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path13:before {
+  content: "\eb89";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path14:before {
+  content: "\eb8a";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path15:before {
+  content: "\eb8b";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path16:before {
+  content: "\eb8c";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path17:before {
+  content: "\eb8d";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path18:before {
+  content: "\eb8e";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path19:before {
+  content: "\eb8f";
+  margin-left: -1em;
+  color: rgb(169, 17, 44);
+}
+.tp-Valeurs-Parc .path20:before {
+  content: "\eb90";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path21:before {
+  content: "\eb91";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path22:before {
+  content: "\eb92";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path23:before {
+  content: "\eb93";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path24:before {
+  content: "\eb94";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path25:before {
+  content: "\eb95";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path26:before {
+  content: "\eb96";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path27:before {
+  content: "\eb97";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
+}
+.tp-Valeurs-Parc .path28:before {
+  content: "\eb98";
+  margin-left: -1em;
+  color: rgb(0, 147, 111);
 }
 .tp-Ressources-humaines:before {
   content: "\eb76";
