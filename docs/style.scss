@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpe5gc');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vpe5gc#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?vpe5gc') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?vpe5gc') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?vpe5gc##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izpsh0');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izpsh0#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?izpsh0') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?izpsh0') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?izpsh0##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -95,6 +95,21 @@
 .tp-Icone-categorie-Retours-dexperience {
   &:before {
     content: $tp-Icone-categorie-Retours-dexperience; 
+  }
+}
+.tp-Grass {
+  &:before {
+    content: $tp-Grass; 
+  }
+}
+.tp-Moringa {
+  &:before {
+    content: $tp-Moringa; 
+  }
+}
+.tp-Teck {
+  &:before {
+    content: $tp-Teck; 
   }
 }
 .tp-Valeurs-Parc .path1 {

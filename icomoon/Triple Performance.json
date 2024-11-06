@@ -446,12 +446,103 @@
     {
       "selection": [
         {
+          "order": 1604,
+          "id": 255,
+          "name": "Grass",
+          "prevSize": 32,
+          "code": 60313,
+          "tempChar": ""
+        },
+        {
+          "order": 1605,
+          "id": 254,
+          "name": "Moringa",
+          "prevSize": 32,
+          "code": 60314,
+          "tempChar": ""
+        },
+        {
+          "order": 1606,
+          "id": 253,
+          "name": "Teck",
+          "prevSize": 32,
+          "code": 60315,
+          "tempChar": ""
+        },
+        {
+          "order": 1603,
+          "id": 252,
+          "name": "Valeurs-Parc",
+          "prevSize": 32,
+          "code": 60285,
+          "codes": [
+            60285,
+            60286,
+            60287,
+            60288,
+            60289,
+            60290,
+            60291,
+            60292,
+            60293,
+            60294,
+            60295,
+            60296,
+            60297,
+            60298,
+            60299,
+            60300,
+            60301,
+            60302,
+            60303,
+            60304,
+            60305,
+            60306,
+            60307,
+            60308,
+            60309,
+            60310,
+            60311,
+            60312
+          ],
+          "tempChar": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
           "order": 1597,
           "id": 251,
           "name": "Ressources-humaines",
           "prevSize": 32,
           "code": 60278,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1598,
@@ -459,7 +550,7 @@
           "name": "Reduction-des-charges",
           "prevSize": 32,
           "code": 60279,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1599,
@@ -467,7 +558,7 @@
           "name": "Productivite",
           "prevSize": 32,
           "code": 60280,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1600,
@@ -475,7 +566,7 @@
           "name": "Organisation-du-travail",
           "prevSize": 32,
           "code": 60281,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1601,
@@ -483,7 +574,7 @@
           "name": "Financement",
           "prevSize": 32,
           "code": 60282,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1602,
@@ -491,7 +582,7 @@
           "name": "Fiscalite",
           "prevSize": 32,
           "code": 60283,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1596,
@@ -499,7 +590,7 @@
           "name": "Collaboration",
           "prevSize": 32,
           "code": 60284,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1595,
@@ -507,7 +598,7 @@
           "name": "Heliciculture",
           "prevSize": 32,
           "code": 59754,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1593,
@@ -515,7 +606,7 @@
           "name": "Circuit-court",
           "prevSize": 32,
           "code": 59854,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1594,
@@ -523,7 +614,7 @@
           "name": "Maraichage",
           "prevSize": 32,
           "code": 60146,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1589,
@@ -531,7 +622,7 @@
           "name": "Aquaponie",
           "prevSize": 32,
           "code": 60275,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1590,
@@ -539,7 +630,7 @@
           "name": "Hydroponie",
           "prevSize": 32,
           "code": 60276,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1588,
@@ -547,7 +638,7 @@
           "name": "Tomate",
           "prevSize": 32,
           "code": 59648,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1232,
@@ -555,7 +646,7 @@
           "name": "Tournesol",
           "prevSize": 32,
           "code": 59649,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1233,
@@ -563,7 +654,7 @@
           "name": "Transformation-a-la-ferme-des-poulets-de-chair",
           "prevSize": 32,
           "code": 59650,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1234,
@@ -571,7 +662,7 @@
           "name": "Transformation-a-la-ferme-des-produits-du-lait-de-chevre",
           "prevSize": 32,
           "code": 59651,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1235,
@@ -579,7 +670,7 @@
           "name": "Transformation-a-la-ferme-des-produits-laitiers",
           "prevSize": 32,
           "code": 59652,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1236,
@@ -587,7 +678,7 @@
           "name": "Transformation-a-la-ferme-en-elevage-ovin-viande",
           "prevSize": 32,
           "code": 59653,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1237,
@@ -595,7 +686,7 @@
           "name": "Trefle",
           "prevSize": 32,
           "code": 59654,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1238,
@@ -603,7 +694,7 @@
           "name": "Type-Sol",
           "prevSize": 32,
           "code": 59655,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1239,
@@ -611,7 +702,7 @@
           "name": "UTH",
           "prevSize": 32,
           "code": 59656,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1240,
@@ -619,7 +710,7 @@
           "name": "Virus",
           "prevSize": 32,
           "code": 59657,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1241,
@@ -627,7 +718,7 @@
           "name": "Viticulture",
           "prevSize": 32,
           "code": 59658,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1242,
@@ -635,7 +726,7 @@
           "name": "Vitiforesterie",
           "prevSize": 32,
           "code": 59659,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1243,
@@ -643,7 +734,7 @@
           "name": "Wallonie",
           "prevSize": 32,
           "code": 59660,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1244,
@@ -651,7 +742,7 @@
           "name": "Zone-vulnerable",
           "prevSize": 32,
           "code": 59661,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1245,
@@ -659,7 +750,7 @@
           "name": "Desherbage",
           "prevSize": 32,
           "code": 59662,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1246,
@@ -667,7 +758,7 @@
           "name": "Desherbage-chimique",
           "prevSize": 32,
           "code": 59663,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1247,
@@ -675,7 +766,7 @@
           "name": "Desherbage-electrique",
           "prevSize": 32,
           "code": 59664,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1248,
@@ -683,7 +774,7 @@
           "name": "Desherbage-manuel",
           "prevSize": 32,
           "code": 59665,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1249,
@@ -691,7 +782,7 @@
           "name": "Desherbage-par-couverture",
           "prevSize": 32,
           "code": 59666,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1250,
@@ -699,7 +790,7 @@
           "name": "Desherbage-thermique",
           "prevSize": 32,
           "code": 59667,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1251,
@@ -767,37 +858,6 @@
             59724
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             "",
             "",
             "",
@@ -823,7 +883,38 @@
             "",
             "",
             "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -832,7 +923,7 @@
           "name": "Elevage",
           "prevSize": 32,
           "code": 59725,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1253,
@@ -840,7 +931,7 @@
           "name": "Elevage-bovin",
           "prevSize": 32,
           "code": 59726,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1254,
@@ -848,7 +939,7 @@
           "name": "Elevage-bovin-viande",
           "prevSize": 32,
           "code": 59727,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1255,
@@ -856,7 +947,7 @@
           "name": "Elevage-caprin",
           "prevSize": 32,
           "code": 59728,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1256,
@@ -864,7 +955,7 @@
           "name": "Elevage-equin",
           "prevSize": 32,
           "code": 59729,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1257,
@@ -872,7 +963,7 @@
           "name": "Elevage-et-agroforesterie",
           "prevSize": 32,
           "code": 59730,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1258,
@@ -880,7 +971,7 @@
           "name": "Elevage-ovin",
           "prevSize": 32,
           "code": 59731,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1259,
@@ -888,7 +979,7 @@
           "name": "Elevage-porcin",
           "prevSize": 32,
           "code": 59732,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1260,
@@ -896,7 +987,7 @@
           "name": "Endive",
           "prevSize": 32,
           "code": 59733,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1261,
@@ -904,7 +995,7 @@
           "name": "Epinards",
           "prevSize": 32,
           "code": 59734,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1262,
@@ -912,7 +1003,7 @@
           "name": "ETA",
           "prevSize": 32,
           "code": 59735,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1263,
@@ -920,7 +1011,7 @@
           "name": "Fenouil",
           "prevSize": 32,
           "code": 59736,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1264,
@@ -928,7 +1019,7 @@
           "name": "Fenugrec",
           "prevSize": 32,
           "code": 59737,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1265,
@@ -936,7 +1027,7 @@
           "name": "Fertilisation-ciblee",
           "prevSize": 32,
           "code": 59738,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1266,
@@ -944,7 +1035,7 @@
           "name": "Feverole",
           "prevSize": 32,
           "code": 59739,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1267,
@@ -952,7 +1043,7 @@
           "name": "Figue",
           "prevSize": 32,
           "code": 59740,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1268,
@@ -960,7 +1051,7 @@
           "name": "Flandre",
           "prevSize": 32,
           "code": 59741,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1269,
@@ -968,7 +1059,7 @@
           "name": "Fraise",
           "prevSize": 32,
           "code": 59742,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1270,
@@ -976,7 +1067,7 @@
           "name": "Framboise",
           "prevSize": 32,
           "code": 59743,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1271,
@@ -984,7 +1075,7 @@
           "name": "Fruits",
           "prevSize": 32,
           "code": 59744,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1272,
@@ -992,7 +1083,7 @@
           "name": "Gestion-de-la-fertilite",
           "prevSize": 32,
           "code": 59745,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1273,
@@ -1000,7 +1091,7 @@
           "name": "Gestion-des-couverts-vegetaux",
           "prevSize": 32,
           "code": 59746,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1274,
@@ -1008,7 +1099,7 @@
           "name": "Ghana",
           "prevSize": 32,
           "code": 59747,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1275,
@@ -1016,7 +1107,7 @@
           "name": "Gombo",
           "prevSize": 32,
           "code": 59748,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1276,
@@ -1024,7 +1115,7 @@
           "name": "Goyave",
           "prevSize": 32,
           "code": 59749,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1277,
@@ -1032,7 +1123,7 @@
           "name": "Grandes-cultures",
           "prevSize": 32,
           "code": 59750,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1278,
@@ -1040,7 +1131,7 @@
           "name": "Grenade",
           "prevSize": 32,
           "code": 59751,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1279,
@@ -1048,7 +1139,7 @@
           "name": "Groseillier",
           "prevSize": 32,
           "code": 59752,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1280,
@@ -1056,7 +1147,7 @@
           "name": "Haricot",
           "prevSize": 32,
           "code": 59753,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1282,
@@ -1064,7 +1155,7 @@
           "name": "Hibiscus",
           "prevSize": 32,
           "code": 59755,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1283,
@@ -1072,7 +1163,7 @@
           "name": "Horticulture-PPAM",
           "prevSize": 32,
           "code": 59756,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1284,
@@ -1159,37 +1250,6 @@
             59832
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             "",
             "",
             "",
@@ -1234,7 +1294,38 @@
             "",
             "",
             "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -1243,7 +1334,7 @@
           "name": "Igname",
           "prevSize": 32,
           "code": 59833,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1286,
@@ -1251,7 +1342,7 @@
           "name": "Insectes",
           "prevSize": 32,
           "code": 59834,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1287,
@@ -1259,7 +1350,7 @@
           "name": "Installation",
           "prevSize": 32,
           "code": 59835,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1288,
@@ -1267,7 +1358,7 @@
           "name": "Irrigation",
           "prevSize": 32,
           "code": 59836,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1289,
@@ -1275,7 +1366,7 @@
           "name": "Irrigation-en-arboriculture",
           "prevSize": 32,
           "code": 59837,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1290,
@@ -1283,7 +1374,7 @@
           "name": "Irrigation-en-maraichage",
           "prevSize": 32,
           "code": 59838,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1291,
@@ -1291,7 +1382,7 @@
           "name": "Itineraire-des-poules",
           "prevSize": 32,
           "code": 59839,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1292,
@@ -1299,7 +1390,7 @@
           "name": "Karite",
           "prevSize": 32,
           "code": 59840,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1293,
@@ -1307,7 +1398,7 @@
           "name": "Labels",
           "prevSize": 32,
           "code": 59841,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1294,
@@ -1315,7 +1406,7 @@
           "name": "Labour",
           "prevSize": 32,
           "code": 59842,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1295,
@@ -1323,7 +1414,7 @@
           "name": "Laitue",
           "prevSize": 32,
           "code": 59843,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1296,
@@ -1331,7 +1422,7 @@
           "name": "Lapin",
           "prevSize": 32,
           "code": 59844,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1297,
@@ -1339,7 +1430,7 @@
           "name": "Lentille",
           "prevSize": 32,
           "code": 59845,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1298,
@@ -1347,7 +1438,7 @@
           "name": "Les-cepages",
           "prevSize": 32,
           "code": 59846,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1299,
@@ -1355,7 +1446,7 @@
           "name": "Lin",
           "prevSize": 32,
           "code": 59847,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1300,
@@ -1363,7 +1454,7 @@
           "name": "Luzerne",
           "prevSize": 32,
           "code": 59848,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1301,
@@ -1371,7 +1462,7 @@
           "name": "Mais",
           "prevSize": 32,
           "code": 59849,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1302,
@@ -1379,7 +1470,7 @@
           "name": "Maladies-cryptogamiques",
           "prevSize": 32,
           "code": 59850,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1303,
@@ -1387,7 +1478,7 @@
           "name": "Mammiferes",
           "prevSize": 32,
           "code": 59851,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1304,
@@ -1395,7 +1486,7 @@
           "name": "Mangue",
           "prevSize": 32,
           "code": 59852,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1305,
@@ -1403,7 +1494,7 @@
           "name": "Manioc",
           "prevSize": 32,
           "code": 59853,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1307,
@@ -1411,7 +1502,7 @@
           "name": "Maraichage-bio-intensif",
           "prevSize": 32,
           "code": 59855,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1308,
@@ -1419,7 +1510,7 @@
           "name": "Mecanisation",
           "prevSize": 32,
           "code": 59856,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1309,
@@ -1427,7 +1518,7 @@
           "name": "Melon",
           "prevSize": 32,
           "code": 59857,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1310,
@@ -1435,7 +1526,7 @@
           "name": "Meteil",
           "prevSize": 32,
           "code": 59858,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1311,
@@ -1443,7 +1534,7 @@
           "name": "Methanisation",
           "prevSize": 32,
           "code": 59859,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1312,
@@ -1451,7 +1542,7 @@
           "name": "Millet",
           "prevSize": 32,
           "code": 59860,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1313,
@@ -1459,7 +1550,7 @@
           "name": "Miscanthus",
           "prevSize": 32,
           "code": 59861,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1314,
@@ -1467,7 +1558,7 @@
           "name": "Mollusques",
           "prevSize": 32,
           "code": 59862,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1315,
@@ -1475,7 +1566,7 @@
           "name": "More",
           "prevSize": 32,
           "code": 59863,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1316,
@@ -1483,7 +1574,7 @@
           "name": "Moutarde",
           "prevSize": 32,
           "code": 59864,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1317,
@@ -1491,7 +1582,7 @@
           "name": "Mycosylviculture",
           "prevSize": 32,
           "code": 59865,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1318,
@@ -1499,7 +1590,7 @@
           "name": "Navet",
           "prevSize": 32,
           "code": 59866,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1319,
@@ -1507,7 +1598,7 @@
           "name": "Nematodes",
           "prevSize": 32,
           "code": 59867,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1320,
@@ -1515,7 +1606,7 @@
           "name": "Nere",
           "prevSize": 32,
           "code": 59868,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1321,
@@ -1523,7 +1614,7 @@
           "name": "Niebe",
           "prevSize": 32,
           "code": 59869,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1322,
@@ -1531,7 +1622,7 @@
           "name": "Noix",
           "prevSize": 32,
           "code": 59870,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1323,
@@ -1539,7 +1630,7 @@
           "name": "Noix-de-cajou",
           "prevSize": 32,
           "code": 59871,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1324,
@@ -1547,7 +1638,7 @@
           "name": "Noix-de-coco",
           "prevSize": 32,
           "code": 59872,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1325,
@@ -1555,7 +1646,7 @@
           "name": "Non-irrigue",
           "prevSize": 32,
           "code": 59873,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1326,
@@ -1563,7 +1654,7 @@
           "name": "Non-labour",
           "prevSize": 32,
           "code": 59874,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1327,
@@ -1571,7 +1662,7 @@
           "name": "Nutrition-des-bovins",
           "prevSize": 32,
           "code": 59875,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1328,
@@ -1579,7 +1670,7 @@
           "name": "Nutrition-des-brebis-laitieres",
           "prevSize": 32,
           "code": 59876,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1329,
@@ -1587,7 +1678,7 @@
           "name": "Nutrition-des-poules",
           "prevSize": 32,
           "code": 59877,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1330,
@@ -1595,7 +1686,7 @@
           "name": "Oignon",
           "prevSize": 32,
           "code": 59878,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1331,
@@ -1603,7 +1694,7 @@
           "name": "Oignon-1",
           "prevSize": 32,
           "code": 59879,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1332,
@@ -1611,7 +1702,7 @@
           "name": "Oiseaux",
           "prevSize": 32,
           "code": 59880,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1333,
@@ -1619,7 +1710,7 @@
           "name": "Olives",
           "prevSize": 32,
           "code": 59881,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1334,
@@ -1627,7 +1718,7 @@
           "name": "Orange",
           "prevSize": 32,
           "code": 59882,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1335,
@@ -1635,7 +1726,7 @@
           "name": "Other",
           "prevSize": 32,
           "code": 59883,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1336,
@@ -1643,7 +1734,7 @@
           "name": "Pamplemousse",
           "prevSize": 32,
           "code": 59884,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1337,
@@ -1651,7 +1742,7 @@
           "name": "Papaye",
           "prevSize": 32,
           "code": 59885,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1338,
@@ -1659,7 +1750,7 @@
           "name": "Partenariat",
           "prevSize": 32,
           "code": 59886,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1339,
@@ -1667,7 +1758,7 @@
           "name": "Pasteque",
           "prevSize": 32,
           "code": 59887,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1340,
@@ -1675,7 +1766,7 @@
           "name": "Patate-douce",
           "prevSize": 32,
           "code": 59888,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1341,
@@ -1683,7 +1774,7 @@
           "name": "Paturage-tournant-dynamique",
           "prevSize": 32,
           "code": 59889,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1342,
@@ -1691,7 +1782,7 @@
           "name": "PBI",
           "prevSize": 32,
           "code": 59890,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1343,
@@ -1699,7 +1790,7 @@
           "name": "Peche",
           "prevSize": 32,
           "code": 59891,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1344,
@@ -1707,7 +1798,7 @@
           "name": "Permaculture",
           "prevSize": 32,
           "code": 59892,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1345,
@@ -1715,7 +1806,7 @@
           "name": "Petit-pois",
           "prevSize": 32,
           "code": 59893,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1346,
@@ -1723,7 +1814,7 @@
           "name": "PFI",
           "prevSize": 32,
           "code": 59894,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1347,
@@ -1731,7 +1822,7 @@
           "name": "PH-5",
           "prevSize": 32,
           "code": 59895,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1348,
@@ -1739,7 +1830,7 @@
           "name": "PH-65",
           "prevSize": 32,
           "code": 59896,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1349,
@@ -1747,7 +1838,7 @@
           "name": "PH-75",
           "prevSize": 32,
           "code": 59897,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1350,
@@ -1755,7 +1846,7 @@
           "name": "PH-7",
           "prevSize": 32,
           "code": 59898,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1351,
@@ -1763,7 +1854,7 @@
           "name": "Piment",
           "prevSize": 32,
           "code": 59899,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1352,
@@ -1771,7 +1862,7 @@
           "name": "Pistache",
           "prevSize": 32,
           "code": 59900,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1353,
@@ -1779,7 +1870,7 @@
           "name": "Planification",
           "prevSize": 32,
           "code": 59901,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1354,
@@ -1787,7 +1878,7 @@
           "name": "Plantation-en-arboriculture",
           "prevSize": 32,
           "code": 59902,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1355,
@@ -1795,7 +1886,7 @@
           "name": "Plantation-en-viticulture",
           "prevSize": 32,
           "code": 59903,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1356,
@@ -1803,7 +1894,7 @@
           "name": "Poire",
           "prevSize": 32,
           "code": 59904,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1357,
@@ -1811,7 +1902,7 @@
           "name": "Poireau",
           "prevSize": 32,
           "code": 59905,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1358,
@@ -1819,7 +1910,7 @@
           "name": "Pois-chiche",
           "prevSize": 32,
           "code": 59906,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1359,
@@ -1827,7 +1918,7 @@
           "name": "Poivron",
           "prevSize": 32,
           "code": 59907,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1360,
@@ -1835,7 +1926,7 @@
           "name": "Polyculture",
           "prevSize": 32,
           "code": 59908,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1361,
@@ -1843,7 +1934,7 @@
           "name": "Polyculture-elevage",
           "prevSize": 32,
           "code": 59909,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1362,
@@ -1851,7 +1942,7 @@
           "name": "Pomme",
           "prevSize": 32,
           "code": 59910,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1363,
@@ -1859,7 +1950,7 @@
           "name": "Pomme-cannelle",
           "prevSize": 32,
           "code": 59911,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1364,
@@ -1867,7 +1958,7 @@
           "name": "Pomme-de-terre",
           "prevSize": 32,
           "code": 59912,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1365,
@@ -1875,7 +1966,7 @@
           "name": "Pre-verger",
           "prevSize": 32,
           "code": 59913,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1366,
@@ -1883,7 +1974,7 @@
           "name": "Protection-des-cultures",
           "prevSize": 32,
           "code": 59914,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1367,
@@ -1891,7 +1982,7 @@
           "name": "Protection-en-arboriculture",
           "prevSize": 32,
           "code": 59915,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1368,
@@ -1899,7 +1990,7 @@
           "name": "Protection-en-viticulture",
           "prevSize": 32,
           "code": 59916,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1369,
@@ -1907,7 +1998,7 @@
           "name": "Protection-integree-des-cultures-PIC",
           "prevSize": 32,
           "code": 59917,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1370,
@@ -1915,7 +2006,7 @@
           "name": "Prune",
           "prevSize": 32,
           "code": 59918,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1371,
@@ -1923,7 +2014,7 @@
           "name": "Quinoa",
           "prevSize": 32,
           "code": 59919,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1372,
@@ -1931,7 +2022,7 @@
           "name": "Radis",
           "prevSize": 32,
           "code": 59920,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1373,
@@ -1939,7 +2030,7 @@
           "name": "Ray-grass",
           "prevSize": 32,
           "code": 59921,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1374,
@@ -1947,7 +2038,7 @@
           "name": "Remise-en-vie-des-sols",
           "prevSize": 32,
           "code": 59922,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1375,
@@ -1955,7 +2046,7 @@
           "name": "Reproduction-des-bovins",
           "prevSize": 32,
           "code": 59923,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1376,
@@ -1963,7 +2054,7 @@
           "name": "Reproduction-des-brebis-lait",
           "prevSize": 32,
           "code": 59924,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1377,
@@ -1971,7 +2062,7 @@
           "name": "Reproduction-des-caprins",
           "prevSize": 32,
           "code": 59925,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1378,
@@ -1979,7 +2070,7 @@
           "name": "Riz",
           "prevSize": 32,
           "code": 59926,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1379,
@@ -1987,7 +2078,7 @@
           "name": "Romarin",
           "prevSize": 32,
           "code": 59927,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1380,
@@ -1995,7 +2086,7 @@
           "name": "Rongeurs",
           "prevSize": 32,
           "code": 59928,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1381,
@@ -2003,7 +2094,7 @@
           "name": "Rotations",
           "prevSize": 32,
           "code": 59929,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1382,
@@ -2011,7 +2102,7 @@
           "name": "Sante-des-bovins",
           "prevSize": 32,
           "code": 59930,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1383,
@@ -2019,7 +2110,7 @@
           "name": "Sante-des-elevages-ovins",
           "prevSize": 32,
           "code": 59931,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1384,
@@ -2027,7 +2118,7 @@
           "name": "Sante-des-poules",
           "prevSize": 32,
           "code": 59932,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1385,
@@ -2035,7 +2126,7 @@
           "name": "Sarrasin",
           "prevSize": 32,
           "code": 59933,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1386,
@@ -2043,7 +2134,7 @@
           "name": "SAU",
           "prevSize": 32,
           "code": 59934,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1387,
@@ -2051,7 +2142,7 @@
           "name": "SDSC",
           "prevSize": 32,
           "code": 59935,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1388,
@@ -2059,7 +2150,7 @@
           "name": "Semis-Direct",
           "prevSize": 32,
           "code": 59936,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1389,
@@ -2067,7 +2158,7 @@
           "name": "Senegal",
           "prevSize": 32,
           "code": 59937,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1390,
@@ -2075,7 +2166,7 @@
           "name": "Soja",
           "prevSize": 32,
           "code": 59938,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1391,
@@ -2083,7 +2174,7 @@
           "name": "Sorgho",
           "prevSize": 32,
           "code": 59939,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1392,
@@ -2117,29 +2208,29 @@
             59962
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2173,28 +2264,28 @@
             59984
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2227,27 +2318,27 @@
             60005
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2282,29 +2373,29 @@
             60028
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2343,33 +2434,33 @@
             60055
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2378,7 +2469,7 @@
           "name": "Strategie-dinvestissements",
           "prevSize": 32,
           "code": 60056,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1398,
@@ -2386,7 +2477,7 @@
           "name": "Sylviculture",
           "prevSize": 32,
           "code": 60057,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1399,
@@ -2394,7 +2485,7 @@
           "name": "Sylvopastoralisme",
           "prevSize": 32,
           "code": 60058,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1400,
@@ -2402,7 +2493,7 @@
           "name": "Systemes-et-choix-des-especes",
           "prevSize": 32,
           "code": 60059,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1401,
@@ -2410,7 +2501,7 @@
           "name": "Taille",
           "prevSize": 32,
           "code": 60060,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1402,
@@ -2418,7 +2509,7 @@
           "name": "TCS",
           "prevSize": 32,
           "code": 60061,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1403,
@@ -2426,7 +2517,7 @@
           "name": "Abricot",
           "prevSize": 32,
           "code": 60062,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1404,
@@ -2434,7 +2525,7 @@
           "name": "Acariens",
           "prevSize": 32,
           "code": 60063,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1405,
@@ -2442,7 +2533,7 @@
           "name": "ACS",
           "prevSize": 32,
           "code": 60064,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1406,
@@ -2450,7 +2541,7 @@
           "name": "Adventices",
           "prevSize": 32,
           "code": 60065,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1407,
@@ -2458,7 +2549,7 @@
           "name": "Agriculture-bio",
           "prevSize": 32,
           "code": 60066,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1408,
@@ -2466,7 +2557,7 @@
           "name": "Agriculture-conventionnelle",
           "prevSize": 32,
           "code": 60067,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1409,
@@ -2474,7 +2565,7 @@
           "name": "Agriculture-de-precision",
           "prevSize": 32,
           "code": 60068,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1410,
@@ -2482,7 +2573,7 @@
           "name": "Agriculture-hors-sol",
           "prevSize": 32,
           "code": 60069,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1411,
@@ -2490,7 +2581,7 @@
           "name": "Agriculture-integree",
           "prevSize": 32,
           "code": 60070,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1412,
@@ -2498,7 +2589,7 @@
           "name": "Agriculture-raisonnee",
           "prevSize": 32,
           "code": 60071,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1413,
@@ -2506,7 +2597,7 @@
           "name": "Agrivoltaisme",
           "prevSize": 32,
           "code": 60072,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1414,
@@ -2514,7 +2605,7 @@
           "name": "Agroforesterie",
           "prevSize": 32,
           "code": 60073,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1415,
@@ -2522,7 +2613,7 @@
           "name": "Agroforesterie-GC",
           "prevSize": 32,
           "code": 60074,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1416,
@@ -2530,7 +2621,7 @@
           "name": "Agroforesterie-Maraichage",
           "prevSize": 32,
           "code": 60075,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1417,
@@ -2538,7 +2629,7 @@
           "name": "Ail",
           "prevSize": 32,
           "code": 60076,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1418,
@@ -2546,7 +2637,7 @@
           "name": "Amande",
           "prevSize": 32,
           "code": 60077,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1419,
@@ -2554,7 +2645,7 @@
           "name": "Amarante",
           "prevSize": 32,
           "code": 60078,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1420,
@@ -2562,7 +2653,7 @@
           "name": "Aneth",
           "prevSize": 32,
           "code": 60079,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1421,
@@ -2570,7 +2661,7 @@
           "name": "Apiculture",
           "prevSize": 32,
           "code": 60080,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1422,
@@ -2578,7 +2669,7 @@
           "name": "Approche-redox",
           "prevSize": 32,
           "code": 60081,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1423,
@@ -2586,7 +2677,7 @@
           "name": "Arachide",
           "prevSize": 32,
           "code": 60082,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1424,
@@ -2594,7 +2685,7 @@
           "name": "Arboriculture",
           "prevSize": 32,
           "code": 60083,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1425,
@@ -2602,7 +2693,7 @@
           "name": "Artichaut",
           "prevSize": 32,
           "code": 60084,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1426,
@@ -2610,7 +2701,7 @@
           "name": "Association-de-culture",
           "prevSize": 32,
           "code": 60085,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1427,
@@ -2618,7 +2709,7 @@
           "name": "Aubergine",
           "prevSize": 32,
           "code": 60086,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1428,
@@ -2626,7 +2717,7 @@
           "name": "Auto-fertilite-du-sol",
           "prevSize": 32,
           "code": 60087,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1429,
@@ -2634,7 +2725,7 @@
           "name": "Autonomie-en-MO",
           "prevSize": 32,
           "code": 60088,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1430,
@@ -2642,7 +2733,7 @@
           "name": "Autonomie-en-proteines",
           "prevSize": 32,
           "code": 60089,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1431,
@@ -2650,7 +2741,7 @@
           "name": "Aviculture",
           "prevSize": 32,
           "code": 60090,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1432,
@@ -2658,7 +2749,7 @@
           "name": "Aviculture-oeufs",
           "prevSize": 32,
           "code": 60091,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1433,
@@ -2666,7 +2757,7 @@
           "name": "Bacteries",
           "prevSize": 32,
           "code": 60092,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1434,
@@ -2674,7 +2765,7 @@
           "name": "Bambou",
           "prevSize": 32,
           "code": 60093,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1435,
@@ -2682,7 +2773,7 @@
           "name": "Banane",
           "prevSize": 32,
           "code": 60094,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1436,
@@ -2690,7 +2781,7 @@
           "name": "Basilique",
           "prevSize": 32,
           "code": 60095,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1437,
@@ -2698,7 +2789,7 @@
           "name": "Batiments-delevage",
           "prevSize": 32,
           "code": 60096,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1438,
@@ -2706,7 +2797,7 @@
           "name": "Benin",
           "prevSize": 32,
           "code": 60097,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1439,
@@ -2714,7 +2805,7 @@
           "name": "Betterave",
           "prevSize": 32,
           "code": 60098,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1440,
@@ -2722,7 +2813,7 @@
           "name": "Biodiversite",
           "prevSize": 32,
           "code": 60099,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1441,
@@ -2765,38 +2856,38 @@
             60131
           ],
           "tempChar": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         },
         {
@@ -2805,7 +2896,7 @@
           "name": "Bromes",
           "prevSize": 32,
           "code": 60132,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1443,
@@ -2813,7 +2904,7 @@
           "name": "Cacao",
           "prevSize": 32,
           "code": 60133,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1444,
@@ -2821,7 +2912,7 @@
           "name": "Cahier-des-charges",
           "prevSize": 32,
           "code": 60134,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1445,
@@ -2829,7 +2920,7 @@
           "name": "Canard",
           "prevSize": 32,
           "code": 60135,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1446,
@@ -2837,7 +2928,7 @@
           "name": "Canne-a-sucre",
           "prevSize": 32,
           "code": 60136,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1447,
@@ -2845,7 +2936,7 @@
           "name": "Carotte",
           "prevSize": 32,
           "code": 60137,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1448,
@@ -2853,7 +2944,7 @@
           "name": "Cassis",
           "prevSize": 32,
           "code": 60138,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1449,
@@ -2861,7 +2952,7 @@
           "name": "Cereales",
           "prevSize": 32,
           "code": 60139,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1450,
@@ -2869,7 +2960,7 @@
           "name": "Cerise",
           "prevSize": 32,
           "code": 60140,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1451,
@@ -2877,7 +2968,7 @@
           "name": "Chataigne",
           "prevSize": 32,
           "code": 60141,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1452,
@@ -2885,7 +2976,7 @@
           "name": "Chia",
           "prevSize": 32,
           "code": 60142,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1453,
@@ -2893,7 +2984,7 @@
           "name": "Chou",
           "prevSize": 32,
           "code": 60143,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1454,
@@ -2901,7 +2992,7 @@
           "name": "Choux",
           "prevSize": 32,
           "code": 60144,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1455,
@@ -2909,7 +3000,7 @@
           "name": "Ciboulette",
           "prevSize": 32,
           "code": 60145,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1457,
@@ -2917,7 +3008,7 @@
           "name": "Citron",
           "prevSize": 32,
           "code": 60147,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1458,
@@ -2925,7 +3016,7 @@
           "name": "Citronnelle",
           "prevSize": 32,
           "code": 60148,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1459,
@@ -2933,7 +3024,7 @@
           "name": "Colza",
           "prevSize": 32,
           "code": 60149,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1460,
@@ -2941,7 +3032,7 @@
           "name": "Compaction",
           "prevSize": 32,
           "code": 60150,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1461,
@@ -2949,7 +3040,7 @@
           "name": "Concombre",
           "prevSize": 32,
           "code": 60151,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1462,
@@ -2957,7 +3048,7 @@
           "name": "Conventionnelle",
           "prevSize": 32,
           "code": 60152,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1463,
@@ -2965,7 +3056,7 @@
           "name": "Coriandre",
           "prevSize": 32,
           "code": 60153,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1464,
@@ -2973,7 +3064,7 @@
           "name": "Corossol",
           "prevSize": 32,
           "code": 60154,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1465,
@@ -2981,7 +3072,7 @@
           "name": "Courge",
           "prevSize": 32,
           "code": 60155,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1466,
@@ -2989,7 +3080,7 @@
           "name": "Couverts-permanents",
           "prevSize": 32,
           "code": 60156,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1467,
@@ -2997,7 +3088,7 @@
           "name": "Couverts-vegetaux",
           "prevSize": 32,
           "code": 60157,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1468,
@@ -3005,7 +3096,7 @@
           "name": "Cultures-fourrageres",
           "prevSize": 32,
           "code": 60158,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1469,
@@ -3013,7 +3104,7 @@
           "name": "Culture-sous-abri",
           "prevSize": 32,
           "code": 60159,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1470,
@@ -3021,7 +3112,7 @@
           "name": "Cultures-tropicales",
           "prevSize": 32,
           "code": 60160,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 1,
@@ -3035,6 +3126,218 @@
       "height": 1024,
       "prevSize": 32,
       "icons": [
+        {
+          "id": 255,
+          "paths": [
+            "M246.572 541.589c-24.585-33.432-66.357-23.279-77.308 14.504 18.42-23.062 46.704-30.822 77.308-14.504zM643.336 783.665c2.393-47.501 4.134-52.433 3.844-115.164 11.821 39.742 14.504 71.724 16.39 115.164zM350.495 783.665c-1.233-41.627-4.206-220.102-33.36-248.603 13.344 75.35 8.195 168.975 13.199 248.603zM381.027 783.665c-4.621-34.058-7.259-73.423-7.259-113.404 0-124.957 25.767-243.895 72.277-351.792l-2.215 5.774c-58.597 88.331-87.823 187.032-96.526 289.432 6.604 50.277 10.373 108.418 10.373 167.439 0 0.897-0.001 1.795-0.003 2.692l0-0.141zM288.199 602.361c12.371 32.738 23.577 72.258 31.606 112.921l0.811 4.926c0-15.447 0-30.967-0.653-46.559-13.065-104.967-46.766-199.858-96.975-283.732l1.827 3.292c27.921 66.357 47.211 139.386 63.166 209.296zM261.076 563.49c-7.581-8.513-17.201-15.049-28.102-18.857l-0.471-0.143c47.284 55.914 64.326 166.219 66.865 239.32h23.859c-10.153-67.372-28.501-160.997-62.151-220.175zM793.165 762.126c-1.255 6.016-1.973 12.93-1.973 20.011 0 0.614 0.005 1.226 0.016 1.837l-0.001-0.092h19.291c0-42.28 16.752-103.198 44.165-136.412-15.451 10.633-28.206 24.013-37.821 39.541l-0.325 0.563c-7.041 29.452-15.051 54.377-24.685 78.476l1.334-3.779zM775.687 783.882c24.077-44.093 36.768-100.224 42.425-148.161-12.103 33.468-26.039 62.176-42.541 89.142l1.204-2.117c-2.828 19.436-5.004 39.669-6.599 60.845zM291.39 783.882c-1.1-35.917-4.958-70.152-11.383-103.472l0.649 4.046c-10.661-31.402-28.138-65.269-53.666-87.606 33.142 50.765 41.772 128 46.414 186.887zM762.198 783.882c5.367-73.609 19.363-150.772 50.765-217.129-44.673 36.986-61.643 102.037-68.678 157.081q-0.58 28.573 0 60.048zM736.018 783.882c-0.943-66.865 0.435-137.79 11.821-203.857-12.392 14.534-22.661 31.372-30.026 49.691l-0.433 1.219c-1.813 50.765-1.813 101.53-0.58 152.73zM702.658 783.882c-6.724-94.719-20.427-182.214-40.819-267.106l2.237 11.033c-4.061 19.871-7.252 39.814-10.371 59.83 8.267 65.269 13.561 130.538 17.26 196.242zM633.908 783.882c-0.18-7.643-0.282-16.646-0.282-25.673 0-108.874 14.902-214.267 42.776-314.252l-1.955 8.213c-25.053 48.994-45.993 105.937-59.908 165.58l-1.009 5.135c-1.255 22.309-1.97 48.414-1.97 74.686 0 30.314 0.952 60.406 2.828 90.247l-0.205-4.080zM605.915 783.882c-1.711-25.631-2.686-55.562-2.686-85.722 0-84.344 7.626-166.908 22.227-247.038l-1.266 8.372q-4.786-21.756-10.516-43.513c-25.745 86.155-36.261 188.555-46.921 277.684 3.005 26.060 4.72 56.258 4.72 86.856 0 1.105-0.002 2.209-0.007 3.312l0.001-0.17zM563.563 783.882c0-100.152-15.084-168.612-43.513-265.355q-6.237 18.275-11.241 37.929c19.291 76.727 27.123 148.378 18.42 227.427zM505.546 783.882c6.237-18.565 11.458-37.711 16.897-56.494 0.049-2.73 0.077-5.95 0.077-9.177 0-18.808-0.95-37.395-2.804-55.714l0.189 2.305c-9.283 32.054-19.726 63.384-30.749 94.785 0 7.977 0.508 16.1 0.87 24.222h15.52zM482.049 783.882c-5.076-109.942 3.771-227.789 54.536-325.548-68.678 95.075-91.159 208.499-86.083 325.548zM437.593 783.882c-14.069-110.958-19.581-236.564-24.222-348.755q-9.863 35.68-16.752 71.796c0.508 92.175 5.512 184.784 11.531 276.741zM827.83 791.859h-570.887c-4.886 0-8.848 3.961-8.848 8.848s3.961 8.848 8.848 8.848h571.395c4.926 0 8.92-3.994 8.92-8.92s-3.994-8.92-8.92-8.92v-0zM510.477 484.079c-12.256-42.497-30.676-95.075-35.68-137.21-9.21 40.032 12.619 116.977 22.989 159.547 3.989-7.687 8.195-15.157 12.691-22.554zM456.304 620.564c-0.177-5.934-0.277-12.914-0.277-19.918 0-56.632 6.576-111.729 19.007-164.567l-0.962 4.85c-1.45-6.89-2.828-13.634-4.061-20.161-31.692 62.368-40.032 136.412-38.799 205.525 2.901 43.513 5.947 86.59 11.168 129.595-0.033-2.324-0.052-5.068-0.052-7.816 0-45.215 5.092-89.24 14.734-131.534l-0.758 3.953zM691.998 623.828c6.218-12.496 12.63-23.112 19.792-33.157l-0.501 0.74c4.134-68.242 11.096-137.79 28.283-204.002-27.776 68.242-41.192 147.581-50.257 220.32 0.943 5.367 1.813 10.661 2.756 16.172zM719.918 580.315c10.199-12.438 21.796-23.182 34.691-32.195l0.554-0.367c20.525-48.265 34.108-104.212 37.852-162.834l0.077-1.499c-8.195 31.112-73.029 195.807-73.174 196.895zM708.678 656.317c-2.548 8.432-5.068 19.237-6.991 30.247l-0.261 1.807q3.771 31.257 7.252 65.269c-0.435-32.344 0-64.616 0.435-96.961zM698.162 664.875c13.416-53.883 40.104-100.224 89.056-125.824-44.238 18.565-73.899 55.624-92.972 99.137q1.958 13.271 3.916 26.978zM641.741 505.328c3.191-7.905 6.454-15.737 9.935-23.569-10.378-34.014-22.518-63.178-37.104-90.853l1.351 2.812c9.195 29.638 18.16 67.238 24.937 105.593l0.881 6.017zM622.667 389.294c3.771 7.252 7.252 14.504 10.951 22.192 7.252-33.36 15.302-66.72 24.802-99.934-13.495 22.23-25.602 47.911-34.96 74.878l-0.865 2.865zM549.493 595.399c3.796-23.546 5.965-50.69 5.965-78.341 0-1.523-0.007-3.045-0.020-4.566l0.002 0.233c-2.901 20.596-7.252 40.829-11.458 61.135 1.886 7.252 3.699 14.504 5.512 21.756zM490.606 386.538l1.958 7.252 9.355-25.020c-3.955 5.158-7.707 10.972-10.977 17.081l-0.336 0.687zM393.065 399.375c5.512-12.039 11.313-23.787 17.55-35.318-1.17-13.313-1.837-28.804-1.837-44.451 0-32.984 2.964-65.276 8.639-96.624l-0.493 3.284c-23.642 40.249-24.367 127.275-23.787 172.746zM360.721 489.156c-3.046-84.342-38.944-224.816-114.366-274.565 68.097 77.090 95.946 268.691 98.919 347.232 4.511-28.789 9.892-53.284 16.569-77.238l-1.122 4.717zM293.566 322.357c-15.52 53.376-16.607 112.771-12.401 167.452 8.92 22.409 16.535 45.326 23.424 68.605-2.531-28.060-3.974-60.697-3.974-93.67 0-36.679 1.786-72.942 5.275-108.705l-0.358 4.537c-3.481-12.764-7.252-25.455-11.676-37.929zM311.189 277.539c2.321 4.061 4.569 8.195 6.744 12.474 5.337-19.747 11.946-36.833 20.090-53.012l-0.727 1.594c-9.708 11.365-18.381 24.136-25.566 37.812l-0.542 1.132z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Grass"
+          ]
+        },
+        {
+          "id": 254,
+          "paths": [
+            "M512 784.245c-3.284 0-5.947-2.662-5.947-5.947v0-431.501c0-3.284 2.662-5.947 5.947-5.947s5.947 2.662 5.947 5.947h0v431.501c0 3.284-2.662 5.947-5.947 5.947v0z",
+            "M512 694.971c-0.046 0.001-0.1 0.002-0.154 0.002-3.284 0-5.947-2.662-5.947-5.947 0-2.72 1.826-5.013 4.318-5.721l0.042-0.010c31.112-9.5 61.208-18.565 87.751-26.543l47.792-14.504c0.47-0.134 1.010-0.21 1.568-0.21 2.661 0 4.913 1.747 5.673 4.157l0.011 0.042c0.148 0.49 0.233 1.054 0.233 1.637 0 2.629-1.726 4.854-4.107 5.604l-0.042 0.011-47.792 14.504c-26.615 7.977-56.712 17.042-87.751 26.543-0.261 0.033-0.564 0.052-0.87 0.052s-0.609-0.019-0.906-0.056l0.035 0.004z",
+            "M680.467 607.51c-3.429 0.015-6.753 0.437-9.935 1.221l0.289-0.060c-14.337 3.507-25.581 14.103-29.943 27.771l-0.081 0.294c-0.395 1.101-1.043 2.030-1.877 2.749l-0.008 0.007c-5.512 4.424-8.195 9.355-7.252 12.691s6.237 5.729 13.271 5.947c1.196 0.004 2.302 0.384 3.208 1.027l-0.017-0.012c6.687 4.815 15.044 7.7 24.074 7.7 6.092 0 11.878-1.313 17.089-3.672l-0.261 0.106c18.856-8.412 23.062-24.512 18.928-36.768-3.88-11.158-14.306-19.023-26.569-19.023-0.399 0-0.796 0.008-1.19 0.025l0.056-0.002zM672.562 678.726c-10.987-0.023-21.199-3.323-29.716-8.972l0.2 0.125c-0.872 0.13-1.879 0.205-2.904 0.205-11.415 0-20.669-9.254-20.669-20.669 0-7.714 4.226-14.44 10.488-17.992l0.103-0.054c6.096-17.097 20.22-29.951 37.711-34.156l0.362-0.074c27.195-6.382 45.688 8.775 51.345 25.527s0 40.032-25.382 51.49c-6.348 2.887-13.766 4.569-21.577 4.569-0.063 0-0.126-0-0.189-0l0.010 0z",
+            "M574.731 675.753c-0.030 0.001-0.066 0.001-0.102 0.001-0.881 0-1.719-0.187-2.475-0.524l0.039 0.015c-2.087-0.954-3.511-3.023-3.511-5.425 0-0.956 0.225-1.859 0.626-2.659l-0.016 0.034 21.321-45.906c0.968-2.055 3.022-3.452 5.403-3.452 3.288 0 5.954 2.666 5.954 5.954 0 0.908-0.203 1.768-0.567 2.538l0.015-0.036-21.249 46.051c-0.954 2.030-2.982 3.409-5.332 3.409-0.038 0-0.075-0-0.113-0.001l0.006 0z",
+            "M587.93 598.445c-9.573 20.451-6.237 35.028 1.886 38.799s21.756-3.118 30.894-23.569 6.237-35.028-1.886-38.871-21.756 3.118-30.894 23.642zM594.674 650.080c-0.083 0.001-0.181 0.002-0.279 0.002-3.371 0-6.566-0.749-9.43-2.090l0.137 0.057c-13.054-6.092-21.104-25.745-7.687-54.608v0c13.344-29.008 33.577-35.463 46.704-29.008s21.104 25.745 7.687 54.608c-10.733 22.119-25.31 31.039-37.131 31.039z",
+            "M614.98 706.429c-1.345-0.022-2.578-0.482-3.568-1.243l0.014 0.010-40.322-30.749c-1.434-1.103-2.35-2.82-2.35-4.75 0-3.3 2.676-5.976 5.976-5.976 1.37 0 2.632 0.461 3.64 1.236l-0.014-0.010 40.322 30.676c1.44 1.083 2.361 2.788 2.361 4.708 0 1.344-0.452 2.583-1.211 3.573l0.010-0.014c-1.087 1.539-2.856 2.533-4.858 2.538l-0.001 0z",
+            "M619.767 726.808c6.878 5.937 15.579 9.94 25.16 11.074l0.223 0.021c0.623 0.095 1.342 0.149 2.073 0.149 4.302 0 8.167-1.873 10.823-4.849l0.012-0.014c5.439-7.252 1.595-21.756-16.39-35.173s-32.925-13.561-38.364-6.454-1.523 21.756 16.462 35.245zM646.527 749.87h-2.103c-12.242-1.39-23.144-6.254-31.935-13.568l0.098 0.079c-25.165-19.363-27.486-40.177-18.71-51.998s29.661-15.084 54.971 4.134 27.413 40.394 18.71 51.925c-4.784 5.788-11.964 9.448-19.999 9.448-0.363 0-0.724-0.007-1.083-0.022l0.051 0.002z",
+            "M512 595.544c-0.027 0-0.058 0.001-0.089 0.001-1.436 0-2.75-0.521-3.763-1.385l0.008 0.007c-1.237-1.095-2.012-2.686-2.012-4.459 0-1.521 0.571-2.908 1.51-3.959l-0.005 0.006 46.196-54.318c1.101-1.281 2.723-2.087 4.533-2.087 3.295 0 5.966 2.671 5.966 5.966 0 1.485-0.543 2.844-1.44 3.888l0.007-0.008-46.269 54.246c-1.083 1.288-2.695 2.101-4.496 2.103l-0 0z",
+            "M601.926 451.227c-14.504 0-32.054 7.977-49.314 28.283s-24.295 42.642-18.203 59.685c3.715 10.556 12.763 18.349 23.825 20.208l0.18 0.025c17.84 3.263 38.219-6.817 55.986-27.631 27.268-32.272 23.787-60.41 9.283-73.101-5.628-4.657-12.92-7.482-20.871-7.482-0.311 0-0.622 0.004-0.931 0.013l0.046-0.001zM564.941 571.903c-3.158-0.008-6.242-0.298-9.237-0.846l0.316 0.048c-15.326-2.818-27.621-13.499-32.686-27.623l-0.093-0.298c-7.252-21.176 0-47.211 20.451-71.361 11.741-14.98 27.943-25.983 46.592-31.041l0.62-0.143c3.323-0.865 7.138-1.361 11.068-1.361 11.030 0 21.147 3.909 29.042 10.416l-0.078-0.063c19.146 16.245 24.802 51.345-7.905 89.781-17.84 20.959-38.654 32.417-58.017 32.417z",
+            "M512 464.136c-1.802-0.002-3.413-0.816-4.489-2.094l-0.007-0.009c-0.911-1.020-1.467-2.373-1.467-3.856 0-1.802 0.821-3.412 2.11-4.476l0.010-0.008 54.754-46.704c1.002-0.795 2.285-1.275 3.68-1.275 3.284 0 5.947 2.662 5.947 5.947 0 1.738-0.746 3.302-1.935 4.39l-0.005 0.004-54.754 46.704c-1.005 0.857-2.319 1.379-3.754 1.379-0.031 0-0.063-0-0.094-0.001l0.005 0z",
+            "M575.529 351.728c-27.631 25.527-27.195 51.273-15.084 64.399s37.711 15.52 65.269-9.935 27.123-51.273 15.084-64.326-37.711-15.592-65.269 9.863zM584.014 437.738c-0.209 0.004-0.456 0.006-0.703 0.006-12.419 0-23.624-5.203-31.552-13.548l-0.018-0.019c-16.027-17.333-17.913-50.112 15.737-81.151v0c33.577-31.184 66.139-26.543 82.094-9.428s17.623 50.257-15.737 81.296c-17.405 16.317-34.955 22.844-49.822 22.844z",
+            "M512 251.649c-18.42 0-38.146 16.172-38.146 51.635s19.726 52.070 38.146 52.070 38.146-16.172 38.146-51.708c0.052-0.925 0.081-2.007 0.081-3.097 0-13.706-4.671-26.321-12.508-36.34l0.098 0.13c-6.12-7.627-15.381-12.517-25.789-12.691l-0.029-0zM512 366.885c-13.98-0.044-26.465-6.41-34.75-16.388l-0.060-0.074c-9.537-11.936-15.303-27.248-15.303-43.906 0-1.137 0.027-2.268 0.080-3.392l-0.006 0.159c-0.046-0.952-0.072-2.067-0.072-3.188 0-16.649 5.766-31.952 15.41-44.019l-0.109 0.141c8.321-10.084 20.821-16.462 34.81-16.462s26.489 6.378 34.749 16.385l0.061 0.076c9.535 11.927 15.302 27.229 15.302 43.878 0 1.121-0.026 2.236-0.078 3.345l0.006-0.157c0.047 0.965 0.074 2.096 0.074 3.233 0 16.659-5.767 31.97-15.413 44.048l0.109-0.142c-8.346 10.052-20.83 16.419-34.803 16.462l-0.007 0z",
+            "M512 694.971c-0.261 0.033-0.564 0.052-0.87 0.052s-0.609-0.019-0.906-0.056l0.035 0.004c-31.039-9.5-61.208-18.565-87.751-26.543l-47.792-14.504c-2.422-0.761-4.149-2.987-4.149-5.615 0-0.583 0.085-1.147 0.243-1.679l-0.011 0.042c0.771-2.452 3.024-4.199 5.684-4.199 0.558 0 1.098 0.077 1.61 0.22l-0.042-0.010 47.719 14.504c26.615 7.977 56.712 17.042 87.823 26.543 2.534 0.718 4.36 3.012 4.36 5.731 0 3.284-2.662 5.947-5.947 5.947-0.054 0-0.108-0.001-0.162-0.002l0.008 0z",
+            "M343.533 607.51c-0.338-0.015-0.735-0.023-1.134-0.023-12.263 0-22.69 7.865-26.509 18.827l-0.060 0.197c-4.134 12.256 0 28.356 18.928 36.768 4.95 2.253 10.736 3.567 16.828 3.567 9.030 0 17.387-2.885 24.197-7.785l-0.123 0.084c0.889-0.631 1.995-1.011 3.19-1.015l0.001-0c7.252 0 12.111-2.538 13.271-5.874s-1.523-8.34-7.252-12.764c-0.843-0.726-1.491-1.654-1.871-2.711l-0.014-0.045c-4.443-13.963-15.687-24.558-29.739-28.007l-0.285-0.059c-2.821-0.706-6.067-1.127-9.406-1.16l-0.021-0zM351.438 678.726c-0.053 0-0.116 0-0.18 0-7.811 0-15.229-1.682-21.912-4.705l0.335 0.136c-25.527-11.458-31.039-34.665-25.382-51.49s24.15-31.909 51.345-25.527c17.841 4.305 31.954 17.148 37.957 33.858l0.117 0.372c6.365 3.605 10.591 10.331 10.591 18.045 0 11.415-9.254 20.669-20.669 20.669-1.024 0-2.031-0.075-3.015-0.218l0.112 0.013c-8.317 5.525-18.529 8.824-29.51 8.848l-0.006 0z",
+            "M449.632 675.753c-0.010 0-0.023 0-0.035 0-2.35 0-4.377-1.38-5.317-3.373l-0.015-0.036-21.321-45.906c-0.348-0.734-0.551-1.594-0.551-2.502 0-3.288 2.666-5.954 5.954-5.954 2.38 0 4.435 1.397 5.387 3.416l0.015 0.036 20.959 45.761c0.349 0.735 0.554 1.596 0.554 2.506 0 2.38-1.398 4.434-3.418 5.384l-0.036 0.015c-0.718 0.321-1.555 0.508-2.437 0.508-0.036 0-0.071-0-0.107-0.001l0.005 0z",
+            "M409.89 573.861c-0.079-0.002-0.172-0.003-0.265-0.003-1.618 0-3.149 0.376-4.509 1.045l0.060-0.027c-8.122 3.771-11.386 18.275-1.886 38.799s22.699 27.341 30.894 23.569 11.458-18.348 1.886-38.799c-7.832-16.97-18.203-24.585-26.18-24.585zM429.616 650.080c-12.184 0-26.688-8.92-37.131-31.402-13.416-29.008-5.367-48.517 7.687-54.608s33.36 0.508 46.704 29.008 5.367 48.517-7.687 54.608c-2.785 1.44-6.068 2.315-9.548 2.393l-0.025 0z",
+            "M409.020 706.429c-0.005 0-0.012 0-0.018 0-1.945 0-3.672-0.934-4.757-2.378l-0.011-0.015c-0.749-0.976-1.201-2.215-1.201-3.559 0-1.92 0.921-3.625 2.346-4.697l0.015-0.011 40.322-30.676c0.994-0.765 2.256-1.226 3.626-1.226 3.3 0 5.976 2.676 5.976 5.976 0 1.931-0.915 3.647-2.336 4.74l-0.014 0.010-40.322 30.604c-0.994 0.765-2.256 1.227-3.625 1.233l-0.001 0z",
+            "M409.237 686.849h-1.523c-9.797 1.246-18.482 5.26-25.448 11.223l0.066-0.055c-17.985 13.634-21.756 28.066-16.39 35.173 2.669 2.99 6.533 4.863 10.836 4.863 0.731 0 1.45-0.054 2.152-0.159l-0.079 0.010c9.803-1.156 18.504-5.158 25.443-11.147l-0.061 0.051c17.985-13.634 21.756-28.066 16.462-35.245-2.553-2.918-6.284-4.751-10.443-4.751-0.357 0-0.712 0.014-1.062 0.040l0.047-0.003zM377.473 749.87c-0.308 0.013-0.669 0.021-1.032 0.021-8.035 0-15.215-3.66-19.964-9.405l-0.035-0.044c-2.959-4.183-4.729-9.389-4.729-15.009 0-3.529 0.698-6.895 1.964-9.968l-0.064 0.174c4.571-11.209 12.071-20.436 21.557-26.992l0.2-0.13c25.31-19.218 46.269-15.592 54.971-4.134 2.976 4.206 4.757 9.442 4.757 15.093 0 3.496-0.682 6.833-1.919 9.885l0.063-0.176c-9.827 21.416-29.493 36.834-53.049 40.56l-0.399 0.052z",
+            "M512 595.544c-1.802-0.002-3.413-0.816-4.489-2.094l-0.007-0.009-46.269-54.246c-0.891-1.036-1.434-2.395-1.434-3.88 0-3.295 2.671-5.966 5.966-5.966 1.81 0 3.432 0.806 4.526 2.079l0.007 0.008 46.196 54.318c0.896 1.035 1.442 2.395 1.442 3.882 0 1.811-0.809 3.433-2.086 4.524l-0.008 0.007c-1.005 0.857-2.319 1.379-3.754 1.379-0.031 0-0.063-0-0.094-0.001l0.005 0z",
+            "M421.929 451.227c-0.341-0.013-0.741-0.020-1.143-0.020-7.835 0-15.029 2.743-20.675 7.32l0.061-0.048c-14.504 12.619-18.203 40.829 9.283 73.101 10.075 12.994 23.973 22.591 39.996 27.136l0.543 0.132c2.571 0.692 5.524 1.090 8.569 1.090 8.186 0 15.7-2.873 21.59-7.666l-0.063 0.049c14.504-12.546 18.203-40.757-9.21-73.029-16.897-20.088-34.52-28.066-48.952-28.066zM459.35 571.903c-4.075-0.032-8.027-0.48-11.84-1.302l0.382 0.069c-19.244-5.205-35.422-16.208-46.993-30.99l-0.146-0.194c-32.707-38.436-27.050-73.537-7.905-89.781 7.836-6.504 17.998-10.451 29.082-10.451 3.967 0 7.815 0.505 11.485 1.456l-0.317-0.070c19.268 5.201 35.47 16.204 47.066 30.992l0.145 0.192c32.707 38.436 27.050 73.537 7.905 89.781-7.53 6.407-17.369 10.304-28.117 10.304-0.262 0-0.524-0.002-0.786-0.007l0.039 0.001z",
+            "M512 464.136c-0.027 0-0.058 0.001-0.089 0.001-1.436 0-2.75-0.521-3.763-1.385l0.008 0.007-54.754-46.486c-1.194-1.091-1.94-2.656-1.94-4.394 0-3.284 2.662-5.947 5.947-5.947 1.395 0 2.678 0.48 3.692 1.285l-0.012-0.009 54.754 46.704c1.298 1.072 2.12 2.682 2.12 4.484 0 1.483-0.557 2.836-1.472 3.862l0.005-0.006c-1.077 1.163-2.611 1.888-4.315 1.888-0.064 0-0.127-0.001-0.191-0.003l0.009 0z",
+            "M406.699 332.147c-0.234-0.006-0.509-0.010-0.785-0.010-8.951 0-17.032 3.728-22.774 9.717l-0.011 0.011c-12.039 13.054-12.546 38.799 15.084 64.326s53.231 22.989 65.269 9.935 12.619-39.016-15.012-64.399v0c-10.637-11.166-25.259-18.452-41.576-19.57l-0.196-0.011zM439.986 437.738c-14.867 0-32.199-6.527-49.822-22.844-33.65-31.039-31.692-63.819-15.737-81.151s48.517-21.901 82.457 9.283v0c33.65 31.039 31.764 63.819 15.737 81.151-7.946 8.368-19.153 13.574-31.576 13.574-0.372 0-0.743-0.005-1.113-0.014l0.055 0.001z"
+          ],
+          "attrs": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Moringa"
+          ]
+        },
+        {
+          "id": 253,
+          "paths": [
+            "M613.022 397.707c-3.102-2.561-6.823-4.493-10.899-5.541l-0.197-0.043c5.318-0.144 10.289-1.495 14.691-3.787l-0.187 0.089c-0.464 1.401-0.753 3.016-0.797 4.691l-0 0.022c-0.951 1.319-1.823 2.819-2.543 4.403l-0.067 0.166zM550.146 299.948c3.703 3.182 8.555 5.119 13.86 5.119 2.68 0 5.245-0.495 7.608-1.397l-0.146 0.049c-3.78 6.083-7.972 11.358-12.695 16.103l0.003-0.003c-6.297 6.41-14.353 11.072-23.386 13.206l-0.329 0.065c0-10.008 0-19.943 0-29.806 2.309-0.936 4.299-2.157 6.049-3.651l-0.030 0.025c1.706 2.042 3.72 3.756 5.985 5.091l0.107 0.058c1.339-1.381 2.457-2.986 3.29-4.752l0.046-0.107zM583.869 281.237h-0.145zM591.266 262.962l-0.87 0.87h0.58zM552.322 241.133c-1.684-3.541-4.329-6.395-7.597-8.292l-0.090-0.048c-2.209 2.301-3.849 5.164-4.684 8.352l-0.030 0.133c-2.49-2.803-6.065-4.595-10.060-4.713l-0.020-0c0.032 0.098 0.050 0.21 0.050 0.326s-0.018 0.229-0.052 0.334l0.002-0.008-0.435-3.118c0.32 0.020 0.694 0.031 1.070 0.031 3.105 0 6.033-0.762 8.605-2.11l-0.102 0.049c-1.161-3.199-3.2-5.846-5.826-7.727l-0.049-0.033c7.512-0.635 14.308-3.258 19.991-7.334l-0.12 0.082c0.487 0.218 1.052 0.372 1.644 0.433l0.024 0.002c-3.15 2.681-5.623 6.062-7.19 9.909l-0.062 0.172c2.449 1.356 5.29 2.412 8.295 3.014l0.19 0.032c-1.144 1.726-2.042 3.735-2.582 5.885l-0.028 0.134c0.585 0.346 1.263 0.62 1.982 0.788l0.049 0.010c-0.837 1.381-1.674 2.564-2.585 3.686l0.047-0.060zM508.809 241.133c-1.45 0.508-2.973 0.943-4.424 1.523 2.102 6.906 6.658 12.524 12.63 15.957l0.133 0.071h-2.248c-3.64-2.584-6.752-5.603-9.351-9.033l-0.076-0.105c-2.648-3.522-5.197-7.507-7.44-11.681l-0.247-0.503 4.859-1.813c1.817 2.146 3.894 3.992 6.201 5.517l0.108 0.067zM510.042 265.138c-2.446 0.602-4.596 1.473-6.579 2.604l0.125-0.066c1.47 3.187 3.612 5.84 6.26 7.868l0.049 0.036-1.741 0.435c-4.574-3.155-10.237-5.039-16.339-5.039-0.503 0-1.002 0.013-1.498 0.038l0.070-0.003c0.694-1.155 1.375-2.515 1.955-3.926l0.076-0.208c-1.899-1.057-4.098-1.928-6.414-2.5l-0.185-0.039c1.523-1.805 2.794-3.89 3.715-6.155l0.056-0.155c2.52-2.414 4.498-5.371 5.748-8.686l0.054-0.162c1.305 1.886 2.393 3.554 3.626 5.004 3.142 4.323 6.888 7.977 11.16 10.923l0.153 0.1zM504.095 283.703c1.462 0.584 3.157 0.923 4.931 0.923s3.469-0.339 5.024-0.955l-0.092 0.032c-0.499 0.805-0.962 1.737-1.338 2.712l-0.040 0.116c-2.92-0.847-6.275-1.333-9.743-1.333-0.501 0-1 0.010-1.497 0.030l0.071-0.002 2.683-1.813zM522.153 300.963c-0.037 0.542-0.058 1.175-0.058 1.813s0.021 1.271 0.063 1.898l-0.005-0.085c0.304-0.031 0.658-0.049 1.015-0.049s0.711 0.018 1.059 0.053l-0.044-0.004c0 9.138 0 18.275 0 27.413-8.318-3.451-15.494-7.763-21.921-12.965l0.165 0.129c0.829-0.257 1.55-0.603 2.208-1.035l-0.033 0.020c-1.178-2.982-3.129-5.447-5.608-7.219l-0.048-0.033c9.014-0.594 17.073-4.264 23.232-9.958l-0.025 0.023zM593.369 391.615c-4.654 0.168-8.977 1.438-12.761 3.554l0.143-0.073c1.112 2.778 2.553 5.175 4.314 7.296l-0.036-0.044c-2.45 0.638-4.597 1.532-6.581 2.678l0.126-0.067c0.53 1.631 1.218 3.048 2.072 4.346l-0.042-0.067c-0.286-0.010-0.621-0.016-0.959-0.016-7.309 0-13.974 2.758-19.011 7.291l0.026-0.023c2.26 3.299 5.206 5.966 8.645 7.84l0.13 0.065c-0.176-0.003-0.384-0.005-0.593-0.005-9.874 0-18.881 3.716-25.696 9.827l0.036-0.032c6.858 9.162 17.568 15.117 29.682 15.446l0.052 0.001c-2.608 1.807-4.647 4.265-5.905 7.144l-0.042 0.108c2.504 1.328 5.474 2.107 8.627 2.107 2.102 0 4.123-0.347 6.009-0.986l-0.132 0.039-0.435 1.305h-0.508c-13.037 7.966-28.561 13.188-45.188 14.482l-0.356 0.022v-62.441c13.504-1.815 25.438-7.465 34.959-15.803l-0.076 0.065c8.73-7.497 16.182-16.149 22.208-25.783l0.274-0.47c2.702 1.148 5.844 1.815 9.142 1.815 0.101 0 0.201-0.001 0.301-0.002l-0.015 0c-6.973 3.873-12.171 10.228-14.449 17.844l-0.055 0.214c1.6 0.729 3.508 1.399 5.482 1.904l0.247 0.054zM598.373 342.88v0c-1.541-0.548-3.318-0.865-5.169-0.865-3.765 0-7.224 1.31-9.946 3.499l0.031-0.024c2.21 3.646 5.773 6.284 9.976 7.232l0.105 0.020c-2.873 2.294-5.125 5.245-6.546 8.632l-0.053 0.143c0.435 0 0.725 0.508 1.233 0.653-6.494 10.879-14.272 20.18-23.294 28.098l-0.131 0.113c-7.922 6.848-17.786 11.659-28.658 13.512l-0.351 0.049c0-20.741 0-41.627 0-62.441 11.748-2.17 21.914-7.837 29.645-15.865l0.016-0.017c5.745-6.158 10.838-13.053 15.090-20.491l0.285-0.54c3.019 1.122 6.509 1.851 10.145 2.027l0.081 0.003c-2.556 1.942-4.512 4.552-5.62 7.571l-0.037 0.116c2.544 1.387 5.572 2.203 8.79 2.203 2.042 0 4.007-0.328 5.846-0.935l-0.132 0.038c-0.929 2.489-1.467 5.364-1.467 8.365 0 1.193 0.085 2.367 0.249 3.515l-0.015-0.131c-1.45 0-2.828 0-4.279 0.653 0.090 5.385 1.672 10.383 4.347 14.621l-0.069-0.116zM604.682 328.376l3.916-1.088 0.943 1.958c-1.359-0.36-3.010-0.666-4.696-0.855l-0.163-0.015zM619.186 321.124c0.591-0.563 1.097-1.207 1.501-1.917l0.022-0.041c1.444 0.653 3.319 1.366 5.235 1.985l0.421 0.118c-0.035 0.488-0.055 1.058-0.055 1.632s0.020 1.144 0.059 1.708l-0.004-0.076c-2.080-1.44-4.491-2.604-7.075-3.364l-0.177-0.045zM667.050 334.033h2.176l-2.031-0.435zM672.997 334.468c0.707 0.046 1.533 0.073 2.364 0.073 5.682 0 11.078-1.229 15.936-3.434l-0.242 0.098c-2.547-9.106-8.532-16.51-16.432-20.87l-0.176-0.089c0.091 0.001 0.198 0.002 0.305 0.002 4.105 0 7.991-0.937 11.456-2.609l-0.158 0.069c-0.708-2.295-1.62-4.29-2.75-6.136l0.066 0.117c3.258-0.708 6.142-1.834 8.78-3.342l-0.15 0.079c-1.669-4.113-4.303-7.54-7.632-10.112l-0.056-0.041c5.081-0.969 9.31-4.009 11.849-8.189l0.044-0.078c-3.159-2.409-7.162-3.86-11.504-3.86-2.136 0-4.19 0.351-6.108 0.999l0.134-0.039c2.982-4.795 4.819-10.577 5.003-16.775l0.001-0.050c-2.301-0.455-4.946-0.716-7.652-0.716-3.646 0-7.181 0.473-10.548 1.36l0.288-0.064c1.688-2.904 2.684-6.39 2.684-10.109 0-0.066-0-0.133-0.001-0.199l0 0.010c-1.618-0.329-3.478-0.517-5.382-0.517-7.249 0-13.862 2.727-18.867 7.212l0.027-0.024c-1.549-2.106-3.426-3.868-5.574-5.244l-0.083-0.050c-0.010-2.612-0.515-5.103-1.426-7.388l0.048 0.136c1.709 0.573 3.676 0.904 5.721 0.904 3.217 0 6.242-0.818 8.88-2.257l-0.097 0.049c-1.080-2.997-2.996-5.474-5.465-7.221l-0.047-0.031c11.497-0.698 21.472-6.654 27.625-15.474l0.078-0.118c-6.426-5.596-14.882-9.007-24.136-9.007-0.362 0-0.723 0.005-1.082 0.016l0.053-0.001c3.26-1.971 5.971-4.52 8.066-7.529l0.056-0.086c-4.757-4.078-10.986-6.56-17.794-6.56-0.475 0-0.948 0.012-1.417 0.036l0.066-0.003c0.698-1.139 1.334-2.454 1.836-3.834l0.049-0.154c-1.813-1.007-3.912-1.851-6.121-2.424l-0.188-0.041c1.646-2.073 2.997-4.475 3.933-7.076l0.055-0.176c-3.733-1.977-8.16-3.137-12.858-3.137-6.861 0-13.144 2.475-18.005 6.58l0.041-0.034c-1.087-2.374-2.473-4.41-4.143-6.175l0.010 0.010c-3.091 1.711-5.693 3.92-7.792 6.548l-0.040 0.052c-4.8-4.303-11.177-6.934-18.168-6.934-2.173 0-4.286 0.254-6.312 0.734l0.185-0.037c0.101 3.609 1.083 6.968 2.739 9.897l-0.055-0.106c-2.951-0.825-6.34-1.299-9.84-1.299-2.6 0-5.139 0.262-7.591 0.76l0.244-0.041c-0.258-0.653-0.501-1.179-0.77-1.689l0.045 0.093c0.375 0.024 0.813 0.038 1.254 0.038 5.319 0 10.171-1.995 13.851-5.277l-0.021 0.018c-1.74-2.421-3.888-4.43-6.36-5.965l-0.094-0.054c0.18 0.004 0.392 0.006 0.604 0.006 7.375 0 14.107-2.752 19.225-7.285l-0.030 0.027c-4.894-7.021-12.726-11.701-21.676-12.252l-0.081-0.004c1.841-1.504 3.228-3.5 3.964-5.787l0.024-0.087c-1.968-1.065-4.309-1.69-6.795-1.69-1.562 0-3.066 0.247-4.476 0.704l0.103-0.029c0.756-1.941 1.194-4.188 1.194-6.537 0-1.072-0.091-2.123-0.266-3.146l0.016 0.11c-0.185-0.006-0.403-0.009-0.621-0.009-6.504 0-12.318 2.952-16.176 7.59l-0.028 0.034c-1.177-0.503-2.625-0.999-4.114-1.396l-0.238-0.054c0.062-0.573 0.097-1.238 0.097-1.911 0-7.052-3.857-13.204-9.576-16.46l-0.093-0.049c-2.258 2.231-3.928 5.053-4.758 8.215l-0.028 0.125c-2.417-2.787-5.918-4.578-9.84-4.713l-0.023-0.001c-0.368 1.082-0.581 2.329-0.581 3.626s0.213 2.544 0.605 3.708l-0.024-0.082c-3.89-1.978-8.482-3.137-13.345-3.137-4.383 0-8.546 0.942-12.299 2.633l0.189-0.076c1.974 6.909 6.508 12.531 12.486 15.886l0.133 0.068c-0.009-0-0.019-0-0.030-0-3.18 0-6.211 0.64-8.971 1.797l0.153-0.057c0.445 1.788 1.144 3.361 2.067 4.773l-0.036-0.059c-2.487 0.501-4.697 1.355-6.703 2.521l0.104-0.056c0.313 0.969 0.707 1.809 1.189 2.588l-0.029-0.050c-2.542 1.652-4.717 3.597-6.561 5.826l-0.039 0.048c-5.014-4.253-11.559-6.838-18.708-6.838-2.081 0-4.11 0.219-6.067 0.635l0.19-0.034c0.145 3.882 1.12 7.503 2.751 10.737l-0.068-0.149c-3.097-0.891-6.655-1.404-10.332-1.404-2.813 0-5.556 0.3-8.198 0.869l0.255-0.046c0.24 6.344 2.152 12.196 5.305 17.185l-0.084-0.142c-1.802-0.615-3.879-0.969-6.038-0.969-4.497 0-8.635 1.539-11.916 4.119l0.041-0.031c2.644 4.264 6.873 7.33 11.845 8.391l0.121 0.022c-3.494 2.675-6.207 6.204-7.847 10.28l-0.058 0.163c2.551 1.477 5.516 2.61 8.663 3.233l0.184 0.030c-1.156 1.814-2.078 3.917-2.651 6.159l-0.033 0.151c3.444 1.604 7.477 2.539 11.728 2.539 0.084 0 0.167-0 0.25-0.001l-0.013 0c-8.27 4.504-14.41 12.039-16.983 21.076l-0.060 0.245c4.713 2.105 10.214 3.33 16.001 3.33 6.625 0 12.875-1.606 18.381-4.451l-0.224 0.105c-0.623 1.659-0.983 3.577-0.983 5.579 0 1.157 0.12 2.286 0.349 3.375l-0.019-0.106c-2.208 1.114-4.112 2.368-5.852 3.812l0.051-0.041c-1.102-2.387-2.539-4.427-4.278-6.164l-0-0c-3.165 1.696-5.821 3.935-7.937 6.619l-0.040 0.053c-4.977-4.383-11.55-7.059-18.749-7.059-1.937 0-3.828 0.194-5.656 0.563l0.182-0.031c0.008 3.766 0.946 7.31 2.597 10.419l-0.059-0.121c-3.053-0.824-6.559-1.298-10.175-1.298-2.686 0-5.31 0.261-7.85 0.759l0.257-0.042c0.164 6.2 2.005 11.938 5.085 16.817l-0.081-0.137c-1.738-0.581-3.738-0.916-5.817-0.916-4.385 0-8.421 1.491-11.63 3.994l0.042-0.032c2.61 4.2 6.834 7.188 11.785 8.106l0.109 0.017c-3.31 2.679-5.925 6.085-7.622 9.984l-0.066 0.169c2.484 1.497 5.378 2.631 8.461 3.236l0.169 0.028c-1.049 1.767-1.96 3.81-2.628 5.959l-0.055 0.206c3.224 1.517 7.002 2.402 10.987 2.402 0.242 0 0.484-0.003 0.725-0.010l-0.035 0.001c-7.975 4.515-13.904 11.86-16.473 20.64l-0.062 0.247c3.784 1.652 8.171 2.766 12.774 3.11l0.135 0.008c1.095 2.409 2.405 4.485 3.954 6.356l-0.037-0.047c-2.965 0.716-5.577 1.788-7.969 3.192l0.136-0.074c0.681 1.927 1.464 3.578 2.392 5.133l-0.072-0.129c-0.563-0.033-1.221-0.052-1.884-0.052-8.479 0-16.242 3.063-22.243 8.143l0.050-0.042c2.765 3.91 6.251 7.118 10.289 9.489l0.154 0.084c-0.438-0.015-0.953-0.024-1.471-0.024-11.561 0-22.125 4.267-30.204 11.311l0.055-0.047c2.337 3.349 4.966 6.255 7.917 8.796l0.061 0.051c-0.154-0.002-0.336-0.004-0.519-0.004-2.588 0-5.115 0.265-7.554 0.77l0.24-0.042c0.099 4.582 1.296 8.863 3.336 12.62l-0.072-0.146c-3.744-1.021-8.043-1.607-12.478-1.607-3.282 0-6.489 0.321-9.591 0.933l0.313-0.051c0.106 7.553 2.363 14.559 6.183 20.457l-0.092-0.151c-2.209-0.758-4.754-1.196-7.401-1.196-5.43 0-10.429 1.842-14.408 4.934l0.053-0.040c3.214 5.083 8.353 8.7 14.369 9.841l0.136 0.021c-4.119 3.328-7.323 7.627-9.283 12.557l-0.073 0.207c3.031 1.75 6.546 3.128 10.271 3.944l0.245 0.045c-0.879 1.274-1.638 2.735-2.205 4.288l-0.043 0.136c-4.639 3.364-8.249 7.883-10.44 13.141l-0.075 0.203c-3.71-1.798-8.047-2.928-12.626-3.116l-0.065-0.002c-0.63 2.198-0.993 4.722-0.993 7.331 0 0.585 0.018 1.165 0.054 1.741l-0.004-0.079c-2.661-0.746-5.717-1.175-8.873-1.175-11.183 0-21.108 5.386-27.323 13.704l-0.064 0.090c2.453 2.288 5.306 4.188 8.435 5.579l0.195 0.077c-2.158 1.743-4.024 3.724-5.595 5.929l-0.061 0.091c1.361 1.192 2.85 2.359 4.401 3.443l0.168 0.111c-7.897 3.254-14.038 9.419-17.185 17.124l-0.075 0.208c3.914 2.332 8.557 3.87 13.521 4.271l0.113 0.007c-10.275 4.588-18.238 12.81-22.379 22.994l-0.103 0.285c6.586 3.743 14.469 5.949 22.867 5.949 6.261 0 12.235-1.226 17.696-3.452l-0.314 0.113c-1.192 2.507-1.888 5.447-1.888 8.55 0 1.052 0.080 2.085 0.234 3.093l-0.014-0.113c0.424 0.028 0.919 0.044 1.418 0.044 5.864 0 11.217-2.189 15.286-5.794l-0.024 0.021c0.262 1.794 0.642 3.385 1.146 4.919l-0.058-0.205c-10.061 2.651-18.029 9.856-21.682 19.219l-0.074 0.216c-3.715-1.739-8.042-2.862-12.6-3.114l-0.091-0.004c-0.621 2.268-0.977 4.873-0.977 7.561 0 0.504 0.013 1.005 0.037 1.502l-0.003-0.070c-2.656-0.745-5.707-1.174-8.858-1.174-11.203 0-21.141 5.416-27.338 13.773l-0.065 0.092c2.436 2.203 5.233 4.071 8.279 5.497l0.206 0.087c-2.082 1.805-3.899 3.829-5.442 6.057l-0.070 0.107c1.45 1.16 3.046 2.393 4.569 3.408-7.941 3.245-14.129 9.408-17.329 17.124l-0.076 0.208c3.988 2.312 8.701 3.847 13.729 4.27l0.123 0.008c-10.235 4.57-18.212 12.664-22.519 22.706l-0.108 0.283c6.645 3.749 14.59 5.957 23.051 5.957 6.242 0 12.203-1.202 17.664-3.387l-0.321 0.113c-1.088 2.265-1.724 4.925-1.724 7.733 0 1.111 0.1 2.2 0.29 3.256l-0.017-0.111c0.376 0.023 0.815 0.036 1.257 0.036 5.894 0 11.25-2.306 15.215-6.064l-0.010 0.009c0.903 5.385 3.137 10.134 6.351 14.049l-0.041-0.052c8.968-4.036 15.571-11.952 17.729-21.549l0.039-0.207c2.761-0.105 5.361-0.365 7.911-0.774l-0.369 0.049c4.856 11.009 15.372 18.707 27.761 19.432l0.088 0.004c0.472-1.124 0.806-2.426 0.938-3.788l0.004-0.056c5.598 2.508 12.132 3.969 19.008 3.969 6.208 0 12.138-1.191 17.573-3.357l-0.321 0.113c-1.254 2.361-1.991 5.163-1.991 8.136 0 1.045 0.091 2.070 0.266 3.065l-0.015-0.106c0.316 0.016 0.686 0.025 1.058 0.025 5.981 0 11.412-2.359 15.412-6.197l-0.008 0.007c0.874 5.38 3.085 10.132 6.279 14.050l-0.042-0.054c8.947-4.065 15.538-11.967 17.727-21.546l0.040-0.21c2.67-0.152 5.156-0.488 7.577-1l-0.325 0.058c4.905 11.029 15.471 18.728 27.908 19.432l0.086 0.004c0.683-2.272 1.076-4.883 1.076-7.586 0-1.832-0.181-3.621-0.525-5.352l0.029 0.174c16.966 5.324 37.566 10.006 58.672 13.134l2.318 0.282c-1.595 56.276-4.424 112.625-9.428 169.337 0 0.032 0 0.069 0 0.106 0 13.529-6.848 25.459-17.267 32.513l-0.138 0.088h68.823c-10.864-8.506-17.78-21.621-17.78-36.352 0-0.376 0.005-0.751 0.013-1.125l-0.001 0.055c-3.916-54.463-6.164-109.29-7.252-164.188 28.845-0.821 56.149-6.362 81.512-15.874l-1.738 0.572c13.426-5.17 24.866-10.874 35.677-17.506l-0.939 0.536c0.793 0.069 1.715 0.109 2.647 0.109s1.854-0.040 2.766-0.117l-0.119 0.008c-2.76 2.63-4.754 6.040-5.631 9.875l-0.025 0.132c2.48 1.005 5.356 1.588 8.369 1.588 3.406 0 6.638-0.745 9.541-2.082l-0.142 0.059c-0.44 1.854-0.692 3.983-0.692 6.17 0 3.217 0.546 6.307 1.549 9.182l-0.059-0.195c12.235-1.307 22.343-9.236 26.755-20.088l0.078-0.217c2.077 0.37 4.469 0.582 6.91 0.582 0.12 0 0.241-0.001 0.361-0.002l-0.018 0c2.415 9.905 9.271 17.835 18.287 21.678l0.206 0.078c3.118-4.002 5.17-8.975 5.649-14.399l0.007-0.105c4.079 3.503 9.424 5.636 15.267 5.636 0.548 0 1.092-0.019 1.631-0.056l-0.073 0.004c0.092-0.708 0.145-1.527 0.145-2.358 0-3.246-0.805-6.305-2.226-8.987l0.050 0.104c4.805 1.812 10.36 2.861 16.16 2.861 8.892 0 17.207-2.466 24.301-6.75l-0.211 0.118c-4.593-10.337-12.877-18.338-23.138-22.453l-0.286-0.101c5.063-0.578 9.64-2.257 13.618-4.791l-0.129 0.077c-3.453-7.815-9.825-13.809-17.699-16.684l-0.214-0.068c1.595-1.233 2.973-2.393 4.424-3.699-1.631-2.242-3.496-4.176-5.594-5.827l-0.062-0.047c3.206-1.614 5.956-3.599 8.344-5.951l-0.004 0.004c-2.195-2.865-4.812-5.275-7.784-7.18l-0.121-0.073c4.905 2.371 10.667 3.756 16.752 3.756s11.847-1.386 16.988-3.858l-0.235 0.102c-2.844-9.052-8.96-16.371-16.929-20.721l-0.186-0.093c4.266-0.016 8.304-0.977 11.92-2.684l-0.172 0.073c-0.742-2.378-1.702-4.444-2.894-6.35l0.066 0.113c3.29-0.71 6.202-1.915 8.818-3.548l-0.115 0.067c-1.797-4.129-4.547-7.554-7.984-10.106l-0.066-0.047c5.067-1.129 9.253-4.247 11.775-8.474l0.046-0.083c-3.182-2.366-7.189-3.788-11.527-3.788-2.315 0-4.535 0.405-6.593 1.147l0.135-0.043c2.986-4.86 4.764-10.741 4.786-17.036l0-0.006c-2.165-0.416-4.654-0.654-7.199-0.654-3.893 0-7.656 0.557-11.213 1.595l0.282-0.071c1.571-3.039 2.505-6.628 2.538-10.432l0-0.011c-1.554-0.305-3.34-0.48-5.167-0.48-7.504 0-14.321 2.945-19.356 7.743l0.011-0.011c-0.973-1.092-1.992-2.088-3.075-3.010l-0.044-0.036c4.265-2.826 7.886-6.217 10.873-10.119l0.078-0.106c-7.958-7.668-18.679-12.515-30.529-12.907l-0.075-0.002c4.3-2.257 7.902-5.28 10.751-8.921l0.054-0.072c-6-5.832-14.201-9.428-23.241-9.428-0.064 0-0.129 0-0.193 0.001l0.010-0c0.993-1.434 1.937-3.075 2.74-4.795l0.088-0.209c-2.208-1.351-4.756-2.509-7.445-3.344l-0.242-0.065c2.089-2.453 3.844-5.278 5.141-8.344l0.080-0.213c-4.893-2.974-10.77-4.809-17.061-5.003l-0.054-0.001c2.825-3.856 4.52-8.693 4.52-13.927 0-0.996-0.061-1.977-0.181-2.941l0.012 0.115c2.43-0.734 4.379-1.449 6.279-2.256l-0.405 0.153c5.119 6.262 12.844 10.227 21.495 10.227 0.092 0 0.184-0 0.275-0.001l-0.014 0c0.404-1.676 0.636-3.601 0.636-5.58 0-2.483-0.365-4.88-1.044-7.142l0.045 0.176c1.628 0.487 3.499 0.767 5.436 0.767 3.314 0 6.436-0.82 9.175-2.269l-0.107 0.052c-1.207-3.154-3.236-5.766-5.826-7.654l-0.048-0.033c12.030-0.756 22.464-6.981 28.927-16.195l0.081-0.122c-6.744-5.779-15.574-9.296-25.225-9.296-0.361 0-0.722 0.005-1.081 0.015l0.053-0.001c3.46-1.991 6.308-4.676 8.428-7.885l0.057-0.092c-4.773-4.31-11.128-6.948-18.1-6.948-0.623 0-1.241 0.021-1.854 0.063l0.083-0.004c0.69-1.189 1.372-2.597 1.953-4.057l0.078-0.222c-1.944-1.092-4.196-1.966-6.575-2.506l-0.169-0.032c1.688-2.088 3.126-4.48 4.207-7.058l0.072-0.194c-3.902-2.137-8.549-3.395-13.49-3.395-7.109 0-13.609 2.603-18.602 6.907l0.037-0.031c-1.182-2.43-2.662-4.512-4.428-6.313l0.004 0.004c-1.452 0.669-2.697 1.52-3.777 2.544l0.006-0.006c-0.834-1.156-1.817-2.14-2.936-2.947l-0.038-0.026c10.261-0.615 19.155-5.971 24.587-13.888l0.071-0.109c-5.727-4.881-13.212-7.85-21.391-7.85-0.383 0-0.765 0.007-1.146 0.019l0.055-0.001c2.935-1.892 5.36-4.317 7.196-7.159l0.057-0.093c-3.057-2.638-6.848-4.509-11.025-5.272l-0.143-0.022zM649.573 379.359l-0.006-0.004c-0.246-0.203-0.462-0.442-0.647-0.721l-0.943 0.435-0.030-0.004c0.27 0.043 0.546 0.065 0.827 0.065s0.558-0.022 0.798-0.061zM628.977 395.096l0.086 0.237c-0.481-1.174-0.901-2.379-1.319-3.863l-0.002 0.002c-1.394 1.41-2.994 2.617-4.857 3.624 0.435 0.508 1.088 0.943 1.523 1.523l-0.119 0.052c1.432-0.693 2.96-1.218 4.687-1.575zM716.002 585.537v0zM681.917 578.284c-4.414-3.014-9.582-5.321-15.139-6.612l-0.308-0.060c-2.432 4.901-3.854 10.672-3.854 16.776 0 1.473 0.083 2.928 0.244 4.358l-0.016-0.175c-4.067-3.708-9.5-5.978-15.464-5.978-1.977 0-3.896 0.25-5.727 0.719l0.159-0.035c0.62 5.986 3.74 11.14 8.282 14.464l0.058 0.040c-5.421 1.351-10.13 3.87-14.036 7.285l0.039-0.033c1.975 3.069 4.385 5.663 7.177 7.778l0.075 0.054c-1.417 1.004-2.646 1.98-3.82 3.016l0.049-0.042c-2.124-4.263-5.061-7.826-8.634-10.61l-0.068-0.051c6.216-1.267 11.369-5.042 14.449-10.199l0.055-0.099c-3.874-2.812-8.723-4.498-13.967-4.498-1.316 0-2.608 0.106-3.866 0.311l0.138-0.018c13.424-8.751 25.105-18.312 35.661-28.989l0.020-0.020c5.967 4.695 13.475 7.682 21.66 8.118l0.096 0.004c-1.422 1.172-2.663 2.482-3.729 3.929l-0.042 0.060zM682.497 548.841l0.039 0.027c-0.54-0.398-1.109-0.759-1.779-1.115l-0.943 1.088zM674.448 539.993c-0.37 0.183-0.684 0.427-0.94 0.722l-0.003 0.004c0.393 0.429 0.752 0.904 1.065 1.41l0.023 0.041c-2.828 3.408-5.802 6.672-8.63 9.863-0.508 0-0.943 0.508-1.45 0.653 1.337-3.316 2.113-7.162 2.113-11.188 0-0.274-0.004-0.546-0.011-0.818l0.001 0.040c2.922-0.591 5.355-1.242 7.73-2.021l-0.478 0.136c0.199 0.451 0.468 0.836 0.797 1.16l0 0zM637.679 623.030c2.998 3.319 6.645 5.99 10.747 7.824l0.203 0.081c-8.977 0.798-17.054 4.109-23.675 9.216l0.105-0.078c-1.693-1.346-3.59-2.618-5.587-3.734l-0.214-0.11c0.086 0.001 0.188 0.001 0.291 0.001 5.156 0 10.044-1.15 14.421-3.207l-0.207 0.088c-0.943-2.773-2.096-5.17-3.493-7.397l0.085 0.145c2.886-0.519 5.464-1.401 7.847-2.612l-0.16 0.074zM625.423 665.165c-4.279 1.886-8.485 3.699-12.619 5.294-22.523 8.482-48.553 13.846-75.698 14.854l-0.449 0.013c0-8.848 0-17.623-0.508-26.615 7.421-1.813 13.7-5.9 18.227-11.469l0.049-0.062c1.858 0.779 4.153 1.548 6.51 2.164l0.38 0.084c-0.048 0.642-0.076 1.39-0.076 2.145 0 11.566 6.447 21.626 15.943 26.784l0.16 0.080c3.46-3.677 5.995-8.263 7.212-13.36l0.041-0.201c4.064 4.262 9.704 6.991 15.981 7.251l0.047 0.002c0.349-1.333 0.55-2.863 0.55-4.44 0-2.478-0.495-4.84-1.392-6.994l0.044 0.12c6.021 2.983 13.112 4.728 20.609 4.728 1.886 0 3.747-0.11 5.575-0.325l-0.222 0.021zM566.173 572.048c-5.929-4.757-13.543-7.634-21.83-7.634-3.303 0-6.499 0.457-9.529 1.312l0.247-0.059v-13.344c20.919-1.219 40.265-6.873 57.463-16.030l-0.752 0.365c1.595-0.87 3.118-1.741 4.714-2.756-3.992 4.254-7.096 9.392-8.982 15.086l-0.083 0.289c6.279 3.265 13.71 5.18 21.588 5.18 6.798 0 13.262-1.426 19.111-3.994l-0.305 0.12c-1.082 2.345-1.714 5.089-1.714 7.98 0 1.126 0.096 2.23 0.28 3.304l-0.016-0.115c0.167 0.005 0.364 0.007 0.562 0.007 6.19 0 11.791-2.526 15.826-6.605l0.002-0.002c0.989 5.243 3.265 9.839 6.487 13.601l-0.033-0.039c-6.313 5.703-13.198 11.114-20.441 16.038l-0.662 0.425c0.811-2.91 1.286-6.254 1.305-9.707l0-0.011c-2.627-0.519-5.647-0.815-8.737-0.815-4.638 0-9.119 0.669-13.354 1.915l0.334-0.084c1.863-3.633 2.96-7.923 2.973-12.469l0-0.004c-1.884-0.379-4.049-0.596-6.265-0.596-8.808 0-16.816 3.429-22.761 9.024l0.017-0.016c-2.77-3.309-6.117-6.031-9.902-8.036l-0.179-0.086c-1.928 2.245-3.599 4.797-4.915 7.552l-0.089 0.208zM521.355 585.682c-6.885 0.919-12.967 3.811-17.804 8.081l0.036-0.031c2.77 3.883 6.285 7.050 10.357 9.345l0.159 0.082c-0.029-0-0.063-0-0.097-0-7.671 0-14.924 1.794-21.361 4.985l0.281-0.126c-5.076-1.305-10.080-2.828-15.084-4.424 2.311-3.040 3.758-6.848 3.915-10.987l0.001-0.036c-1.499-0.347-3.22-0.546-4.987-0.546-5.823 0-11.141 2.158-15.2 5.717l0.026-0.023h-0.58c0.058-0.749 0.090-1.621 0.090-2.502 0-2.765-0.324-5.454-0.935-8.032l0.047 0.235 2.538 1.741c5.986-5.447 9.729-13.269 9.729-21.965 0-1.487-0.109-2.948-0.321-4.376l0.020 0.162c2.176-0.943 4.496-1.813 6.599-2.973 6.213 6.901 15.177 11.222 25.15 11.222 2.784 0 5.49-0.337 8.078-0.972l-0.232 0.048c-0.316-5.442-2.087-10.415-4.924-14.606l0.065 0.102c0.599 0.056 1.295 0.087 1.998 0.087 4.651 0 8.979-1.386 12.592-3.767l-0.086 0.053c0 11.023 0 21.756 0 33.142zM485.095 618.316c8.023 9.005 19.448 14.829 32.239 15.443l0.105 0.004c-2.977 2.421-5.289 5.549-6.693 9.132l-0.052 0.15c2.916 1.486 6.356 2.368 10 2.393l0.008 0c0 12.836-0.435 25.745-0.943 38.726-17.596-2.643-32.532-5.78-47.162-9.67l2.996 0.678c-1.015-3.557-2.993-6.568-5.632-8.827l-0.025-0.020c0.274 0.006 0.596 0.009 0.92 0.009 14.124 0 26.775-6.309 35.288-16.263l0.053-0.064c-7.677-8.020-18.261-13.201-30.054-13.847l-0.115-0.005c4.398-2.193 8.111-5.118 11.128-8.654l0.040-0.048c-1.885-2.004-4.003-3.754-6.321-5.216l-0.133-0.078c1.658-1.234 3.108-2.593 4.393-4.097l0.030-0.037zM465.876 458.769v0c7.474 4.812 16.105 9.356 25.131 13.144l1.122 0.418c-3.878 1.998-6.951 5.095-8.867 8.878l-0.053 0.115c-2.122-7.266-5.943-13.478-11.014-18.411l-0.010-0.009c-2.502 1.473-4.666 3.129-6.608 5.012l0.009-0.009c-1.449-3.347-3.651-6.132-6.405-8.231l-0.050-0.036c2.453-0.161 4.714-0.47 6.921-0.926l-0.322 0.056zM463.411 470.083c-2.212 2.289-4.158 4.858-5.773 7.643l-0.101 0.189c-0.866-2.435-1.968-4.544-3.32-6.466l0.056 0.084c0.369 0.022 0.801 0.035 1.236 0.035 2.843 0 5.559-0.545 8.048-1.537l-0.147 0.052zM436.941 483.499c-0.705 2.553-1.197 5.527-1.373 8.586l-0.005 0.116c-1.679-0.31-3.611-0.488-5.584-0.488s-3.905 0.178-5.781 0.517l0.196-0.030c-2.828-2.828-5.512-5.729-8.122-8.848 0.139-1.154 0.218-2.489 0.218-3.844s-0.079-2.69-0.233-4.003l0.015 0.159c2.74-0.729 5.032-1.521 7.251-2.456l-0.361 0.135c3.556 4.361 8.151 7.743 13.413 9.788l0.22 0.075zM481.686 432.299c-0.29-0.87-0.798-1.886-0.798-2.756l-0.267-0.124c6.462 3.306 13.784 5.171 21.541 5.171 6.92 0 13.494-1.484 19.121-4.032l-0.076-0.298c-3.145-10.596-10.344-19.448-20.012-24.867l-0.021-0c0.135 0.002 0.27 0.003 0.406 0.003 2.147 0 4.244-0.212 6.069-0.582l-0.59-0.287c4.346 2.314 8.868 4.343 14.297 6.306 0 5.149 0 10.298 0 15.592v47.139l-1.145-0.232c-16.091-3.869-31.28-10.054-44.398-17.753l0.273-0.114c7.132-3.329 13.232-8.499 17.785-15.043l0.034 0.031c-3.509-3.186-7.567-5.778-12.29-7.718zM413.299 492.274c3.046 3.408 6.164 6.454 9.138 9.428l-0.14 0.012c-5.48 0.559-10.564 2.456-14.799 5.282l0.012-0.010c0.77-0.679 1.443-1.466 2.019-2.383l-0.018-0.019c-1.042-1.111-2.154-2.154-3.391-3.172l0.042-0.035c2.918-2.479 5.349-5.513 7.21-9.103zM402.42 511.275l0.14-0.084c-1.253 0.803-2.56 1.528-4.129 2.26l-0.039 0.004c0.322-0.039 0.649-0.060 0.981-0.060s0.66 0.020 0.943 0.056l0.030-0.042c0.614-0.82 1.304-1.579 2.073-2.279zM401.115 542.894c-1.622 2.238-2.912 4.845-3.727 7.654l-0.044 0.178c-1.17-2.879-2.923-5.307-5.127-7.233l-0.022-0.019c0.185 0.002 0.403 0.004 0.621 0.004 2.93 0 5.804-0.239 8.604-0.698l-0.305 0.041zM396.546 553.99c-0.037 0.499-0.059 1.081-0.059 1.668s0.021 1.169 0.063 1.745l-0.004-0.077-2.828-2.611c1.217-0.201 2.268-0.453 3.29-0.771l-0.172 0.046zM380.737 553.555c6.131 6.33 12.64 12.195 19.527 17.598l0.416 0.315c-2.167 4.453-3.49 9.671-3.625 15.183l-0.001 0.046c2.911 0.622 6.254 0.979 9.682 0.979s6.771-0.356 9.997-1.034l-0.315 0.055c-1.853 2.254-3.315 4.911-4.233 7.81l-0.046 0.167c-3.739-1.751-8.1-2.853-12.696-3.044l-0.068-0.002c-0.624 2.245-0.982 4.823-0.982 7.484 0 0.531 0.014 1.058 0.042 1.582l-0.003-0.073c-2.602-0.709-5.59-1.117-8.673-1.117-4.555 0-8.902 0.89-12.877 2.505l0.229-0.082c-4.030-3.289-8.925-5.677-14.288-6.78l-0.216-0.037c4.555-3.497 7.542-8.842 7.831-14.894l0.002-0.045c-1.427-0.311-3.067-0.489-4.748-0.489-6.199 0-11.832 2.423-16.004 6.374l0.011-0.010c0.056-0.781 0.088-1.692 0.088-2.61 0-6.578-1.643-12.771-4.541-18.194l0.101 0.208c-7.379 1.674-13.796 5.072-19.042 9.754l0.042-0.037c0-1.741-0.363-3.554-0.653-5.294 0.491 0.822 1.018 1.533 1.607 2.188l-0.011-0.013c8.996-3.976 15.605-11.923 17.66-21.557l0.036-0.2c2.698-0.161 5.187-0.471 7.624-0.928l-0.372 0.058c4.932 11.008 15.482 18.693 27.904 19.431l0.090 0.004c0.655-2.272 1.031-4.881 1.031-7.578s-0.377-5.307-1.080-7.778l0.049 0.2zM347.377 666.18l0.027-0.052c0.311-0.553 0.671-1.075 1.061-1.543l-0.033-0.005c-0.568-0.11-1.102-0.311-1.563-0.575l0.508 2.176zM358.835 654.287v0 0zM452.678 578.865l-0.014-0.033c-0.142-0.301-0.312-0.586-0.494-0.837l-0.042 0.077c-0.287 0.49-0.598 0.963-0.901 1.373l1.45-0.58zM436.36 578.865l0.005 0.030c-0.055-0.292-0.085-0.592-0.085-0.9s0.029-0.609 0.080-0.87l-0.653 0.435 0.435 1.305zM502.21 475.304c6.382 2.248 12.836 3.989 19.436 5.657v30.169c-0.067-0-0.146-0.001-0.225-0.001-3.758 0-7.404 0.476-10.882 1.372l0.302-0.066c3.297-3.137 5.909-6.961 7.612-11.245l0.075-0.214c-2.32-1.36-5.008-2.435-7.859-3.082l-0.19-0.036c1.968-2.727 3.491-5.924 4.381-9.376l0.043-0.197c-3.901-1.587-8.427-2.508-13.167-2.508-1.007 0-2.003 0.042-2.989 0.123l0.129-0.009c2.011-2.907 3.245-6.486 3.336-10.348l0-0.023zM521.645 540.573v2.973c-1.378 0-2.973-0.798-4.569-1.088 1.595-0.58 3.191-1.16 4.714-1.886zM404.741 564.578c-2.538-2.103-5.004-4.134-7.252-6.454 2.028 0.416 4.358 0.654 6.744 0.654s4.717-0.238 6.969-0.692l-0.225 0.038c-2.22 2.001-4.218 4.16-6.008 6.486l-0.084 0.113zM535.279 531.291c3.883-4.030 6.965-8.861 8.971-14.218l0.094-0.286c-2.593-1.487-5.596-2.793-8.748-3.76l-0.317-0.084c0-10.443 0-20.886 0-31.329 16.582-1.161 31.867-5.695 45.51-12.918l-0.62 0.299c0 0.725 0 1.305 0 1.886 0.078 0.001 0.17 0.001 0.262 0.001 8.696 0 16.443-4.060 21.451-10.387l0.044-0.057c1.958 0.725 3.989 1.305 5.874 1.958v1.16c-2.1 0.035-4.127 0.244-6.097 0.615l0.223-0.035c-0.023 0.496-0.036 1.077-0.036 1.662 0 6.901 1.815 13.378 4.994 18.98l-0.1-0.191c-2.523-1.028-5.45-1.625-8.517-1.625-4.956 0-9.548 1.558-13.313 4.212l0.073-0.049c2.839 5.229 7.612 9.104 13.336 10.697l0.153 0.036c-4.319 3.039-7.781 7.012-10.142 11.641l-0.083 0.18c2.94 1.806 6.331 3.337 9.917 4.417l0.308 0.080c-1.48 2.089-2.752 4.484-3.701 7.036l-0.070 0.216c1.165 0.635 2.533 1.225 3.956 1.69l0.177 0.050c-3.771 2.538-7.252 4.859-11.386 7.252-15.262 8.063-33.183 13.288-52.198 14.485l-0.38 0.019zM514.466 398.867c-0.798-1.664-1.547-3.018-2.36-4.328l0.112 0.194c3.727-0.643 7.062-1.727 10.165-3.218l-0.23 0.099c0 3.626 0 7.252 0 10.878-2.893-1.033-5.286-2.085-7.594-3.279l0.342 0.161zM522.153 389.729c-2.17-4.469-5.209-8.204-8.925-11.117l-0.068-0.051c3.604-0.769 6.774-2.26 9.486-4.321l-0.058 0.043-0.435 15.447zM522.951 365.87c-2.822-1.256-6.114-1.987-9.578-1.987-2.588 0-5.081 0.408-7.418 1.164l0.17-0.048c3.729-5.747 5.985-12.753 6.091-20.278l0-0.028c-2.786-0.555-5.989-0.873-9.266-0.873-4.439 0-8.743 0.583-12.837 1.677l0.347-0.079c2.012-3.601 3.237-7.884 3.335-12.444l0.001-0.030c-0.991-0.276-2.129-0.435-3.304-0.435-0.011 0-0.022 0-0.033 0l0.002-0h0.798c0.251-1.279 0.394-2.749 0.394-4.254 0-2.927-0.544-5.728-1.536-8.306l0.054 0.158h1.088c8.969 8.884 19.772 15.934 31.788 20.53l0.629 0.211c0 8.412-0.435 16.97-0.58 25.31zM487.705 332.147c-0.177-0.003-0.385-0.005-0.594-0.005-8.831 0-16.89 3.302-23.011 8.739l0.036-0.031c-0.875-1.183-1.803-2.226-2.816-3.18l-0.012-0.011c1.806-3.457 2.865-7.55 2.865-11.89 0-0.486-0.013-0.968-0.039-1.448l0.003 0.067c2.191-0.559 4.074-1.229 5.875-2.047l-0.219 0.089c4.369 5.38 10.733 8.993 17.948 9.709l0.11 0.009zM474.216 254.259c1.282-0.926 2.4-1.952 3.388-3.094l0.021-0.025c0 1.088 0.653 2.103 1.015 3.118-0.663-0.069-1.433-0.109-2.212-0.109s-1.549 0.039-2.307 0.117l0.095-0.008zM668.791 460.727c-1.016-1.237-2.060-2.35-3.171-3.39l-0.020-0.018c2.455-1.198 4.544-2.755 6.298-4.629l0.011-0.012c0.666 2.247 1.406 4.147 2.28 5.97l-0.104-0.241c-2.059 0.709-3.808 1.493-5.472 2.411l0.178-0.090zM658.565 451.3h-1.088l0.022 0.008c0.34 0.141 0.652 0.336 0.921 0.572zM611.282 249.981v-1.16c1.886-0.58 3.554-1.16 5.439-1.886 1.287 1.5 2.688 2.832 4.214 4.013l0.065 0.048c-2.42-0.672-5.198-1.059-8.067-1.059-0.581 0-1.158 0.016-1.731 0.047l0.080-0.003zM630.282 255.565l1.378 1.088 0.363-0.58-1.741-0.508zM563.055 239.683l-0.001 0.001c0.261-0.254 0.575-0.452 0.943-0.581h-0.653v0.58zM559.356 205.235c-2.364-1.688-5.064-3.174-7.932-4.33l-0.263-0.094c1.324-0.503 2.399-0.991 3.441-1.535l-0.178 0.084c-0.736-2.082-1.744-3.885-3.004-5.479l0.030 0.040c1.537-0.355 2.892-0.879 4.145-1.565l-0.084 0.042c0.517 4.771 1.907 9.118 4.009 13.025l-0.093-0.188z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Teck"
+          ]
+        },
+        {
+          "id": 252,
+          "paths": [
+            "M512 101.022c-147.653 0-263.252 180.505-263.252 410.978s115.599 410.978 263.252 410.978 263.252-180.505 263.252-410.978-115.309-410.978-263.252-410.978zM765.824 512c0 225.178-111.465 401.55-253.824 401.55s-253.824-176.372-253.824-401.55 111.683-401.55 253.824-401.55 253.824 176.372 253.824 401.55z",
+            "M398.867 395.386c0-38.001-21.756-57.219-64.036-57.219h-22.046c-0.022-0-0.047-0.001-0.073-0.001-2.538 0-4.6 2.037-4.641 4.566l-0 0.004c0 0.508-1.305 54.318-1.305 114.148v73.246c0 0.881 0.714 1.595 1.595 1.595v0h6.237c0.881 0 1.595-0.714 1.595-1.595v0-53.738h18.856c44.383 0 62.151-31.184 63.891-60.338 0-1.958 0-20.451 0-20.669zM389.512 395.386c0 2.973 0 18.783 0 20.088-0.725 12.039-6.817 51.49-54.463 51.49h-18.856v-10.080c0-49.459 0.87-94.278 1.16-109.29h17.695c37.276 0 54.608 15.157 54.608 47.792z",
+            "M457.682 338.312h-9.355c-0.012-0-0.026-0-0.040-0-2.204 0-4.048 1.536-4.523 3.595l-0.006 0.031-45.761 187.467c-0.086 0.169-0.136 0.369-0.136 0.58s0.050 0.411 0.139 0.588l-0.003-0.007c0.219 0.37 0.58 0.636 1.005 0.724l0.010 0.002 6.019 1.523h0.435c0.731-0.040 1.333-0.544 1.52-1.221l0.003-0.012 10.443-42.788h68.46l9.645 42.715c0.186 0.734 0.84 1.268 1.619 1.268 0.12 0 0.237-0.013 0.35-0.037l-0.011 0.002 6.019-1.378c0.436-0.090 0.797-0.356 1.011-0.718l0.004-0.007c0.069-0.172 0.109-0.371 0.109-0.58s-0.040-0.408-0.113-0.591l0.004 0.011-42.207-187.467c-0.482-2.131-2.36-3.699-4.603-3.699-0.013 0-0.027 0-0.040 0l0.002-0zM419.898 479.148l32.127-131.046h1.886l29.589 131.408z",
+            "M580.17 463.701c9.355-4.424 27.631-18.638 27.631-62.731 0-45.761-15.447-62.803-56.929-62.803h-24.802c-2.603 0-4.714 2.11-4.714 4.714v-0 187.25c0 0.881 0.714 1.595 1.595 1.595v0h6.454c0.881 0 1.595-0.714 1.595-1.595v0-182.536h20.161c36.261 0 47.501 12.981 47.501 53.376 0 49.967-24.44 55.116-25.382 55.334-1.482 0.225-2.716 1.124-3.396 2.369l-0.012 0.024c-0.291 0.605-0.462 1.316-0.462 2.067s0.17 1.461 0.474 2.096l-0.013-0.029 30.604 69.185c0.172 0.392 0.478 0.698 0.86 0.866l0.011 0.004h0.58c0.098 0.032 0.21 0.050 0.326 0.050s0.229-0.018 0.334-0.052l-0.008 0.002 5.729-2.466c0.557-0.257 0.936-0.811 0.936-1.453 0-0.235-0.051-0.459-0.143-0.66l0.004 0.010z",
+            "M714.044 502.137l-6.092-1.088c-0.094-0.020-0.201-0.031-0.311-0.031-0.79 0-1.445 0.573-1.573 1.327l-0.001 0.009c-2.683 15.52-13.199 24.15-30.531 25.020h-3.046c-17.188 0-27.848-5.802-32.562-17.768-2.103-5.584-3.408-11.603-3.408-62.296 0-67.735 2.321-81.224 3.336-83.907 4.786-12.256 15.157-17.985 32.635-17.985 19.218 0 30.894 8.703 33.65 25.092 0.077 0.445 0.314 0.825 0.649 1.085l0.004 0.003c0.171 0.073 0.371 0.115 0.58 0.115s0.409-0.042 0.59-0.119l-0.010 0.004 6.164-1.015c0.757-0.134 1.324-0.787 1.324-1.572 0-0.085-0.007-0.168-0.019-0.25l0.001 0.009c-3.626-21.249-18.856-32.997-42.933-32.997-21.756 0-35.1 7.905-41.482 24.077-1.088 2.901-3.916 10.516-3.916 87.025 0 52.505 1.378 58.597 3.989 65.704 6.237 16.317 20.161 24.077 41.41 24.077h3.481c21.756-1.088 36.261-12.764 39.379-32.852 0.019-0.091 0.030-0.195 0.030-0.302 0-0.775-0.579-1.415-1.328-1.511l-0.008-0.001z",
+            "M362.606 551.161h-4.061c-0.022-0.001-0.047-0.001-0.073-0.001-1.442 0-2.611 1.169-2.611 2.611 0 0 0 0.001 0 0.001l-0-0v109.217l-31.547-108.782-0.435-0.943c-0.761-1.387-2.185-2.327-3.835-2.393l-0.009-0h-8.703c-0.026-0.001-0.056-0.001-0.086-0.001-1.253 0-2.382 0.529-3.175 1.376l-0.002 0.002c-0.893 0.812-1.451 1.979-1.451 3.276 0 0.021 0 0.042 0 0.063l-0-0.003v95.003c-0.051 0.185-0.081 0.397-0.081 0.616s0.029 0.432 0.085 0.633l-0.004-0.017 4.424 8.122c0.469 0.86 1.362 1.437 2.391 1.45l0.002 0c1.466-0.039 2.644-1.217 2.683-2.68l0-0.004v-98.629l33.432 115.381c0.33 2.298 2.28 4.047 4.64 4.061l0.001 0h5.149c3.204 0 5.802-2.598 5.802-5.802v0-120.168c-0.145-1.309-1.213-2.327-2.532-2.393l-0.006-0z",
+            "M411.703 550.509h-5.584c-0.013-0-0.029-0-0.045-0-1.84 0-3.426 1.088-4.15 2.655l-0.012 0.028c-0.006 0.087-0.010 0.188-0.010 0.29s0.004 0.203 0.011 0.304l-0.001-0.014v0.725l-24.802 122.561c-0.066 0.172-0.104 0.372-0.104 0.58s0.038 0.408 0.108 0.592l-0.004-0.011c0.236 0.353 0.589 0.612 1.003 0.722l0.012 0.003 6.092 1.233h0.145c0.005 0 0.010 0 0.016 0 0.764 0 1.397-0.563 1.506-1.297l0.001-0.008 8.412-40.684h29.008l8.050 40.467c0.121 0.731 0.748 1.282 1.504 1.282 0.136 0 0.267-0.018 0.392-0.051l-0.011 0.002 6.092-1.16c0.436-0.090 0.797-0.356 1.011-0.718l0.004-0.007c0.069-0.172 0.109-0.371 0.109-0.58s-0.040-0.408-0.113-0.591l0.004 0.011-24.367-123.286c-0.481-2.091-2.325-3.626-4.529-3.626-0.014 0-0.028 0-0.042 0l0.002-0zM421.203 628.397h-24.947l12.764-62.948z",
+            "M482.049 550.509h-45.253c-0.022-0.001-0.048-0.002-0.074-0.002-0.841 0-1.523 0.682-1.523 1.523 0 0.026 0.001 0.052 0.002 0.078l-0-0.004v6.309c0 0.881 0.714 1.595 1.595 1.595v0h18.058v117.92c-0.001 0.022-0.002 0.047-0.002 0.073 0 0.881 0.714 1.595 1.595 1.595 0.001 0 0.001-0 0.002-0l6.237 0c0 0 0.001 0 0.002 0 0.881 0 1.595-0.714 1.595-1.595 0-0.026-0.001-0.051-0.002-0.076l0 0.004v-117.992h17.768c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M547.68 550.219h-6.164c-0.921 0-1.668 0.747-1.668 1.668v0 95.801c0 15.81-6.019 23.859-17.913 23.859s-17.985-8.050-17.985-23.859v-95.801c0.001-0.022 0.002-0.047 0.002-0.073 0-0.881-0.714-1.595-1.595-1.595-0.001 0-0.001 0-0.002 0l-6.237-0c-0-0-0.001-0-0.002-0-0.881 0-1.595 0.714-1.595 1.595 0 0.026 0.001 0.051 0.002 0.076l-0-0.004v95.801c0 21.176 10.008 33.287 27.413 33.287s27.413-12.111 27.413-33.287v-95.801c0-0.921-0.747-1.668-1.668-1.668v0z",
+            "M619.549 587.422c0-32.707-18.058-36.841-33.795-36.841h-17.042c-2.587 0.040-4.674 2.127-4.714 4.71l-0 0.004v122.633c-0.001 0.022-0.002 0.047-0.002 0.073 0 0.881 0.714 1.595 1.595 1.595 0.001 0 0.001-0 0.002-0l6.237 0c0 0 0.001 0 0.002 0 0.881 0 1.595-0.714 1.595-1.595 0-0.026-0.001-0.051-0.002-0.076l0 0.004v-117.992h12.329c15.81 0 24.367 4.351 24.367 27.413 0 13.634-3.699 21.756-11.241 25.165l-1.741 0.798c-1.657 0.755-2.788 2.397-2.788 4.303 0 0.456 0.065 0.897 0.186 1.315l-0.008-0.033 17.042 60.338c0.125 0.418 0.413 0.754 0.789 0.939l0.009 0.004c0.119 0.035 0.257 0.056 0.399 0.056s0.279-0.020 0.409-0.059l-0.010 0.003h0.435l5.947-1.668c0.702-0.177 1.214-0.804 1.214-1.549 0-0.145-0.019-0.286-0.056-0.42l0.003 0.011-16.027-56.567c10.008-5.367 14.867-16.1 14.867-32.78z",
+            "M680.322 550.509h-40.757c-2.603 0-4.714 2.11-4.714 4.714v0 119.588c0.040 2.587 2.127 4.674 4.71 4.714l0.004 0h40.757c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-36.261v-48.807h25.382c0.022 0.001 0.047 0.002 0.073 0.002 0.881 0 1.595-0.714 1.595-1.595 0-0.001-0-0.001-0-0.002l0 0v-6.237c0-0 0-0.001 0-0.002 0-0.881-0.714-1.595-1.595-1.595-0.026 0-0.051 0.001-0.076 0.002l0.004-0h-25.382v-51.925h36.261c0.764-0.108 1.349-0.743 1.378-1.52l0-0.003v-6.237c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M721.949 670.894c-0.277-0.451-0.752-0.757-1.3-0.797l-0.006-0h-18.058v-118.282c0-0 0-0.001 0-0.002 0-0.881-0.714-1.595-1.595-1.595-0.026 0-0.051 0.001-0.076 0.002l0.004-0h-6.164c-0.881 0-1.595 0.714-1.595 1.595v0 123.286c0.040 2.587 2.127 4.674 4.71 4.714l0.004 0h17.985c1.748-0.024 3.253-1.041 3.977-2.512l0.012-0.026 2.248-4.569c0.122-0.22 0.193-0.482 0.193-0.761s-0.072-0.541-0.198-0.77l0.004 0.008z",
+            "M378.271 225.396c-0.29-0.326-0.697-0.541-1.154-0.58l-0.006-0c-0.87 0-1.305 0-10.733 11.603-0.019 0.087-0.029 0.187-0.029 0.29s0.011 0.203 0.031 0.3l-0.002-0.009-19.073 66.792-9.065-36.913c-0.13-0.517-0.512-0.923-1.005-1.085l-0.011-0.003c-0.204-0.138-0.455-0.22-0.725-0.22s-0.521 0.082-0.73 0.223l0.005-0.003-5.512 3.844c-0.39 0.279-0.641 0.731-0.641 1.242 0 0.152 0.022 0.299 0.064 0.437l-0.003-0.011 10.443 42.497c0.366 2.394 2.41 4.207 4.878 4.207 0.019 0 0.038-0 0.056-0l-0.003 0h4.206c0.023 0 0.051 0.001 0.078 0.001 2.376 0 4.354-1.706 4.776-3.959l0.005-0.030 24.875-87.025c0.101-0.224 0.161-0.486 0.161-0.761s-0.059-0.537-0.165-0.773l0.005 0.012z",
+            "M468.487 308.36h-18.856v-145.042c0-0.011 0-0.025 0-0.038 0-0.576-0.319-1.077-0.79-1.335l-0.008-0.004c-0.232-0.122-0.506-0.194-0.798-0.194s-0.566 0.072-0.807 0.198l0.010-0.005-6.237 3.336c-0.482 0.298-0.798 0.824-0.798 1.423 0 0.010 0 0.019 0 0.029l-0-0.001v146.058c0 2.764 2.24 5.004 5.004 5.004v0h23.279c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M571.467 161.867l-5.802-2.828c-0.22-0.122-0.482-0.193-0.761-0.193s-0.541 0.072-0.77 0.198l0.008-0.004c-0.439 0.272-0.727 0.752-0.727 1.299 0 0.028 0.001 0.056 0.002 0.083l-0-0.004v130.538c0 12.401-4.424 18.71-13.271 18.71s-13.489-6.382-13.489-18.783v-141.271c0-0.003 0-0.007 0-0.010 0-0.7-0.45-1.294-1.077-1.509l-0.011-0.003-6.164-1.886c-0.201-0.099-0.438-0.156-0.689-0.156s-0.487 0.058-0.698 0.161l0.009-0.004c-0.396 0.263-0.653 0.707-0.653 1.211 0 0.008 0 0.015 0 0.023l-0-0.001v143.447c0 17.84 8.267 28.138 22.627 28.138s22.699-10.298 22.699-28.138v-127.565c0-0.013 0.001-0.027 0.001-0.042 0-0.632-0.385-1.174-0.933-1.405l-0.010-0.004z",
+            "M633.328 213.14v-0.87c-0.725-28.283-37.493-41.41-39.161-41.99-1.117-0.574-2.422-0.962-3.803-1.085l-0.040-0.003c-0.043-0.003-0.094-0.004-0.145-0.004-1.362 0-2.466 1.104-2.466 2.466 0 0.002 0 0.003 0 0.005l-0-0v144.39c0 0.881 0.714 1.595 1.595 1.595v0h6.237c0.422-0.002 0.804-0.167 1.089-0.436l-0.001 0.001c0.288-0.305 0.475-0.708 0.507-1.154l0-0.006v-134.237c9.573 4.569 26.76 15.157 26.76 31.257 0 12.184-3.626 22.989-8.122 25.165l-0.943 0.435c-1.597 0.798-2.675 2.421-2.675 4.295 0 0.276 0.023 0.546 0.068 0.809l-0.004-0.028 12.764 73.392c0.053 0.432 0.298 0.797 0.647 1.012l0.006 0.003c0.141 0.050 0.303 0.079 0.471 0.079s0.331-0.029 0.482-0.082l-0.010 0.003 6.164-1.088c0.757-0.134 1.324-0.787 1.324-1.572 0-0.085-0.007-0.168-0.019-0.25l0.001 0.009-12.184-70.128c8.34-5.802 11.386-20.306 11.458-31.982z",
+            "M688.444 289.215c-0.397-10.594-7.837-19.343-17.755-21.724l-0.158-0.032-6.382-2.176c-6.907-3.523-11.555-10.584-11.555-18.731 0-0.708 0.035-1.408 0.104-2.098l-0.007 0.087c-0.072-0.604-0.113-1.304-0.113-2.014 0-4.855 1.923-9.26 5.050-12.495l-0.005 0.005c0.843-0.495 1.856-0.787 2.937-0.787s2.095 0.292 2.965 0.802l-0.028-0.015c9.26 5.199 15.434 14.923 15.519 26.096l0 0.012c-0 0-0 0.001-0 0.002 0 0.881 0.714 1.595 1.595 1.595 0.026 0 0.051-0.001 0.076-0.002l-0.004 0h6.164c0 0 0.001 0 0.002 0 0.881 0 1.595-0.714 1.595-1.595 0-0.026-0.001-0.051-0.002-0.076l0 0.004c-0.283-14.901-8.726-27.767-21.035-34.343l-0.214-0.104c-2.051-1.128-4.494-1.791-7.093-1.791-2.904 0-5.615 0.829-7.909 2.263l0.063-0.037c-5.806 4.744-9.483 11.905-9.483 19.924 0 0.901 0.046 1.79 0.137 2.667l-0.009-0.11c-0.028 0.49-0.045 1.064-0.045 1.641 0 12.338 7.388 22.95 17.982 27.653l0.193 0.076 5.729 2.103h0.653c8.775 3.263 11.168 6.309 11.748 14.504-0.010 0.087-0.015 0.188-0.015 0.29s0.006 0.203 0.016 0.302l-0.001-0.012c0 15.302-4.569 18.058-13.924 18.058s-13.634-4.641-14.142-15.955c-0.076-0.776-0.726-1.378-1.516-1.378-0.002 0-0.005 0-0.007 0l0-0h-0.435l-5.512-1.015c-0.183-0.068-0.395-0.108-0.616-0.108s-0.433 0.040-0.629 0.112l0.013-0.004c-0.338 0.263-0.576 0.643-0.651 1.077l-0.001 0.010s0 0.58 0 1.45c0.725 16.317 8.92 25.020 23.569 25.020 16.39 0.725 23.642-8.050 23.642-27.631 0.050-0.229 0.079-0.492 0.079-0.761s-0.029-0.533-0.084-0.786l0.004 0.024z",
+            "M408.802 189.353c-0.001-0-0.001-0-0.002-0-0.468 0-0.898 0.164-1.234 0.438l0.004-0.003c-0.363 0.435-5.512 5.076-8.703 7.905-1.179 0.974-2.013 2.329-2.314 3.874l-0.007 0.042-19.436 114.439c-0.012 0.076-0.019 0.164-0.019 0.253 0 0.8 0.563 1.468 1.314 1.63l0.011 0.002 5.947 1.16c0.799-0.023 1.456-0.605 1.594-1.368l0.002-0.010 7.905-46.631h19.508l7.252 46.631c0.088 0.42 0.323 0.773 0.648 1.012l0.005 0.003c0.181 0.082 0.393 0.13 0.616 0.13s0.435-0.048 0.626-0.134l-0.010 0.004 6.164-0.943c0.762-0.164 1.325-0.833 1.325-1.632 0-0.089-0.007-0.177-0.021-0.263l0.001 0.009c-19.436-125.824-19.871-126.767-21.756-126.767zM411.558 261.657h-15.665l8.34-49.024z",
+            "M517.657 142.867h-31.764c-2.764 0-5.004 2.24-5.004 5.004v0s0 26.47 0 72.884c0 43.513 0 91.594 0 92.029-0 0.022-0.001 0.047-0.001 0.073 0 2.764 2.24 5.004 5.004 5.004 0 0 0-0 0.001-0l31.619 0c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-27.050c0-11.893 0-45.833 0-78.903h21.756c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-21.756c0-35.753 0-59.395 0-67.807h27.268c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M375.805 728.984c0-16.027-9.645-23.497-30.241-23.497h-11.023c-0.022-0-0.047-0.001-0.073-0.001-2.724 0-4.931 2.208-4.931 4.931 0 0 0 0 0 0.001l-0-0v42.135c-0.045 0.141-0.071 0.303-0.071 0.471s0.026 0.33 0.074 0.483l-0.003-0.011 3.916 5.367c0.548 0.691 1.38 1.137 2.317 1.16l0.004 0c0.022 0.001 0.047 0.001 0.073 0.001 1.562 0 2.828-1.266 2.828-2.828 0-0-0-0.001-0-0.001l0 0v-42.28h6.599c17.333 0 20.814 5.367 20.814 14.069 0.055 0.506 0.087 1.092 0.087 1.686 0 6.302-3.557 11.773-8.772 14.516l-0.090 0.043h-0.943c-1.833 0.649-3.122 2.367-3.122 4.386 0 0.296 0.028 0.585 0.080 0.865l-0.005-0.029 6.527 45.543c0.076 0.312 0.228 0.582 0.436 0.798l-0.001-0.001 4.714 5.439c0.548 0.624 1.347 1.015 2.238 1.015 0.004 0 0.007-0 0.011-0l-0.001 0c0.903-0.026 1.704-0.442 2.244-1.083l0.004-0.005c0.473-0.504 0.763-1.184 0.763-1.932 0-0.163-0.014-0.322-0.040-0.478l0.002 0.017-7.252-47.211c7.442-4.719 12.31-12.913 12.31-22.244 0-0.594-0.020-1.183-0.059-1.767l0.004 0.079z",
+            "M412.283 705.487h-24.295c-1.301 0.007-2.478 0.532-3.337 1.378l0.001-0.001c-1.45 1.45-1.45 1.45-1.45 20.451v37.566c0 27.268 0 54.536 0 54.536 0 2.603 2.11 4.714 4.714 4.714v0h24.295c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-19.581c0-12.836 0-31.547 0-49.605h16.607c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-16.607v-40.757h19.653c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M388.569 699.177h19.581c0.881 0 1.595-0.714 1.595-1.595v0-6.237c0-0.881-0.714-1.595-1.595-1.595v0h-19.581c-0.881 0-1.595 0.714-1.595 1.595v0 6.237c0 0.881 0.714 1.595 1.595 1.595v0z",
+            "M462.033 773.802h-16.1c-0.881 0-1.595 0.714-1.595 1.595v0 6.237c0 0.881 0.714 1.595 1.595 1.595v0h11.676c0 31.039-0.653 61.425-1.378 64.036-2.223 4.338-6.663 7.255-11.785 7.255s-9.562-2.917-11.75-7.181l-0.035-0.074c0-0.725-0.87-7.252-1.305-69.475 0-14.504 0-27.268 0-34.52v-1.378c0-9.21 0-17.84 0.435-18.856 0.344-0.596 0.662-1.29 0.916-2.015l0.027-0.088c1.454-4.32 5.467-7.376 10.195-7.376 0.574 0 1.138 0.045 1.687 0.132l-0.061-0.008c0.239-0.018 0.517-0.028 0.798-0.028 6.368 0 11.531 5.163 11.531 11.531 0 0.010-0 0.019-0 0.029l0-0.002c0.081 0.43 0.287 0.802 0.58 1.087l0 0c0.183 0.068 0.395 0.108 0.616 0.108s0.433-0.040 0.629-0.112l-0.013 0.004 6.164-0.87c0.757-0.134 1.324-0.787 1.324-1.572 0-0.085-0.007-0.168-0.019-0.25l0.001 0.009c-0.693-10.891-9.696-19.463-20.702-19.463-0.371 0-0.74 0.010-1.106 0.029l0.051-0.002c-0.555-0.055-1.2-0.087-1.852-0.087-8.816 0-16.286 5.762-18.85 13.726l-0.039 0.14c-0.012 0.087-0.019 0.188-0.019 0.29s0.007 0.203 0.021 0.301l-0.001-0.011c-1.305 2.393-1.595 2.828-1.595 23.424v1.378c0 7.252 0 20.016 0 34.593 0.435 68.46 1.305 70.781 1.741 72.086 3.485 8.179 11.456 13.808 20.741 13.808s17.256-5.629 20.685-13.661l0.056-0.147c1.813-5.076 1.886-58.017 1.886-68.315v-3.263c0-0 0-0 0-0.001 0-2.724-2.208-4.931-4.931-4.931-0.025 0-0.051 0-0.076 0.001l0.004-0z",
+            "M542.676 717.96c-3.814-8.186-11.971-13.758-21.43-13.758s-17.616 5.572-21.369 13.613l-0.061 0.145c0.011 0.087 0.017 0.188 0.017 0.29s-0.006 0.203-0.018 0.302l0.001-0.012c-1.45 2.393-1.668 2.828-1.668 23.497v94.278c0 22.989 0.435 26.18 1.886 30.169 3.855 8.133 11.997 13.657 21.43 13.657s17.575-5.524 21.369-13.514l0.061-0.143c1.45-3.989 1.886-7.252 1.958-30.386v-94.278c0-20.669 0-21.104-1.668-23.497-0.007-0.076-0.010-0.164-0.010-0.254s0.004-0.178 0.011-0.265l-0.001 0.011zM535.932 741.82v94.278c0 21.756-0.435 24.585-1.378 27.195-2.558 4.352-7.216 7.226-12.546 7.226s-9.988-2.875-12.509-7.158l-0.037-0.068c-0.943-2.611-1.378-5.802-1.378-26.978v-94.278c0-9.138 0-17.768 0.363-18.783 0.355-0.592 0.696-1.284 0.981-2.005l0.034-0.098c2.558-4.352 7.216-7.226 12.546-7.226s9.988 2.875 12.509 7.158l0.037 0.068c0.245 0.746 0.565 1.395 0.961 1.987l-0.018-0.029c0.363 1.088 0.435 9.718 0.435 18.856z",
+            "M605.552 707.155h-6.237c-0.455 0.019-0.862 0.209-1.16 0.508l0-0c-0.27 0.295-0.436 0.69-0.436 1.124 0 0.013 0 0.026 0 0.038l-0-0.002v123.866l-23.569-123.286c-0.425-2.203-2.337-3.844-4.633-3.844-0.003 0-0.006 0-0.009 0l0-0h-7.47c-0.022-0-0.047-0.001-0.073-0.001-2.724 0-4.931 2.208-4.931 4.931 0 0 0 0 0 0.001l-0-0v159.547c-0.001 0.016-0.001 0.036-0.001 0.055 0 0.516 0.256 0.972 0.649 1.247l0.005 0.003c0.142 0.035 0.304 0.055 0.471 0.055s0.33-0.020 0.485-0.058l-0.014 0.003h0.58l6.237-2.321c0.589-0.234 1-0.792 1.015-1.449l0-0.002v-149.611l25.237 132.206c0.266 1.603 1.348 2.902 2.798 3.47l0.031 0.011c0.63 0.341 1.379 0.542 2.176 0.542s1.545-0.2 2.2-0.554l-0.025 0.012 6.382-4.206c1.314-0.818 2.176-2.254 2.176-3.892 0-0.009-0-0.017-0-0.026l0 0.001v-136.267c0-0.881-0.714-1.595-1.595-1.595v0z",
+            "M642.103 705.487h-4.859c-0.020-0-0.044-0-0.068-0-2.166 0-4.010 1.376-4.707 3.302l-0.011 0.035c-0.031 0.196-0.048 0.422-0.048 0.653s0.018 0.457 0.052 0.677l-0.003-0.025-16.027 122.416c-0.008 0.087-0.013 0.188-0.013 0.291 0 1.781 1.427 3.229 3.201 3.263l0.003 0c0.022 0.001 0.049 0.001 0.075 0.001 0.785 0 1.498-0.304 2.029-0.8l-0.002 0.002 4.569-4.061c0.309-0.227 0.508-0.589 0.508-0.997 0-0.006-0-0.013-0-0.019l0 0.001 7.977-65.704h11.821l5.729 35.245c0.075 0.602 0.509 1.084 1.078 1.231l0.010 0.002c0.23 0.128 0.505 0.203 0.798 0.203s0.567-0.075 0.806-0.207l-0.009 0.004 5.004-4.931c0.565-0.575 0.913-1.364 0.913-2.235 0-0.184-0.016-0.364-0.046-0.54l0.003 0.019-13.779-83.254c-0.491-2.415-2.597-4.206-5.122-4.206-0.010 0-0.019 0-0.029 0l0.001-0zM645.076 755.454h-8.993l3.844-31.547z",
+            "M689.314 751.393c-0.571-0.92-1.575-1.523-2.72-1.523-0.012 0-0.025 0-0.037 0l0.002-0h-10.878c0-8.63 0-27.848 0-41.482-0.019-0.455-0.209-0.862-0.508-1.16l0 0c-0.264-0.269-0.631-0.436-1.037-0.436-0.018 0-0.036 0-0.054 0.001l0.003-0h-6.237c-0.017-0.001-0.037-0.001-0.057-0.001-0.441 0-0.836 0.197-1.102 0.507l-0.002 0.002c-0.269 0.264-0.436 0.631-0.436 1.037 0 0.018 0 0.036 0.001 0.054l-0-0.003c0 48.009 0 48.009 1.378 49.677 0.732 0.803 1.783 1.305 2.951 1.305 0.008 0 0.016-0 0.023-0l-0.001 0h14.504c1.594-0.018 2.965-0.95 3.615-2.296l0.011-0.024 1.088-2.538c0.257-0.437 0.408-0.962 0.408-1.523s-0.152-1.086-0.416-1.537l0.008 0.014z",
+            "M484.369 706.212h-6.164c-0.881 0-1.595 0.714-1.595 1.595v0 165.493c0 0.881 0.714 1.595 1.595 1.595v0h6.164c0.022 0.001 0.047 0.002 0.073 0.002 0.881 0 1.595-0.714 1.595-1.595 0-0.001-0-0.001-0-0.002l0 0v-165.493c0-0 0-0.001 0-0.002 0-0.881-0.714-1.595-1.595-1.595-0.026 0-0.051 0.001-0.076 0.002l0.004-0z"
+          ],
+          "attrs": [
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(169, 17, 44)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            },
+            {
+              "fill": "rgb(0, 147, 111)"
+            }
+          ],
+          "isMulticolor": true,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "Valeurs-Parc"
+          ]
+        },
         {
           "id": 251,
           "paths": [
@@ -10705,7 +11008,7 @@
           "name": "Departement-971",
           "prevSize": 32,
           "code": 60277,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1471,
@@ -10713,7 +11016,7 @@
           "name": "Departement-01",
           "prevSize": 32,
           "code": 60161,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1472,
@@ -10721,7 +11024,7 @@
           "name": "Departement-02",
           "prevSize": 32,
           "code": 60162,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1473,
@@ -10729,7 +11032,7 @@
           "name": "Departement-2A",
           "prevSize": 32,
           "code": 60163,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1474,
@@ -10737,7 +11040,7 @@
           "name": "Departement-2B",
           "prevSize": 32,
           "code": 60164,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1475,
@@ -10745,7 +11048,7 @@
           "name": "Departement-03",
           "prevSize": 32,
           "code": 60165,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1476,
@@ -10753,7 +11056,7 @@
           "name": "Departement-04",
           "prevSize": 32,
           "code": 60166,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1477,
@@ -10761,7 +11064,7 @@
           "name": "Departement-05",
           "prevSize": 32,
           "code": 60167,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1478,
@@ -10769,7 +11072,7 @@
           "name": "Departement-06",
           "prevSize": 32,
           "code": 60168,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1479,
@@ -10777,7 +11080,7 @@
           "name": "Departement-07",
           "prevSize": 32,
           "code": 60169,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1480,
@@ -10785,7 +11088,7 @@
           "name": "Departement-08",
           "prevSize": 32,
           "code": 60170,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1481,
@@ -10793,7 +11096,7 @@
           "name": "Departement-09",
           "prevSize": 32,
           "code": 60171,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1482,
@@ -10801,7 +11104,7 @@
           "name": "Departement-10",
           "prevSize": 32,
           "code": 60172,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1483,
@@ -10809,7 +11112,7 @@
           "name": "Departement-11",
           "prevSize": 32,
           "code": 60173,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1484,
@@ -10817,7 +11120,7 @@
           "name": "Departement-12",
           "prevSize": 32,
           "code": 60174,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1485,
@@ -10825,7 +11128,7 @@
           "name": "Departement-13",
           "prevSize": 32,
           "code": 60175,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1486,
@@ -10833,7 +11136,7 @@
           "name": "Departement-14",
           "prevSize": 32,
           "code": 60176,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1487,
@@ -10841,7 +11144,7 @@
           "name": "Departement-15",
           "prevSize": 32,
           "code": 60177,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1488,
@@ -10849,7 +11152,7 @@
           "name": "Departement-16",
           "prevSize": 32,
           "code": 60178,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1489,
@@ -10857,7 +11160,7 @@
           "name": "Departement-17",
           "prevSize": 32,
           "code": 60179,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1490,
@@ -10865,7 +11168,7 @@
           "name": "Departement-18",
           "prevSize": 32,
           "code": 60180,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1491,
@@ -10873,7 +11176,7 @@
           "name": "Departement-19",
           "prevSize": 32,
           "code": 60181,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1492,
@@ -10881,7 +11184,7 @@
           "name": "Departement-21",
           "prevSize": 32,
           "code": 60182,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1493,
@@ -10889,7 +11192,7 @@
           "name": "Departement-22",
           "prevSize": 32,
           "code": 60183,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1494,
@@ -10897,7 +11200,7 @@
           "name": "Departement-23",
           "prevSize": 32,
           "code": 60184,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1495,
@@ -10905,7 +11208,7 @@
           "name": "Departement-24",
           "prevSize": 32,
           "code": 60185,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1496,
@@ -10913,7 +11216,7 @@
           "name": "Departement-25",
           "prevSize": 32,
           "code": 60186,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1497,
@@ -10921,7 +11224,7 @@
           "name": "Departement-26",
           "prevSize": 32,
           "code": 60187,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1498,
@@ -10929,7 +11232,7 @@
           "name": "Departement-27",
           "prevSize": 32,
           "code": 60188,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1499,
@@ -10937,7 +11240,7 @@
           "name": "Departement-28",
           "prevSize": 32,
           "code": 60189,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1500,
@@ -10945,7 +11248,7 @@
           "name": "Departement-29",
           "prevSize": 32,
           "code": 60190,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1501,
@@ -10953,7 +11256,7 @@
           "name": "Departement-30",
           "prevSize": 32,
           "code": 60191,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1502,
@@ -10961,7 +11264,7 @@
           "name": "Departement-31",
           "prevSize": 32,
           "code": 60192,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1503,
@@ -10969,7 +11272,7 @@
           "name": "Departement-32",
           "prevSize": 32,
           "code": 60193,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1504,
@@ -10977,7 +11280,7 @@
           "name": "Departement-33",
           "prevSize": 32,
           "code": 60194,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1505,
@@ -10985,7 +11288,7 @@
           "name": "Departement-34",
           "prevSize": 32,
           "code": 60195,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1506,
@@ -10993,7 +11296,7 @@
           "name": "Departement-35",
           "prevSize": 32,
           "code": 60196,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1507,
@@ -11001,7 +11304,7 @@
           "name": "Departement-36",
           "prevSize": 32,
           "code": 60197,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1508,
@@ -11009,7 +11312,7 @@
           "name": "Departement-37",
           "prevSize": 32,
           "code": 60198,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1509,
@@ -11017,7 +11320,7 @@
           "name": "Departement-38",
           "prevSize": 32,
           "code": 60199,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1510,
@@ -11025,7 +11328,7 @@
           "name": "Departement-39",
           "prevSize": 32,
           "code": 60200,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1511,
@@ -11033,7 +11336,7 @@
           "name": "Departement-40",
           "prevSize": 32,
           "code": 60201,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1512,
@@ -11041,7 +11344,7 @@
           "name": "Departement-41",
           "prevSize": 32,
           "code": 60202,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1513,
@@ -11049,7 +11352,7 @@
           "name": "Departement-42",
           "prevSize": 32,
           "code": 60203,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1514,
@@ -11057,7 +11360,7 @@
           "name": "Departement-43",
           "prevSize": 32,
           "code": 60204,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1515,
@@ -11065,7 +11368,7 @@
           "name": "Departement-44",
           "prevSize": 32,
           "code": 60205,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1516,
@@ -11073,7 +11376,7 @@
           "name": "Departement-45",
           "prevSize": 32,
           "code": 60206,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1517,
@@ -11081,7 +11384,7 @@
           "name": "Departement-46",
           "prevSize": 32,
           "code": 60207,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1518,
@@ -11089,7 +11392,7 @@
           "name": "Departement-47",
           "prevSize": 32,
           "code": 60208,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1519,
@@ -11097,7 +11400,7 @@
           "name": "Departement-48",
           "prevSize": 32,
           "code": 60209,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1520,
@@ -11105,7 +11408,7 @@
           "name": "Departement-49",
           "prevSize": 32,
           "code": 60210,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1521,
@@ -11113,7 +11416,7 @@
           "name": "Departement-50",
           "prevSize": 32,
           "code": 60211,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1522,
@@ -11121,7 +11424,7 @@
           "name": "Departement-51",
           "prevSize": 32,
           "code": 60212,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1523,
@@ -11129,7 +11432,7 @@
           "name": "Departement-52",
           "prevSize": 32,
           "code": 60213,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1524,
@@ -11137,7 +11440,7 @@
           "name": "Departement-53",
           "prevSize": 32,
           "code": 60214,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1525,
@@ -11145,7 +11448,7 @@
           "name": "Departement-54",
           "prevSize": 32,
           "code": 60215,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1526,
@@ -11153,7 +11456,7 @@
           "name": "Departement-55",
           "prevSize": 32,
           "code": 60216,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1527,
@@ -11161,7 +11464,7 @@
           "name": "Departement-56",
           "prevSize": 32,
           "code": 60217,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1528,
@@ -11169,7 +11472,7 @@
           "name": "Departement-57",
           "prevSize": 32,
           "code": 60218,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1529,
@@ -11177,7 +11480,7 @@
           "name": "Departement-58",
           "prevSize": 32,
           "code": 60219,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1530,
@@ -11185,7 +11488,7 @@
           "name": "Departement-59",
           "prevSize": 32,
           "code": 60220,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1531,
@@ -11193,7 +11496,7 @@
           "name": "Departement-60",
           "prevSize": 32,
           "code": 60221,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1532,
@@ -11201,7 +11504,7 @@
           "name": "Departement-61",
           "prevSize": 32,
           "code": 60222,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1533,
@@ -11209,7 +11512,7 @@
           "name": "Departement-62",
           "prevSize": 32,
           "code": 60223,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1534,
@@ -11217,7 +11520,7 @@
           "name": "Departement-63",
           "prevSize": 32,
           "code": 60224,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1535,
@@ -11225,7 +11528,7 @@
           "name": "Departement-64",
           "prevSize": 32,
           "code": 60225,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1536,
@@ -11233,7 +11536,7 @@
           "name": "Departement-65",
           "prevSize": 32,
           "code": 60226,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1537,
@@ -11241,7 +11544,7 @@
           "name": "Departement-66",
           "prevSize": 32,
           "code": 60227,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1538,
@@ -11249,7 +11552,7 @@
           "name": "Departement-67",
           "prevSize": 32,
           "code": 60228,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1539,
@@ -11257,7 +11560,7 @@
           "name": "Departement-68",
           "prevSize": 32,
           "code": 60229,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1540,
@@ -11265,7 +11568,7 @@
           "name": "Departement-69",
           "prevSize": 32,
           "code": 60230,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1541,
@@ -11273,7 +11576,7 @@
           "name": "Departement-70",
           "prevSize": 32,
           "code": 60231,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1542,
@@ -11281,7 +11584,7 @@
           "name": "Departement-71",
           "prevSize": 32,
           "code": 60232,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1543,
@@ -11289,7 +11592,7 @@
           "name": "Departement-72",
           "prevSize": 32,
           "code": 60233,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1544,
@@ -11297,7 +11600,7 @@
           "name": "Departement-73",
           "prevSize": 32,
           "code": 60234,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1545,
@@ -11305,7 +11608,7 @@
           "name": "Departement-74",
           "prevSize": 32,
           "code": 60235,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1546,
@@ -11313,7 +11616,7 @@
           "name": "Departement-75",
           "prevSize": 32,
           "code": 60236,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1547,
@@ -11321,7 +11624,7 @@
           "name": "Departement-76",
           "prevSize": 32,
           "code": 60237,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1548,
@@ -11329,7 +11632,7 @@
           "name": "Departement-77",
           "prevSize": 32,
           "code": 60238,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1549,
@@ -11337,7 +11640,7 @@
           "name": "Departement-78",
           "prevSize": 32,
           "code": 60239,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1550,
@@ -11345,7 +11648,7 @@
           "name": "Departement-79",
           "prevSize": 32,
           "code": 60240,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1551,
@@ -11353,7 +11656,7 @@
           "name": "Departement-80",
           "prevSize": 32,
           "code": 60241,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1552,
@@ -11361,7 +11664,7 @@
           "name": "Departement-81",
           "prevSize": 32,
           "code": 60242,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1553,
@@ -11369,7 +11672,7 @@
           "name": "Departement-82",
           "prevSize": 32,
           "code": 60243,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1554,
@@ -11377,7 +11680,7 @@
           "name": "Departement-83",
           "prevSize": 32,
           "code": 60244,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1555,
@@ -11385,7 +11688,7 @@
           "name": "Departement-84",
           "prevSize": 32,
           "code": 60245,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1556,
@@ -11393,7 +11696,7 @@
           "name": "Departement-85",
           "prevSize": 32,
           "code": 60246,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1557,
@@ -11401,7 +11704,7 @@
           "name": "Departement-86",
           "prevSize": 32,
           "code": 60247,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1558,
@@ -11409,7 +11712,7 @@
           "name": "Departement-87",
           "prevSize": 32,
           "code": 60248,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1559,
@@ -11417,7 +11720,7 @@
           "name": "Departement-88",
           "prevSize": 32,
           "code": 60249,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1560,
@@ -11425,7 +11728,7 @@
           "name": "Departement-89",
           "prevSize": 32,
           "code": 60250,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1561,
@@ -11433,7 +11736,7 @@
           "name": "Departement-90",
           "prevSize": 32,
           "code": 60251,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1562,
@@ -11441,7 +11744,7 @@
           "name": "Departement-91",
           "prevSize": 32,
           "code": 60252,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1563,
@@ -11449,7 +11752,7 @@
           "name": "Departement-92",
           "prevSize": 32,
           "code": 60253,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1564,
@@ -11457,7 +11760,7 @@
           "name": "Departement-93",
           "prevSize": 32,
           "code": 60254,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1565,
@@ -11465,7 +11768,7 @@
           "name": "Departement-94",
           "prevSize": 32,
           "code": 60255,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1566,
@@ -11473,7 +11776,7 @@
           "name": "Departement-95",
           "prevSize": 32,
           "code": 60256,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1567,
@@ -11481,7 +11784,7 @@
           "name": "Departement-972",
           "prevSize": 32,
           "code": 60257,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1568,
@@ -11489,7 +11792,7 @@
           "name": "Departement-973",
           "prevSize": 32,
           "code": 60258,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1569,
@@ -11497,7 +11800,7 @@
           "name": "Departement-974",
           "prevSize": 32,
           "code": 60259,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 1570,
@@ -11505,7 +11808,7 @@
           "name": "Departement-976",
           "prevSize": 32,
           "code": 60260,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
