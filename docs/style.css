@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tripleperformance';
-  src:  url('fonts/tripleperformance.eot?izpsh0');
-  src:  url('fonts/tripleperformance.eot?izpsh0#iefix') format('embedded-opentype'),
-    url('fonts/tripleperformance.ttf?izpsh0') format('truetype'),
-    url('fonts/tripleperformance.woff?izpsh0') format('woff'),
-    url('fonts/tripleperformance.svg?izpsh0#tripleperformance') format('svg');
+  src:  url('fonts/tripleperformance.eot?fhe530');
+  src:  url('fonts/tripleperformance.eot?fhe530#iefix') format('embedded-opentype'),
+    url('fonts/tripleperformance.ttf?fhe530') format('truetype'),
+    url('fonts/tripleperformance.woff?fhe530') format('woff'),
+    url('fonts/tripleperformance.svg?fhe530#tripleperformance') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -66,6 +66,9 @@
 }
 .tp-Icone-categorie-Retours-dexperience:before {
   content: "\eb70";
+}
+.tp-Silphie:before {
+  content: "\eb9c";
 }
 .tp-Grass:before {
   content: "\eb99";

@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izpsh0');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?izpsh0#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?izpsh0') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?izpsh0') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?izpsh0##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fhe530');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?fhe530#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?fhe530') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?fhe530') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?fhe530##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -95,6 +95,11 @@
 .tp-Icone-categorie-Retours-dexperience {
   &:before {
     content: $tp-Icone-categorie-Retours-dexperience; 
+  }
+}
+.tp-Silphie {
+  &:before {
+    content: $tp-Silphie; 
   }
 }
 .tp-Grass {
